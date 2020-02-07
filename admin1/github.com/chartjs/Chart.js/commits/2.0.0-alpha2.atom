@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.0-alpha2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.0-alpha2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.0-alpha2.atom"/>
+  <title>Recent Commits to Chart.js:2.0.0-alpha2</title>
+  <updated>2015-06-13T21:51:17Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/253158cf1cc47f3972da50413ef8e26825385111</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/253158cf1cc47f3972da50413ef8e26825385111"/>
+    <title>
+        Merge pull request #1208 from etimberg/feature/v2.0-scale-refactor
+    </title>
+    <updated>2015-06-13T21:51:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1208 from etimberg/feature/v2.0-scale-refactor
+
+Radial scale improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8c34bdbcd7d65b43f9b8281962a2c527672a9844</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8c34bdbcd7d65b43f9b8281962a2c527672a9844"/>
+    <title>
+        Clean up of radial linear scale. Radar chart update function improvem…
+    </title>
+    <updated>2015-06-13T21:45:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clean up of radial linear scale. Radar chart update function improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ecd3b58b281cf604ad871f91f167d4374e5cc75e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ecd3b58b281cf604ad871f91f167d4374e5cc75e"/>
+    <title>
+        Fix typo in linear scale.
+    </title>
+    <updated>2015-06-13T18:47:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo in linear scale.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41bac830c54ae064db1f6e01683ca033f0866e64</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/41bac830c54ae064db1f6e01683ca033f0866e64"/>
+    <title>
+        Merge pull request #1207 from etimberg/feature/v2.0-scale-refactor
+    </title>
+    <updated>2015-06-13T18:30:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1207 from etimberg/feature/v2.0-scale-refactor
+
+Move more scale configs into the scale defaults.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/47b25d1c6db94c509f7bbfc170d1727c9fbc77ad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/47b25d1c6db94c509f7bbfc170d1727c9fbc77ad"/>
+    <title>
+        Move linearRadial default config to be a property of the scale.
+    </title>
+    <updated>2015-06-13T18:16:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Move linearRadial default config to be a property of the scale.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/109de75c6a0124e7da82059778b14cd9cf4d595e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/109de75c6a0124e7da82059778b14cd9cf4d595e"/>
+    <title>
+        Create linear scale default settings. Cleaned up unnecessary settings…
+    </title>
+    <updated>2015-06-13T17:57:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create linear scale default settings. Cleaned up unnecessary settings from bar, line, and scatter default configs. Removed unnecessary config options from the affected sample files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42856ec16a3704b2cdaea8b2e9a483b438768a08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/42856ec16a3704b2cdaea8b2e9a483b438768a08"/>
+    <title>
+        Merge pull request #1206 from etimberg/feature/v2.0-scale-refactor
+    </title>
+    <updated>2015-06-13T17:33:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1206 from etimberg/feature/v2.0-scale-refactor
+
+Category scale now has defaults.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/faa43d51a952c111c90f5ea020f9647b216d927e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/faa43d51a952c111c90f5ea020f9647b216d927e"/>
+    <title>
+        Category scale now has defaults. Updated the bar &amp; line charts to use…
+    </title>
+    <updated>2015-06-13T17:25:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Category scale now has defaults. Updated the bar &amp;amp; line charts to use this new default.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3e4fce58faa4d0aae316da17f6d0f8b09e02bd87</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3e4fce58faa4d0aae316da17f6d0f8b09e02bd87"/>
+    <title>
+        Clone handles arrays better
+    </title>
+    <updated>2015-06-13T17:22:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clone handles arrays better&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b0bddce017c1e8fa0094e69213a096a98377907d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b0bddce017c1e8fa0094e69213a096a98377907d"/>
+    <title>
+        Remove some unused scale code
+    </title>
+    <updated>2015-06-13T15:45:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove some unused scale code&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b5c69984e3e757f89e4b0b0fc30a525af4bf78b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b5c69984e3e757f89e4b0b0fc30a525af4bf78b6"/>
+    <title>
+        Change spaces to tabs throughout
+    </title>
+    <updated>2015-06-13T14:15:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change spaces to tabs throughout&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a8375d0459c2bf4173afe736b5c57291237b1d7b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a8375d0459c2bf4173afe736b5c57291237b1d7b"/>
+    <title>
+        Merge pull request #1205 from etimberg/feature/v2.0-scale-refactor
+    </title>
+    <updated>2015-06-13T14:01:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1205 from etimberg/feature/v2.0-scale-refactor
+
+Move things into the radialLinear scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1f16b349d2a987ca7616343cc1d6dd4490cd8db4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1f16b349d2a987ca7616343cc1d6dd4490cd8db4"/>
+    <title>
+        Merge `Chart.scales` into `Chart.scaleService` to be consistent
+    </title>
+    <updated>2015-06-13T13:55:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge `Chart.scales` into `Chart.scaleService` to be consistent&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/30019dfddd123621d8ed77e8ce0277f3ff8d35e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/30019dfddd123621d8ed77e8ce0277f3ff8d35e5"/>
+    <title>
+        Move some of the radial linear scale functions into the radialLinear …
+    </title>
+    <updated>2015-06-13T13:51:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Move some of the radial linear scale functions into the radialLinear scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/61eea7f4a10a8ae773ee875bb9a60644b25c1aad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/61eea7f4a10a8ae773ee875bb9a60644b25c1aad"/>
+    <title>
+        Merge pull request #1204 from etimberg/feature/v2.0-scale-refactor
+    </title>
+    <updated>2015-06-13T13:06:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1204 from etimberg/feature/v2.0-scale-refactor
+
+Scatter chart derives from line chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6582e2ff06460e33339f157ae24b6536da7c1620</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6582e2ff06460e33339f157ae24b6536da7c1620"/>
+    <title>
+        Handle nesting better in the clone method so that we don&#39;t wipe out t…
+    </title>
+    <updated>2015-06-13T12:59:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Handle nesting better in the clone method so that we don&amp;#39;t wipe out the line defaults when the scatter chart extends&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8cfe21f6aa6a0f885744b0c180c019c15ac6b7f7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8cfe21f6aa6a0f885744b0c180c019c15ac6b7f7"/>
+    <title>
+        Scatter chart now extends the line chart.
+    </title>
+    <updated>2015-06-13T12:46:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Scatter chart now extends the line chart.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6815fc451f2512ffe831976dab4a0dd37e5fd890</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6815fc451f2512ffe831976dab4a0dd37e5fd890"/>
+    <title>
+        Merge remote-tracking branch &#39;upstream/v2.0-dev&#39; into feature/v2.0-sc…
+    </title>
+    <updated>2015-06-13T12:35:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;upstream/v2.0-dev&amp;#39; into feature/v2.0-scale-refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/31643ee5987ec1444e0cf2b2547f945a9b4d184f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/31643ee5987ec1444e0cf2b2547f945a9b4d184f"/>
+    <title>
+        Support jQuery&#39; or native canvas element as chart context
+    </title>
+    <updated>2015-06-13T08:41:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Support jQuery&amp;#39; or native canvas element as chart context&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1a3bb25f5c91e2405e913e5091158e652405e5fe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1a3bb25f5c91e2405e913e5091158e652405e5fe"/>
+    <title>
+        Reverse that :)
+    </title>
+    <updated>2015-06-13T08:13:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reverse that :)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

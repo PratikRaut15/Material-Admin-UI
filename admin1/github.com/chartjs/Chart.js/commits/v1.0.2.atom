@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v1.0.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v1.0.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v1.0.2.atom"/>
+  <title>Recent Commits to Chart.js:v1.0.2</title>
+  <updated>2015-03-10T11:04:30Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/930b16a0af59201dcfcd1594b0e7540db4d04c9f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/930b16a0af59201dcfcd1594b0e7540db4d04c9f"/>
+    <title>
+        Versioned release files
+    </title>
+    <updated>2015-03-10T11:04:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Versioned release files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/78d9627e4da4d2f34e71c4970bd8822499682de2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/78d9627e4da4d2f34e71c4970bd8822499682de2"/>
+    <title>
+        Bump bower/package versions
+    </title>
+    <updated>2015-03-10T11:03:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump bower/package versions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/785f0b64b74b83fd92421e1674973a7ddb783d8f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/785f0b64b74b83fd92421e1674973a7ddb783d8f"/>
+    <title>
+        Merge pull request #983 from nnnick/release/v1.0.2
+    </title>
+    <updated>2015-03-09T18:41:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #983 from nnnick/release/v1.0.2
+
+Release 1.0.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2b73bdc5b5fd9b714dcab4c542eec750babd8bc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d2b73bdc5b5fd9b714dcab4c542eec750babd8bc"/>
+    <title>
+        Release 1.0.2
+    </title>
+    <updated>2015-03-09T18:37:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 1.0.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b120ccbe9e18e2212435e36adddf63703bc6cc8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4b120ccbe9e18e2212435e36adddf63703bc6cc8"/>
+    <title>
+        Merge pull request #982 from nnnick/fix/automatic-chart-size-src
+    </title>
+    <updated>2015-03-09T17:20:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #982 from nnnick/fix/automatic-chart-size-src
+
+Target src files from #142&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1fd52e702cc930cf4f37f0b4db32691500b8c560</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1fd52e702cc930cf4f37f0b4db32691500b8c560"/>
+    <title>
+        Merge pull request #981 from nnnick/fix/cancel-anim-frame
+    </title>
+    <updated>2015-03-09T17:16:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #981 from nnnick/fix/cancel-anim-frame
+
+Ensure cancelAnimFrame has no function context&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de564326b098583bf4edd95d698d6c97a8e612b3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/de564326b098583bf4edd95d698d6c97a8e612b3"/>
+    <title>
+        Target src files from #142
+    </title>
+    <updated>2015-03-09T17:14:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Target src files from #142&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/154ce016cca9d9955192b692f057766b63a2ee24</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/154ce016cca9d9955192b692f057766b63a2ee24"/>
+    <title>
+        Ensure cancelAnimFrame has no function context
+    </title>
+    <updated>2015-03-09T17:05:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ensure cancelAnimFrame has no function context&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5d8df20b0ddf82b73d000a5b8c3ab2e2b68b6d9d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5d8df20b0ddf82b73d000a5b8c3ab2e2b68b6d9d"/>
+    <title>
+        Merge pull request #962 from steaks/removeUnecessaryComment
+    </title>
+    <updated>2015-03-02T16:39:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #962 from steaks/removeUnecessaryComment
+
+Removed an unnecessary comment&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/24248120a90e6933d75f294132b3998522e80665</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/24248120a90e6933d75f294132b3998522e80665"/>
+    <title>
+        Removed an unnecessary comment
+    </title>
+    <updated>2015-03-02T01:31:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1373752?s=30&amp;v=4"/>
+    <author>
+      <name>steaks</name>
+      <uri>https://github.com/steaks</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed an unnecessary comment&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/019e985c8f468bf0700e5f7c4ff9b5268651e787</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/019e985c8f468bf0700e5f7c4ff9b5268651e787"/>
+    <title>
+        Merge pull request #898 from etimberg/fix/line_chart_single_label
+    </title>
+    <updated>2015-02-24T20:00:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6392429?s=30&amp;v=4"/>
+    <author>
+      <name>jakesyl</name>
+      <uri>https://github.com/jakesyl</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #898 from etimberg/fix/line_chart_single_label
+
+Fix a divide by 0 error when there is only 1 label&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ea265983e0d1d3875fa1699cc4c3f681a73857f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5ea265983e0d1d3875fa1699cc4c3f681a73857f"/>
+    <title>
+        Merge pull request #931 from jtibble/master
+    </title>
+    <updated>2015-02-11T00:09:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #931 from jtibble/master
+
+Removed trailing comma&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c09cac1cdd0b4db7458fe6af42aef2483edd3730</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c09cac1cdd0b4db7458fe6af42aef2483edd3730"/>
+    <title>
+        Removed trailing comma
+    </title>
+    <updated>2015-02-10T21:13:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2126464?s=30&amp;v=4"/>
+    <author>
+      <name>jtibble</name>
+      <uri>https://github.com/jtibble</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed trailing comma
+
+Automated scan at my place of employment caught this trailing comma&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/afd2631728395d321846774ee83df2ca24b0b3b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/afd2631728395d321846774ee83df2ca24b0b3b6"/>
+    <title>
+        Merge pull request #917 from nnnick/fix-915
+    </title>
+    <updated>2015-02-04T16:51:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/382183?s=30&amp;v=4"/>
+    <author>
+      <name>fulldecent</name>
+      <uri>https://github.com/fulldecent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #917 from nnnick/fix-915
+
+Fixes #915&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b09072c2a3dc757d186ed697411bed277d0efcb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4b09072c2a3dc757d186ed697411bed277d0efcb"/>
+    <title>
+        Fixes #915
+    </title>
+    <updated>2015-02-03T19:09:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/382183?s=30&amp;v=4"/>
+    <author>
+      <name>fulldecent</name>
+      <uri>https://github.com/fulldecent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes #915&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b865fd317aa24d89d881bcb31d376ef6f0df10fa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b865fd317aa24d89d881bcb31d376ef6f0df10fa"/>
+    <title>
+        Fixes #901
+    </title>
+    <updated>2015-02-02T21:56:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/382183?s=30&amp;v=4"/>
+    <author>
+      <name>fulldecent</name>
+      <uri>https://github.com/fulldecent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes #901&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ec66308e4d71ea98137889a2a0208e98b9ee34b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5ec66308e4d71ea98137889a2a0208e98b9ee34b"/>
+    <title>
+        Update .travis.yml
+    </title>
+    <updated>2015-01-30T02:43:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6392429?s=30&amp;v=4"/>
+    <author>
+      <name>jakesyl</name>
+      <uri>https://github.com/jakesyl</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update .travis.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9c6a7397b599126000ba90346f24f699b4854241</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9c6a7397b599126000ba90346f24f699b4854241"/>
+    <title>
+        Merge pull request #867 from bendxn/master
+    </title>
+    <updated>2015-01-29T21:54:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/382183?s=30&amp;v=4"/>
+    <author>
+      <name>fulldecent</name>
+      <uri>https://github.com/fulldecent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #867 from bendxn/master
+
+Doughnut charts handling negative values&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/87b7f8070a8cb8bd53ec8f966011b45ae24346ee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/87b7f8070a8cb8bd53ec8f966011b45ae24346ee"/>
+    <title>
+        Merge pull request #889 from bjornarg/cancelanimframe-fix
+    </title>
+    <updated>2015-01-28T22:55:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #889 from bjornarg/cancelanimframe-fix
+
+Fix issue with &amp;quot;Illegal invocation&amp;quot; in cancelAnimFrame.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d28075cdeee07fbfaf045cf00f2db0bc755d7a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2d28075cdeee07fbfaf045cf00f2db0bc755d7a6"/>
+    <title>
+        ADD GH PR guidelines
+    </title>
+    <updated>2015-01-28T19:22:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6392429?s=30&amp;v=4"/>
+    <author>
+      <name>jakesyl</name>
+      <uri>https://github.com/jakesyl</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;ADD GH PR guidelines&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/05afeebef5e4157e492675271311b81c387d04aa</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/05afeebef5e4157e492675271311b81c387d04aa"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/05afeebef5e4157e492675271311b81c387d04aa.atom"/>
+  <title>Recent Commits to morris.js:05afeebef5e4157e492675271311b81c387d04aa</title>
+  <updated>2015-06-10T23:01:07Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05afeebef5e4157e492675271311b81c387d04aa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/05afeebef5e4157e492675271311b81c387d04aa"/>
+    <title>
+        Remove moot `version` property from bower.json
+    </title>
+    <updated>2015-06-10T23:01:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/947110?s=30&amp;v=4"/>
+    <author>
+      <name>kkirsche</name>
+      <uri>https://github.com/kkirsche</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove moot `version` property from bower.json
+
+Per bower/bower.json-spec@a325da3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/08064399d67a0c4db181cc1bf9c5869c21513a72</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/08064399d67a0c4db181cc1bf9c5869c21513a72"/>
+    <title>
+        Merge pull request #568 from leriel/hover-bars
+    </title>
+    <updated>2015-05-08T12:28:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #568 from leriel/hover-bars
+
+add option to fade in bars on hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b27c8157509b11654c95e11db49876206a6cf2b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b27c8157509b11654c95e11db49876206a6cf2b6"/>
+    <title>
+        Merge pull request #580 from mortonfox/patch-1
+    </title>
+    <updated>2015-05-01T12:06:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #580 from mortonfox/patch-1
+
+Fix two of the issue links.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8c14e61550961745222e6aefd34c1f2e52934833</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8c14e61550961745222e6aefd34c1f2e52934833"/>
+    <title>
+        Fix two of the issue links.
+    </title>
+    <updated>2015-04-29T16:22:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/495892?s=30&amp;v=4"/>
+    <author>
+      <name>mortonfox</name>
+      <uri>https://github.com/mortonfox</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix two of the issue links.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94eec4a81b296a8d1b30f3dbcd8a64f8034f16af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/94eec4a81b296a8d1b30f3dbcd8a64f8034f16af"/>
+    <title>
+        add option to fade in bars on hover
+    </title>
+    <updated>2015-03-23T20:43:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/6944137?s=30&amp;v=4"/>
+    <author>
+      <name>leriel</name>
+      <uri>https://github.com/leriel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add option to fade in bars on hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4ccdd7694d326c0fdc1a1948271a00491b9c50d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4ccdd7694d326c0fdc1a1948271a00491b9c50d2"/>
+    <title>
+        Merge pull request #549 from JelteF/empty-bar-hover-fix
+    </title>
+    <updated>2015-01-17T18:22:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #549 from JelteF/empty-bar-hover-fix
+
+Fix hover error when hovering over an empty bar chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9bc123a53aa56df1393afd18f41c8defc68c8666</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/9bc123a53aa56df1393afd18f41c8defc68c8666"/>
+    <title>
+        Merge pull request #548 from JelteF/shown-hover-fix2
+    </title>
+    <updated>2015-01-17T18:22:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #548 from JelteF/shown-hover-fix2
+
+Fix error that occured when having hidden lines between shown lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/570f7561d5390e29c53a9c7241580905a707ef58</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/570f7561d5390e29c53a9c7241580905a707ef58"/>
+    <title>
+        Merge pull request #477 from autodidacticon/master
+    </title>
+    <updated>2015-01-17T18:20:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #477 from autodidacticon/master
+
+free positioned x coords, custom x labels&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4e43a590c47bacd29e36c49eb6393085c0e82715</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4e43a590c47bacd29e36c49eb6393085c0e82715"/>
+    <title>
+        Fix hover error when hovering over an empty bar chart
+    </title>
+    <updated>2015-01-16T17:27:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix hover error when hovering over an empty bar chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/93342c5a738405f0916d4721eb8a5c4eeacf57cd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/93342c5a738405f0916d4721eb8a5c4eeacf57cd"/>
+    <title>
+        Fix error that occured when having hidden lines between shown lines
+    </title>
+    <updated>2015-01-16T17:15:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix error that occured when having hidden lines between shown lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4949be890113369b7ee2b878f2b55e385191b752</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4949be890113369b7ee2b878f2b55e385191b752"/>
+    <title>
+        free positioned x coords, custom x labels, updated README.md to include
+    </title>
+    <updated>2015-01-10T23:02:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://2.gravatar.com/avatar/ffeffaddf34ba37edabb8066dc282ded?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>richard.moorhead@cerner.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;free positioned x coords, custom x labels, updated README.md to include
+bower instructions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a7e1cdd142179d22953227498077507179bf6ce9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a7e1cdd142179d22953227498077507179bf6ce9"/>
+    <title>
+        Merge pull request #543 from arlaneenalra/line-chart-label
+    </title>
+    <updated>2015-01-09T10:32:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #543 from arlaneenalra/line-chart-label
+
+Fix label color in line chart - Squash Commits in #542.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de9a12def5e32fff994517c9433f85f5e932d40d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/de9a12def5e32fff994517c9433f85f5e932d40d"/>
+    <title>
+        Fix label color in line chart.
+    </title>
+    <updated>2015-01-08T16:03:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/4931582?s=30&amp;v=4"/>
+    <author>
+      <name>csalch</name>
+      <uri>https://github.com/csalch</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix label color in line chart.
+
+The line chart code always defaulted to using trendLineColors for
+labels even when no trend lines were enabled.  This commit changes
+that to use lineColors instead so that the labels match the lines
+they are for.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5c3f11226a292eb2f91935274af779025698f276</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5c3f11226a292eb2f91935274af779025698f276"/>
+    <title>
+        Merge pull request #461 from JelteF/weighted-trendline
+    </title>
+    <updated>2015-01-08T11:55:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #461 from JelteF/weighted-trendline
+
+Add optional weighting to the calculation of the trendline&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6996ae247339bf12ab2ccb5e019b8eb0ecc25b74</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/6996ae247339bf12ab2ccb5e019b8eb0ecc25b74"/>
+    <title>
+        Merge pull request #467 from JelteF/hidden-series-hover-fix
+    </title>
+    <updated>2015-01-08T11:55:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #467 from JelteF/hidden-series-hover-fix
+
+Fix hover positioning for linecharts when some lines are hidden&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e396732fa135b1e03b382256d37c469b22ac5cc3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e396732fa135b1e03b382256d37c469b22ac5cc3"/>
+    <title>
+        Merge pull request #462 from JelteF/feature-align-left
+    </title>
+    <updated>2015-01-08T11:54:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #462 from JelteF/feature-align-left
+
+Add option to align Y labels left&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a002a0269163fca28df8da644f23db22ede8c7eb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a002a0269163fca28df8da644f23db22ede8c7eb"/>
+    <title>
+        Merge pull request #475 from JelteF/hit-checking-on-click
+    </title>
+    <updated>2015-01-08T11:54:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #475 from JelteF/hit-checking-on-click
+
+Hit checking on click&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cbd5f8c6360fc13ff7a576b287477ef7b9434870</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/cbd5f8c6360fc13ff7a576b287477ef7b9434870"/>
+    <title>
+        Merge pull request #479 from JelteF/pass-src-barColor-function
+    </title>
+    <updated>2015-01-08T11:53:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #479 from JelteF/pass-src-barColor-function
+
+Src attribute of a row gets passed to the barColors function as well&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac48c048a0441014ec01ad00cbfcaeb7e066e58a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ac48c048a0441014ec01ad00cbfcaeb7e066e58a"/>
+    <title>
+        Merge pull request #510 from JelteF/monthlines
+    </title>
+    <updated>2015-01-08T11:51:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #510 from JelteF/monthlines
+
+Add vertical grid lines to line graphs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d008d9317f87096db8a75121ef6edfc579b7d4d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d008d9317f87096db8a75121ef6edfc579b7d4d7"/>
+    <title>
+        Merge pull request #518 from JelteF/in-bar-value
+    </title>
+    <updated>2015-01-08T11:51:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #518 from JelteF/in-bar-value
+
+Add an option to display the value of a bar in the bar itself&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

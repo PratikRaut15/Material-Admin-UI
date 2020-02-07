@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/c9820c2d447c1887c180ed79cbe8a974ba76f104</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/c9820c2d447c1887c180ed79cbe8a974ba76f104"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/c9820c2d447c1887c180ed79cbe8a974ba76f104.atom"/>
+  <title>Recent Commits to morris.js:c9820c2d447c1887c180ed79cbe8a974ba76f104</title>
+  <updated>2013-10-25T21:49:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c9820c2d447c1887c180ed79cbe8a974ba76f104</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c9820c2d447c1887c180ed79cbe8a974ba76f104"/>
+    <title>
+        it is actually only top padding
+    </title>
+    <updated>2013-10-25T21:49:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;it is actually only top padding&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b79e0be82067e93f9aff60760465d87ff95c45ef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b79e0be82067e93f9aff60760465d87ff95c45ef"/>
+    <title>
+        feature: optional xAxisLabelPadding
+    </title>
+    <updated>2013-10-25T21:18:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feature: optional xAxisLabelPadding&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a738317adb37e2866784ac7e0bda1dc245db487b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a738317adb37e2866784ac7e0bda1dc245db487b"/>
+    <title>
+        Recompile.
+    </title>
+    <updated>2013-10-12T13:07:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Recompile.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e19d676bc466258355b03eb9d1791ee7e0c7e5c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e19d676bc466258355b03eb9d1791ee7e0c7e5c1"/>
+    <title>
+        Merge branch &#39;grunt_update&#39; of https://github.com/sudodoki/morris.js …
+    </title>
+    <updated>2013-10-12T13:05:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;grunt_update&amp;#39; of https://github.com/sudodoki/morris.js into sudodoki-grunt_update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7123d419a640c9322b963cc25f165c1c48d8545d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7123d419a640c9322b963cc25f165c1c48d8545d"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/stlk/morris.js into stlk-…
+    </title>
+    <updated>2013-10-12T13:02:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/stlk/morris.js into stlk-master
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0e8c0f49b6ba03a07c3e18c773faf9a1b11281c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0e8c0f49b6ba03a07c3e18c773faf9a1b11281c3"/>
+    <title>
+        Merge branch, and merge with previous changes.
+    </title>
+    <updated>2013-10-12T12:58:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch, and merge with previous changes.
+
+Previous point-width work by other contributors conflicted, so have tied
+the two changes and sets of tests together. Have also slightly changed
+some variable / config names to read easier.
+
+Merge branch &amp;#39;master&amp;#39; of https://github.com/dgilperez/morris.js into dgilperez-master
+
+Conflicts:
+	lib/morris.line.coffee
+	morris.js
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/005edd9770b0d154e573b611c66fd70db42babc0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/005edd9770b0d154e573b611c66fd70db42babc0"/>
+    <title>
+        Rebuild JS.
+    </title>
+    <updated>2013-10-12T12:37:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rebuild JS.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d889eb6268e6bed932c38c0781ad9188dbc36f77</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d889eb6268e6bed932c38c0781ad9188dbc36f77"/>
+    <title>
+        Merge pull request #257 from mathieubigorne/master
+    </title>
+    <updated>2013-10-12T12:35:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #257 from mathieubigorne/master
+
+pointSize attribute should accept an array of values&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/96e918a297fd40961ed3035a9b15a31c039493d6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/96e918a297fd40961ed3035a9b15a31c039493d6"/>
+    <title>
+        Merge branch &#39;disable-individual-axes&#39; of https://github.com/arachnys…
+    </title>
+    <updated>2013-10-12T12:32:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;disable-individual-axes&amp;#39; of https://github.com/arachnys/morris.js into arachnys-disable-individual-axes
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e868701016323467244a9ae6cb360be75e79670f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e868701016323467244a9ae6cb360be75e79670f"/>
+    <title>
+        Merge branch &#39;range-selection&#39; of https://github.com/arachnys/morris.…
+    </title>
+    <updated>2013-10-12T12:27:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;range-selection&amp;#39; of https://github.com/arachnys/morris.js into arachnys-range-selection
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/019a04ed08d440806b4b4030bf711e59af680fc6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/019a04ed08d440806b4b4030bf711e59af680fc6"/>
+    <title>
+        Merge branch &#39;label_specs_week&#39; of https://github.com/dhoko/morris.js…
+    </title>
+    <updated>2013-10-12T12:24:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;label_specs_week&amp;#39; of https://github.com/dhoko/morris.js into dhoko-label_specs_week
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/85330798d94a737dca4711d0a38588b12548e40a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/85330798d94a737dca4711d0a38588b12548e40a"/>
+    <title>
+        Merge pull request #243 from dissolved/master
+    </title>
+    <updated>2013-10-12T12:21:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #243 from dissolved/master
+
+Update Developer Quickstart instructions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4345fa372361e9983dfe384b4860016859edb99a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4345fa372361e9983dfe384b4860016859edb99a"/>
+    <title>
+        Merge pull request #266 from movabletype/options-smooth-boolean
+    </title>
+    <updated>2013-10-12T12:20:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #266 from movabletype/options-smooth-boolean
+
+Use the @options.smooth directly if the value&amp;#39;s type is &amp;quot;boolean&amp;quot;.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99836064a03ba67adf8815e84dbbec413b7e3e21</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/99836064a03ba67adf8815e84dbbec413b7e3e21"/>
+    <title>
+        adding engines and reordering move task
+    </title>
+    <updated>2013-09-25T19:26:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;adding engines and reordering move task&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5c17052bb509d9781dddb191d06d955ab3baa4f5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5c17052bb509d9781dddb191d06d955ab3baa4f5"/>
+    <title>
+        updating gruntfile &amp; travis install &amp; npm test command
+    </title>
+    <updated>2013-09-25T06:27:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;updating gruntfile &amp;amp; travis install &amp;amp; npm test command&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e31c46652878f1fb391b66b608a0caa10024c09f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e31c46652878f1fb391b66b608a0caa10024c09f"/>
+    <title>
+        You can now specify segment color in data parameter
+    </title>
+    <updated>2013-09-11T12:37:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/450975?s=30&amp;v=4"/>
+    <author>
+      <name>stlk</name>
+      <uri>https://github.com/stlk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;You can now specify segment color in data parameter&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8817e221b5b4cb1c0446f5d1ffc2611db9bfb8e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8817e221b5b4cb1c0446f5d1ffc2611db9bfb8e5"/>
+    <title>
+        fix hilight WIP
+    </title>
+    <updated>2013-08-20T02:10:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/264590?s=30&amp;v=4"/>
+    <author>
+      <name>dgilperez</name>
+      <uri>https://github.com/dgilperez</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix hilight WIP&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/92d7790908d9fcb675f036240dd0e81c62e3d584</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/92d7790908d9fcb675f036240dd0e81c62e3d584"/>
+    <title>
+        pointGrow and pointShrink must adapt to the point size position of th…
+    </title>
+    <updated>2013-08-20T02:06:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/264590?s=30&amp;v=4"/>
+    <author>
+      <name>dgilperez</name>
+      <uri>https://github.com/dgilperez</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;pointGrow and pointShrink must adapt to the point size position of the index&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4478828e4d9234414068860a155c2a58fe2775a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f4478828e4d9234414068860a155c2a58fe2775a"/>
+    <title>
+        making point size customizable per line as well
+    </title>
+    <updated>2013-08-20T01:39:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/264590?s=30&amp;v=4"/>
+    <author>
+      <name>dgilperez</name>
+      <uri>https://github.com/dgilperez</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;making point size customizable per line as well&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cdfe8ba62d34fe9f5ab923b3426cf7451cd0325e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/cdfe8ba62d34fe9f5ab923b3426cf7451cd0325e"/>
+    <title>
+        add missing index
+    </title>
+    <updated>2013-08-20T00:55:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/264590?s=30&amp;v=4"/>
+    <author>
+      <name>dgilperez</name>
+      <uri>https://github.com/dgilperez</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add missing index&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

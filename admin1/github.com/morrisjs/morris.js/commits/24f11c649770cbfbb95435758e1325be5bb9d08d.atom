@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/24f11c649770cbfbb95435758e1325be5bb9d08d</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/24f11c649770cbfbb95435758e1325be5bb9d08d"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/24f11c649770cbfbb95435758e1325be5bb9d08d.atom"/>
+  <title>Recent Commits to morris.js:24f11c649770cbfbb95435758e1325be5bb9d08d</title>
+  <updated>2012-12-13T21:41:03Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/24f11c649770cbfbb95435758e1325be5bb9d08d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/24f11c649770cbfbb95435758e1325be5bb9d08d"/>
+    <title>
+        removed .call() call - not needed
+    </title>
+    <updated>2012-12-13T21:41:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/883a81ab829cbe637de0fa335c7936d5?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>tiraeth@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;removed .call() call - not needed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/381be72f612a0c525ea0d40eb065380d995cdef9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/381be72f612a0c525ea0d40eb065380d995cdef9"/>
+    <title>
+        non-invasive solution for #138, with mache:spec
+    </title>
+    <updated>2012-12-13T21:31:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/883a81ab829cbe637de0fa335c7936d5?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>tiraeth@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;non-invasive solution for #138, with mache:spec&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ff9856e8e9d64b8796362ad1ca54d840a44881ac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ff9856e8e9d64b8796362ad1ca54d840a44881ac"/>
+    <title>
+        Fix hover on broken lines.
+    </title>
+    <updated>2012-12-04T21:42:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix hover on broken lines.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0068e54c4b8b3503c6c57fd059d1b0c6a07871d6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0068e54c4b8b3503c6c57fd059d1b0c6a07871d6"/>
+    <title>
+        Fix createPath bug.
+    </title>
+    <updated>2012-12-04T21:31:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix createPath bug.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0bce4d30768353c63dba6610ace997bd4022e4c4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0bce4d30768353c63dba6610ace997bd4022e4c4"/>
+    <title>
+        Merge branch &#39;broken-lines&#39;
+    </title>
+    <updated>2012-12-03T17:46:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;broken-lines&amp;#39;
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d41bea2e2398d7812111c7ceadd3400c924da805</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d41bea2e2398d7812111c7ceadd3400c924da805"/>
+    <title>
+        Refactor.
+    </title>
+    <updated>2012-12-03T08:39:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor.
+
+- Test paths as rendered in SVG.
+- More exact unit tests for createPath.
+- Catch some more edge case bugs in createPath.
+- Refactor createPath to handle null values better.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/691bd8d017fac72a28c630d7572925fc115ba39b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/691bd8d017fac72a28c630d7572925fc115ba39b"/>
+    <title>
+        Merge pull request #120 from dynaum/master
+    </title>
+    <updated>2012-12-02T21:06:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #120 from dynaum/master
+
+Adding support to stacked bars&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b0e99f7ca95265bddb62ee712a2ab87bd0702e36</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b0e99f7ca95265bddb62ee712a2ab87bd0702e36"/>
+    <title>
+        default continuousLine to true for backwards compat
+    </title>
+    <updated>2012-11-29T22:34:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;default continuousLine to true for backwards compat&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6d14aa831d7c555877b7dcc52fb0912c5025c39d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/6d14aa831d7c555877b7dcc52fb0912c5025c39d"/>
+    <title>
+        filled out tests for createPath and generatePaths.  refactored code t…
+    </title>
+    <updated>2012-11-29T22:28:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;filled out tests for createPath and generatePaths.  refactored code to allow for jagged/broken lines and to pass tests.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee6cbd8eacd5267de942d086ed74ad969a9fdecf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ee6cbd8eacd5267de942d086ed74ad969a9fdecf"/>
+    <title>
+        replace array.filter with list comprehension
+    </title>
+    <updated>2012-11-29T18:27:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;replace array.filter with list comprehension&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/370edd2e2e58a7eefeee0bc527ee34abee4445fa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/370edd2e2e58a7eefeee0bc527ee34abee4445fa"/>
+    <title>
+        Unit test stubs.
+    </title>
+    <updated>2012-11-29T08:18:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Unit test stubs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5c5e882c6b6c1ca7bfb1b6f84e06296bf3e35280</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5c5e882c6b6c1ca7bfb1b6f84e06296bf3e35280"/>
+    <title>
+        Adding new example file to staked bars
+    </title>
+    <updated>2012-11-26T16:47:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/68991?s=30&amp;v=4"/>
+    <author>
+      <name>dynaum</name>
+      <uri>https://github.com/dynaum</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding new example file to staked bars&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/71bb498c05e2a60c5c2087d3d27bc4bc971d1ba3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/71bb498c05e2a60c5c2087d3d27bc4bc971d1ba3"/>
+    <title>
+        generating min js
+    </title>
+    <updated>2012-11-20T12:51:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/68991?s=30&amp;v=4"/>
+    <author>
+      <name>dynaum</name>
+      <uri>https://github.com/dynaum</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;generating min js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4773f909a88352c73fc2ed02946ed43e580730cc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4773f909a88352c73fc2ed02946ed43e580730cc"/>
+    <title>
+        Adding support to stacked bars
+    </title>
+    <updated>2012-11-20T01:23:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/68991?s=30&amp;v=4"/>
+    <author>
+      <name>dynaum</name>
+      <uri>https://github.com/dynaum</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding support to stacked bars&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/10826cbfc0356ba2e272becd4693c4f6a20befa5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/10826cbfc0356ba2e272becd4693c4f6a20befa5"/>
+    <title>
+        discontinuous line in cases where null data values should be represen…
+    </title>
+    <updated>2012-11-13T23:42:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;discontinuous line in cases where null data values should be represented by no line rather than a line connecting only the coords with data.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/25698d6664278e65c10053a20089b118c7c09d4b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/25698d6664278e65c10053a20089b118c7c09d4b"/>
+    <title>
+        Decade intervals for time-axis labels.
+    </title>
+    <updated>2012-11-08T17:18:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Decade intervals for time-axis labels.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2a2a849ebd648850ba4060b117bd50cdcf7ddf35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2a2a849ebd648850ba4060b117bd50cdcf7ddf35"/>
+    <title>
+        Tests for bar colours.
+    </title>
+    <updated>2012-11-08T15:21:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tests for bar colours.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/25906c1635eef0274b7fa7271fbdd4dad07d73f4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/25906c1635eef0274b7fa7271fbdd4dad07d73f4"/>
+    <title>
+        Add sinon.js
+    </title>
+    <updated>2012-11-08T12:54:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add sinon.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/236afa4003bd000f2902cc562ba90a41fd603e0d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/236afa4003bd000f2902cc562ba90a41fd603e0d"/>
+    <title>
+        Define bar colors with a function.
+    </title>
+    <updated>2012-11-06T08:18:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Define bar colors with a function.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d6b955af026ed44f65d224fbee278e2ea9ede67a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d6b955af026ed44f65d224fbee278e2ea9ede67a"/>
+    <title>
+        Tidy up use of &quot;is/isnt null&quot; using `?` operator.
+    </title>
+    <updated>2012-11-06T07:48:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tidy up use of &amp;quot;is/isnt null&amp;quot; using `?` operator.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

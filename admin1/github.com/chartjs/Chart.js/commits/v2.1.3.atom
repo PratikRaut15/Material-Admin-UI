@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.1.3</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.1.3"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.1.3.atom"/>
+  <title>Recent Commits to Chart.js:v2.1.3</title>
+  <updated>2016-05-12T22:42:52Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/691a7c6a4bef0c6e0b8d1c82bafd4e2807239fac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/691a7c6a4bef0c6e0b8d1c82bafd4e2807239fac"/>
+    <title>
+        Update doc files for ticks.minRotation
+    </title>
+    <updated>2016-05-12T22:42:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update doc files for ticks.minRotation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eb05588c955a0c7d4dbbceea5a65cfaea620b2ac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/eb05588c955a0c7d4dbbceea5a65cfaea620b2ac"/>
+    <title>
+        2.1.3 release
+    </title>
+    <updated>2016-05-12T22:41:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;2.1.3 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66a945935b625aab973f42635932e4e2469e0087</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/66a945935b625aab973f42635932e4e2469e0087"/>
+    <title>
+        Merge branch &#39;tomduncalf-iso_weekday&#39;
+    </title>
+    <updated>2016-05-12T22:24:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;tomduncalf-iso_weekday&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8c209405e9edf33264b8eaea9cb1f48280fae2a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8c209405e9edf33264b8eaea9cb1f48280fae2a5"/>
+    <title>
+        Merge branch &#39;iso_weekday&#39; of https://github.com/tomduncalf/Chart.js …
+    </title>
+    <updated>2016-05-12T22:24:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;iso_weekday&amp;#39; of https://github.com/tomduncalf/Chart.js into tomduncalf-iso_weekday
+
+Conflicts:
+	docs/01-Scales.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41c043dd239a5e63009ce13c705e589e64d5b29f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/41c043dd239a5e63009ce13c705e589e64d5b29f"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/nnnick/Chart.js
+    </title>
+    <updated>2016-05-12T22:22:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/nnnick/Chart.js
+
+Conflicts:
+	docs/01-Scales.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6de81a3580b03db432b9e05dfc860ebcdcaa5179</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6de81a3580b03db432b9e05dfc860ebcdcaa5179"/>
+    <title>
+        Merge branch &#39;tomduncalf-label_offset&#39;
+    </title>
+    <updated>2016-05-12T22:21:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;tomduncalf-label_offset&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/47f770c3ef78b5e8deaae3c79bf55be187f338bd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/47f770c3ef78b5e8deaae3c79bf55be187f338bd"/>
+    <title>
+        Merge pull request #2524 from ashiguruma/master
+    </title>
+    <updated>2016-05-12T22:20:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2524 from ashiguruma/master
+
+Allow canvas patterns instead of colors&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a8df9d9891b243d18204f95f76661b34361d6414</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a8df9d9891b243d18204f95f76661b34361d6414"/>
+    <title>
+        Merge branch &#39;master&#39; of github.com:ashiguruma/Chart.js
+    </title>
+    <updated>2016-05-12T22:00:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/863711?s=30&amp;v=4"/>
+    <author>
+      <name>ashiguruma</name>
+      <uri>https://github.com/ashiguruma</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of github.com:ashiguruma/Chart.js
+
+* &amp;#39;master&amp;#39; of github.com:ashiguruma/Chart.js:
+  Added CanvasPattern global flag for jshint&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05bfb7e964c9de92d050a016d8e1f09dc1c55a4f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/05bfb7e964c9de92d050a016d8e1f09dc1c55a4f"/>
+    <title>
+        Added CanvasPattern global flag for jshint
+    </title>
+    <updated>2016-05-12T21:58:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/863711?s=30&amp;v=4"/>
+    <author>
+      <name>ashiguruma</name>
+      <uri>https://github.com/ashiguruma</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added CanvasPattern global flag for jshint
+
+The core.helpers file was failing linting checks as the global CanvasPattern was not defined. Added the `/* global CanvasGradient */` statement to make linting pass. Updates chartjs/Chart.js#1323&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/44cc68d0ae72a88d9644af4a0be102aa39a521c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/44cc68d0ae72a88d9644af4a0be102aa39a521c8"/>
+    <title>
+        Added CanvasPattern global flag for jshint
+    </title>
+    <updated>2016-05-12T21:24:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/863711?s=30&amp;v=4"/>
+    <author>
+      <name>ashiguruma</name>
+      <uri>https://github.com/ashiguruma</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added CanvasPattern global flag for jshint
+
+The core.helpers file was failing linting checks as the global CanvasPattern was not defined. Added the `/* global CanvasGradient */` statement to make linting pass. Updates chartjs/Chart.js#1323&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/38df95ee81e7c0df562228e737eaeeb732424e1a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/38df95ee81e7c0df562228e737eaeeb732424e1a"/>
+    <title>
+        Merge pull request #2531 from matt-watson90/patch-1
+    </title>
+    <updated>2016-05-12T16:09:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2531 from matt-watson90/patch-1
+
+Fixed copy paste error in 01-Scales.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1c1bf1c5d8b4ee994f8a7d74d3d7cae8d9bc7be7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1c1bf1c5d8b4ee994f8a7d74d3d7cae8d9bc7be7"/>
+    <title>
+        Merge pull request #2530 from cw0102/master
+    </title>
+    <updated>2016-05-12T16:09:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2530 from cw0102/master
+
+Update 03-Bar-Chart.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41bf2418cbfdb4c03ffd380504e46a91d77be424</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/41bf2418cbfdb4c03ffd380504e46a91d77be424"/>
+    <title>
+        Fixed copy paste error in 01-Scales.md
+    </title>
+    <updated>2016-05-12T16:02:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6759875?s=30&amp;v=4"/>
+    <author>
+      <name>matt-watson90</name>
+      <uri>https://github.com/matt-watson90</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed copy paste error in 01-Scales.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a6017a41965c45ce43fba5139cdf6961255c1666</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a6017a41965c45ce43fba5139cdf6961255c1666"/>
+    <title>
+        Update 03-Bar-Chart.md
+    </title>
+    <updated>2016-05-12T15:56:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/18674410?s=30&amp;v=4"/>
+    <author>
+      <name>cw0102</name>
+      <uri>https://github.com/cw0102</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update 03-Bar-Chart.md
+
+Fix documentation of stacked option to be a subset of the axes rather than a global attribute on a bar chart. The attribute chart was inconsistent with the example below it.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7ee5af81af59e66a2f6e11c04cdb054c8cef934e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7ee5af81af59e66a2f6e11c04cdb054c8cef934e"/>
+    <title>
+        Add labelOffset option to scales
+    </title>
+    <updated>2016-05-11T09:43:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5458070?s=30&amp;v=4"/>
+    <author>
+      <name>tomduncalf</name>
+      <uri>https://github.com/tomduncalf</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add labelOffset option to scales&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b3d079a5008e80097829a9c52e24139de689883</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8b3d079a5008e80097829a9c52e24139de689883"/>
+    <title>
+        Add isoWeekday option to allow time scale ticks in &#39;week&#39; unit mode t…
+    </title>
+    <updated>2016-05-11T08:44:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5458070?s=30&amp;v=4"/>
+    <author>
+      <name>tomduncalf</name>
+      <uri>https://github.com/tomduncalf</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add isoWeekday option to allow time scale ticks in &amp;#39;week&amp;#39; unit mode to start on a specified day of the week&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/64b9510dedaa36688bfdaee3f1014156cde997a7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/64b9510dedaa36688bfdaee3f1014156cde997a7"/>
+    <title>
+        Merge pull request #2511 from zachpanz88/build-update
+    </title>
+    <updated>2016-05-10T20:45:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2511 from zachpanz88/build-update
+
+Update CDN on bump&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/04d4adda05d0a923e4b320fd0a5ef62940693050</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/04d4adda05d0a923e4b320fd0a5ef62940693050"/>
+    <title>
+        Allow pattern hover state in all chart types
+    </title>
+    <updated>2016-05-10T16:28:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/863711?s=30&amp;v=4"/>
+    <author>
+      <name>ashiguruma</name>
+      <uri>https://github.com/ashiguruma</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow pattern hover state in all chart types
+
+Updated all chart types to use the helper.getHoverColor. Pattern fills can now be specified for both fill and line portions of a chart. Updates chartjs/Chart.js#1323&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a79b42a460e95e6adbd27f03d333183f6c0f2c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a79b42a460e95e6adbd27f03d333183f6c0f2c1"/>
+    <title>
+        Update CDN on bump
+    </title>
+    <updated>2016-05-10T15:12:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update CDN on bump&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/daa9ad074f21407fb8c20ce6c7186a72b1245e51</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/daa9ad074f21407fb8c20ce6c7186a72b1245e51"/>
+    <title>
+        Merge pull request #2510 from Tarqwyn/feature_New_plugin_interface_af…
+    </title>
+    <updated>2016-05-10T15:05:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2510 from Tarqwyn/feature_New_plugin_interface_afterScaleUpdate
+
+Added new plugin Callback `afterScaleUpdate`&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

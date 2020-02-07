@@ -1,0 +1,22 @@
+From 942bf1562db413dcac47c288c0cc077c44a6ac60 Mon Sep 17 00:00:00 2001
+From: Tony Lechner <tony.lechner@gmail.com>
+Date: Tue, 5 Jul 2016 14:01:53 -0500
+Subject: [PATCH] Added main file designation to package.json.
+
+Resolves #595
+---
+ package.json | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/package.json b/package.json
+index c6e9eae..1a3a96c 100644
+--- a/package.json
++++ b/package.json
+@@ -8,6 +8,7 @@
+     "name": "Olly Smith",
+     "email": "olly@oesmith.co.uk"
+   },
++  "main": "morris.min.js",
+   "repository": {
+     "type": "git",
+     "url": "git://github.com/morrisjs/morris.js.git"

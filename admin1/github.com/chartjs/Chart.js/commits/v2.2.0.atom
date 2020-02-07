@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.2.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.2.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.2.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.2.0</title>
+  <updated>2016-07-28T22:23:32Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b92387c845d8565c54aa811bd4cf7c784a7db7d0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b92387c845d8565c54aa811bd4cf7c784a7db7d0"/>
+    <title>
+        Version bump for v2.2.0
+    </title>
+    <updated>2016-07-28T22:23:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version bump for v2.2.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7b1ce01aec7816756684ac1f13c54265ee80d30e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7b1ce01aec7816756684ac1f13c54265ee80d30e"/>
+    <title>
+        Merge pull request #3052 from chartjs/fix/3043
+    </title>
+    <updated>2016-07-28T22:15:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3052 from chartjs/fix/3043
+
+Fix line controller stacking with multiple axes and add a test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f60344dfdb92d5759f99dc94f78475a68a3bcbac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f60344dfdb92d5759f99dc94f78475a68a3bcbac"/>
+    <title>
+        Fix line controller stacking with multiple axes and add a test
+    </title>
+    <updated>2016-07-28T22:10:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix line controller stacking with multiple axes and add a test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7ebc533cdc5f803809b3f4ca1048576592e49a42</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7ebc533cdc5f803809b3f4ca1048576592e49a42"/>
+    <title>
+        Merge pull request #3028 from chartjs/fix/span-gaps
+    </title>
+    <updated>2016-07-28T22:02:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3028 from chartjs/fix/span-gaps
+
+Refactoring of the line drawing function to make `spanGaps` work correctly&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/23ca08184eb27c68d136135d3c0f6507d40f6030</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/23ca08184eb27c68d136135d3c0f6507d40f6030"/>
+    <title>
+        Merge pull request #3045 from IonutLaceanu/master
+    </title>
+    <updated>2016-07-28T22:02:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3045 from IonutLaceanu/master
+
+getElementAtEvent: enforce one element limit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ed508bd0064193ecbc548c845d2f88c19f89604</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5ed508bd0064193ecbc548c845d2f88c19f89604"/>
+    <title>
+        Merge pull request #3048 from mdewilde/master
+    </title>
+    <updated>2016-07-28T13:16:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3048 from mdewilde/master
+
+Correct duplicate error&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/548f07e9cdbf765fa62724c5a61d2f0dbcf60156</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/548f07e9cdbf765fa62724c5a61d2f0dbcf60156"/>
+    <title>
+        Correct probable copy paste issue
+    </title>
+    <updated>2016-07-28T11:20:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/12495386?s=30&amp;v=4"/>
+    <author>
+      <name>mdewilde</name>
+      <uri>https://github.com/mdewilde</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Correct probable copy paste issue&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/08451ce95e16224e1afba6e890e33b430d662779</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/08451ce95e16224e1afba6e890e33b430d662779"/>
+    <title>
+        Correct duplicate error
+    </title>
+    <updated>2016-07-28T11:16:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/12495386?s=30&amp;v=4"/>
+    <author>
+      <name>mdewilde</name>
+      <uri>https://github.com/mdewilde</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Correct duplicate error&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1e5cdc618806836e1764777c7f8e8ff001ecd1df</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1e5cdc618806836e1764777c7f8e8ff001ecd1df"/>
+    <title>
+        Fix #2922 Make the XAxis based hover/tooltip pick the item at the sam…
+    </title>
+    <updated>2016-07-27T19:09:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/464629?s=30&amp;v=4"/>
+    <author>
+      <name>jeffesp</name>
+      <uri>https://github.com/jeffesp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #2922 Make the XAxis based hover/tooltip pick the item at the same x-axis value&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f46a9472b54fdafacda6f780a197b0fce5ee46d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f46a9472b54fdafacda6f780a197b0fce5ee46d8"/>
+    <title>
+        getElementAtEvent: enforce one element limit
+    </title>
+    <updated>2016-07-27T16:27:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/2991577?s=30&amp;v=4"/>
+    <author>
+      <name>IonutLaceanu</name>
+      <uri>https://github.com/IonutLaceanu</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;getElementAtEvent: enforce one element limit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e2deede5b9e4a5fb6188163619138ff1c7518a7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8e2deede5b9e4a5fb6188163619138ff1c7518a7"/>
+    <title>
+        Merge pull request #3039 from ianks/getLabelMoment-fix
+    </title>
+    <updated>2016-07-27T00:57:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3039 from ianks/getLabelMoment-fix
+
+Fix out of bounds index access in getLabelMoment&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e4dd158b241268600bb1c9005969af7b2efcb130</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e4dd158b241268600bb1c9005969af7b2efcb130"/>
+    <title>
+        Fix out of bounds index access in getLabelMoment
+    </title>
+    <updated>2016-07-26T18:45:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/3303032?s=30&amp;v=4"/>
+    <author>
+      <name>ianks</name>
+      <uri>https://github.com/ianks</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix out of bounds index access in getLabelMoment
+
+Previously, calling getLabelMoment with an out of bound index would cause an
+error such as this:
+
+```
+Uncaught TypeError: Cannot read property &amp;#39;null&amp;#39; of undefined
+```
+
+This happens because there is not always guaranteed to be a labelMoment on
+at the current datasetIndex.
+
+One example of this is practice comes from a this function call:
+
+```js
+// since the are not always guaranteed to be at least two labelMoments
+//                                \ / this index can be out of bounds
+//                                 |
+var tickWidth = me.getPixelForTick(1) - me.getPixelForTick(0) - 6;
+```
+
+This patch simply ensures that the `labelMoments` for the `datasetIndex` are
+defined before accessing properties on it.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a0d8554117cb506a0d96e922ef52360dab538b3f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a0d8554117cb506a0d96e922ef52360dab538b3f"/>
+    <title>
+        Merge pull request #3032 from Neabfi/patch-1
+    </title>
+    <updated>2016-07-25T15:20:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3032 from Neabfi/patch-1
+
+Correction of spelling mistakes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29a1ba10e4e72b508c00fc6a8e8fcc91ca1313c9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/29a1ba10e4e72b508c00fc6a8e8fcc91ca1313c9"/>
+    <title>
+        Correction of spelling mistake
+    </title>
+    <updated>2016-07-25T14:53:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/8831940?s=30&amp;v=4"/>
+    <author>
+      <name>Neabfi</name>
+      <uri>https://github.com/Neabfi</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Correction of spelling mistake&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a2977ecfcd9969f8b295f6c444e06926adc39eaa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a2977ecfcd9969f8b295f6c444e06926adc39eaa"/>
+    <title>
+        Correction of spelling mistake
+    </title>
+    <updated>2016-07-25T14:50:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/8831940?s=30&amp;v=4"/>
+    <author>
+      <name>Neabfi</name>
+      <uri>https://github.com/Neabfi</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Correction of spelling mistake&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/47b5ad60ae798787bad97f2d478dab396536b752</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/47b5ad60ae798787bad97f2d478dab396536b752"/>
+    <title>
+        Fix JSHint warnings
+    </title>
+    <updated>2016-07-24T22:21:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix JSHint warnings&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2016630daa7b296425441c376d1756084bca214c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2016630daa7b296425441c376d1756084bca214c"/>
+    <title>
+        Refactoring of the line drawing function to make `spanGaps` work corr…
+    </title>
+    <updated>2016-07-24T22:12:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactoring of the line drawing function to make `spanGaps` work correctly. Added a lot more test conditions to the line element tests. Ensured that the line controller correctly calculated bezier control points when there was a point to be skipped&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/880c75b213fba885094f0e0365c9b97d209d50af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/880c75b213fba885094f0e0365c9b97d209d50af"/>
+    <title>
+        Merge pull request #3027 from moberwasserlechner/bugfix/3026
+    </title>
+    <updated>2016-07-24T13:02:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3027 from moberwasserlechner/bugfix/3026
+
+Remove non existing property from radar samples #3026&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/27010c46195bca8bbb311051a74273542cdc173c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/27010c46195bca8bbb311051a74273542cdc173c"/>
+    <title>
+        Remove non existing property from radar samples #3026
+    </title>
+    <updated>2016-07-24T08:49:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1049938?s=30&amp;v=4"/>
+    <author>
+      <name>moberwasserlechner</name>
+      <uri>https://github.com/moberwasserlechner</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove non existing property from radar samples #3026&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e94d3c0730b86f9b2059d5077e6b1544295ec61a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e94d3c0730b86f9b2059d5077e6b1544295ec61a"/>
+    <title>
+        Merge pull request #2947 from chartjs/fix/524
+    </title>
+    <updated>2016-07-19T22:56:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2947 from chartjs/fix/524
+
+Add polar area start angle setting&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

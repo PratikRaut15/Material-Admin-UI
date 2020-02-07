@@ -1,0 +1,12 @@
+diff --git a/package.json b/package.json
+index c6e9eae..1a3a96c 100644
+--- a/package.json
++++ b/package.json
+@@ -8,6 +8,7 @@
+     "name": "Olly Smith",
+     "email": "olly@oesmith.co.uk"
+   },
++  "main": "morris.min.js",
+   "repository": {
+     "type": "git",
+     "url": "git://github.com/morrisjs/morris.js.git"

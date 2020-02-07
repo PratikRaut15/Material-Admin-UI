@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.7.1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.7.1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.7.1.atom"/>
+  <title>Recent Commits to Chart.js:v2.7.1</title>
+  <updated>2017-10-28T15:01:52Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0fead21939b92c15093c1b7d5ee2627fb5900fff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0fead21939b92c15093c1b7d5ee2627fb5900fff"/>
+    <title>
+        Release 2.7.1
+    </title>
+    <updated>2017-10-28T15:01:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.7.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1e098234eaa10bafb28fdb9d6a35e31f56df3454</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1e098234eaa10bafb28fdb9d6a35e31f56df3454"/>
+    <title>
+        Merge pull request #4876 from chartjs/master
+    </title>
+    <updated>2017-10-28T14:56:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4876 from chartjs/master
+
+Version 2.7.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8a6d58d2d907fcf608b7c509d19eee929e5bd1bc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8a6d58d2d907fcf608b7c509d19eee929e5bd1bc"/>
+    <title>
+        Bump version to 2.7.1 (#4877)
+    </title>
+    <updated>2017-10-28T08:22:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.7.1 (#4877)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/13e9676625723a4c6d4e8232b2fe3fa02421d38b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/13e9676625723a4c6d4e8232b2fe3fa02421d38b"/>
+    <title>
+        Reset tooltip when calling Chart.update (#4840)
+    </title>
+    <updated>2017-10-28T08:20:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reset tooltip when calling Chart.update (#4840)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/26c1936dee7dcc2f00b63af9bb04e9af1703e461</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/26c1936dee7dcc2f00b63af9bb04e9af1703e461"/>
+    <title>
+        Move extend and inherits helpers in helpers.core.js (#4878)
+    </title>
+    <updated>2017-10-24T17:11:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Move extend and inherits helpers in helpers.core.js (#4878)
+
+Fix Rollup issue caused by early access of the `extend` and `inherits` helpers not yet part of the `helpers/index` import. Also added (basic) unit tests for whose methods.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c81a55fed1d9da9f97cc26391083876e5471e84f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c81a55fed1d9da9f97cc26391083876e5471e84f"/>
+    <title>
+        Add jsDelivr as CDN install option (#4881)
+    </title>
+    <updated>2017-10-22T17:18:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add jsDelivr as CDN install option (#4881)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f32f0775a38088a829cad6e920989ee98e3c86d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9f32f0775a38088a829cad6e920989ee98e3c86d"/>
+    <title>
+        Attempt to fix test flakiness (Firefox) (#4880)
+    </title>
+    <updated>2017-10-22T15:32:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Attempt to fix test flakiness (Firefox) (#4880)
+
+These settings deal with browser disconnects. We had seen test flakiness from Firefox:
+[Firefox 56.0.0 (Linux 0.0.0)]: Disconnected (1 times), because no message in 10000 ms&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee6432b4cbb5a2bf191d5ff5bb890136a2a279f5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ee6432b4cbb5a2bf191d5ff5bb890136a2a279f5"/>
+    <title>
+        Update supported browser section (#4818)
+    </title>
+    <updated>2017-10-21T12:43:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update supported browser section (#4818)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b64fd5db2526b33b5da6b8182f50bba8042b82af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b64fd5db2526b33b5da6b8182f50bba8042b82af"/>
+    <title>
+        Respect min and max when building ticks (#4860)
+    </title>
+    <updated>2017-10-20T07:03:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Respect min and max when building ticks (#4860)
+
+Generate time scale ticks (`ticks.source: &amp;#39;auto&amp;#39;`) based on the effective visualized range instead of the actual data range, meaning that the computed units and/or step size may change if the time options min and max are different from the data min and max.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11315fba2bef8c07591dcc21e6d2d594caf6d59b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/11315fba2bef8c07591dcc21e6d2d594caf6d59b"/>
+    <title>
+        minor doc fixes (#4851)
+    </title>
+    <updated>2017-10-16T22:45:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/3632883?s=30&amp;v=4"/>
+    <author>
+      <name>minusf</name>
+      <uri>https://github.com/minusf</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;minor doc fixes (#4851)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8ac0257f8da13afffc3e5d32c9b6debea8f6f6a0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8ac0257f8da13afffc3e5d32c9b6debea8f6f6a0"/>
+    <title>
+        Add &quot;beforeTooltipDraw&quot; and &quot;afterTooltipDraw&quot; plugin hooks (#4793)
+    </title>
+    <updated>2017-10-14T21:29:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/16506602?s=30&amp;v=4"/>
+    <author>
+      <name>JewelsJLF</name>
+      <uri>https://github.com/JewelsJLF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add &amp;quot;beforeTooltipDraw&amp;quot; and &amp;quot;afterTooltipDraw&amp;quot; plugin hooks (#4793)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c83b03f668a5de2cc60678220a9ea50ebd44a1af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c83b03f668a5de2cc60678220a9ea50ebd44a1af"/>
+    <title>
+        Fixes #4772: added scope for tooltip position mode call and added doc…
+    </title>
+    <updated>2017-10-10T22:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1506919?s=30&amp;v=4"/>
+    <author>
+      <name>IMM0rtalis</name>
+      <uri>https://github.com/IMM0rtalis</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes #4772: added scope for tooltip position mode call and added docs (#4784)
+
+* added scope for tooltip position mode call and added docs
+
+* added test for positioner
+
+* removed named func for lint
+
+* resolved pull-request comments&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d81afc8b5a0f4f27d9d81f1dd748a7a01e7365c0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d81afc8b5a0f4f27d9d81f1dd748a7a01e7365c0"/>
+    <title>
+        Fix choosing of formatting unit (#4779)
+    </title>
+    <updated>2017-10-09T13:54:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix choosing of formatting unit (#4779)
+
+* Don&amp;#39;t change minorFormat when determining label capacity
+
+* Fix choosing of formatting unit&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2226b289236e45f277ab95686e45cbe7a64ad62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d2226b289236e45f277ab95686e45cbe7a64ad62"/>
+    <title>
+        Fix markdown (#4827)
+    </title>
+    <updated>2017-10-08T12:09:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix markdown (#4827)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa2ca2c1e2a6cefb4044a33d1bd1ab44aa907dfc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/fa2ca2c1e2a6cefb4044a33d1bd1ab44aa907dfc"/>
+    <title>
+        Clarify that x/y coordinates only work with the time scale (#4826)
+    </title>
+    <updated>2017-10-08T02:18:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clarify that x/y coordinates only work with the time scale (#4826)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3fe198c86098ae50d5d5e9b74d111d5f8fa74bf0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3fe198c86098ae50d5d5e9b74d111d5f8fa74bf0"/>
+    <title>
+        Fix responsive issue when the chart is recreated (#4774)
+    </title>
+    <updated>2017-10-07T15:43:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix responsive issue when the chart is recreated (#4774)
+
+Chrome specific issue that happens when destroying a chart and re-creating it immediately (same animation frame?). The CSS animation used to detect when the canvas become visible is not re-evaluated, breaking responsiveness. Accessing the `offsetParent` property will force a reflow and re-evaluate the CSS animation.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/73a3c3b8214047770840d603bc047731b24df1c0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/73a3c3b8214047770840d603bc047731b24df1c0"/>
+    <title>
+        fixed typo (#4819)
+    </title>
+    <updated>2017-10-06T11:36:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/619048?s=30&amp;v=4"/>
+    <author>
+      <name>einfallstoll</name>
+      <uri>https://github.com/einfallstoll</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed typo (#4819)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0bd0654efb4a19f192a485d88daadbe8ee2f44c0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0bd0654efb4a19f192a485d88daadbe8ee2f44c0"/>
+    <title>
+        fix colour settings of BeforeLabel and BeforeBody (#4783)
+    </title>
+    <updated>2017-10-02T22:33:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5304233?s=30&amp;v=4"/>
+    <author>
+      <name>Rittyan</name>
+      <uri>https://github.com/Rittyan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix colour settings of BeforeLabel and BeforeBody (#4783)
+
+* fix colour settings of BeforeLabel and BeforeBody
+
+* delete redundant variable declaration
+
+* collect label colour setting.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b4d69247b055e25c87bf67019112495c5fa982db</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b4d69247b055e25c87bf67019112495c5fa982db"/>
+    <title>
+        Fix handling of null labels (#4795)
+    </title>
+    <updated>2017-09-29T11:52:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix handling of null labels (#4795)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b94532c29f7a4526e8c48961a1451e4ae1a9460c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b94532c29f7a4526e8c48961a1451e4ae1a9460c"/>
+    <title>
+        Error if style is null (#4781)
+    </title>
+    <updated>2017-09-29T11:30:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/9094947?s=30&amp;v=4"/>
+    <author>
+      <name>Rydori</name>
+      <uri>https://github.com/Rydori</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Error if style is null (#4781)
+
+I tested in Chrome and when style(line 50) is null, style.toString is undefined
+Reason: typeof null equals &amp;quot;object&amp;quot; (at least in Chrome)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

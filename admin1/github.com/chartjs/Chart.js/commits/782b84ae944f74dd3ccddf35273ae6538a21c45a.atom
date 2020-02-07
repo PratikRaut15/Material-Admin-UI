@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/782b84ae944f74dd3ccddf35273ae6538a21c45a</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/782b84ae944f74dd3ccddf35273ae6538a21c45a"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/782b84ae944f74dd3ccddf35273ae6538a21c45a.atom"/>
+  <title>Recent Commits to Chart.js:782b84ae944f74dd3ccddf35273ae6538a21c45a</title>
+  <updated>2016-06-18T10:14:32Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/782b84ae944f74dd3ccddf35273ae6538a21c45a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/782b84ae944f74dd3ccddf35273ae6538a21c45a"/>
+    <title>
+        Make Travis to release the npm package
+    </title>
+    <updated>2016-06-18T10:14:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make Travis to release the npm package
+
+Add .npmignore to include dist/*.js files to the npm release (but exclude zip files). See https://docs.travis-ci.com/user/deployment/npm/. Also cleanup the .gitignore file.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/53a0c5442e3d8f75cacff02bb158e2b4d65c6a9c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/53a0c5442e3d8f75cacff02bb158e2b4d65c6a9c"/>
+    <title>
+        New Chart.js.zip package
+    </title>
+    <updated>2016-06-18T10:14:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New Chart.js.zip package
+
+Samples need to be packaged with built libraries (which one have been removed from the repository), so create a new `gulp package` task to generate a ZIP archive with dist files, samples and the license file. This archive is generated in the ./dist/ folder and will be deployed by Travis along the GH release. Note that the ./dist/ folder is not preserved but merged in the archive root. Also change samples requiring moment.js to load this lib from the CDN instead of the ./node_module folder.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0579fbb7415836728aff0595cf15ec44ac244f6c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0579fbb7415836728aff0595cf15ec44ac244f6c"/>
+    <title>
+        Add download links to the latest version
+    </title>
+    <updated>2016-06-18T10:14:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add download links to the latest version
+
+Remove outdated *standard build* and *bundled with Moment.js* links from the documentation and add a link to the latest GitHub release, from where the user can download `*.js` files.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/20f8beffc416b60c2b1c18b6b874d9296a60b6d9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/20f8beffc416b60c2b1c18b6b874d9296a60b6d9"/>
+    <title>
+        Remove and ignore dist/* files
+    </title>
+    <updated>2016-06-18T10:14:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove and ignore dist/* files
+
+Travis now builds and deploys these files for all tags, so we don&amp;#39;t need to have them on the repository anymore.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/72edacd877f59c2f471b2366d60d0fb051734aed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/72edacd877f59c2f471b2366d60d0fb051734aed"/>
+    <title>
+        Make Travis to deploy built files for tags
+    </title>
+    <updated>2016-06-18T10:14:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make Travis to deploy built files for tags
+
+See https://docs.travis-ci.com/user/deployment/releases&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/07662b158d829f395b2c97d732e60599b8b5c4e4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/07662b158d829f395b2c97d732e60599b8b5c4e4"/>
+    <title>
+        V2.1.6 with tooltip array fix
+    </title>
+    <updated>2016-06-14T23:32:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;V2.1.6 with tooltip array fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0720608e64f52b3856e98e67f8f5cb6e1b267e87</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0720608e64f52b3856e98e67f8f5cb6e1b267e87"/>
+    <title>
+        Merge pull request #2776 from chartjs/fix/2775
+    </title>
+    <updated>2016-06-14T23:31:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2776 from chartjs/fix/2775
+
+fix tooltip with array returns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f106e1bf2db1aa604edb62b8e3b309329c41dd94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f106e1bf2db1aa604edb62b8e3b309329c41dd94"/>
+    <title>
+        fix tooltip with array returns
+    </title>
+    <updated>2016-06-14T23:19:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix tooltip with array returns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/44e40045897880f0cc837a8f41eccc1dea6b2ce6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/44e40045897880f0cc837a8f41eccc1dea6b2ce6"/>
+    <title>
+        Merge pull request #2760 from chartjs/2.1.5_release
+    </title>
+    <updated>2016-06-12T17:21:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2760 from chartjs/2.1.5_release
+
+Bump version to 2.1.5 and build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3d03e3640896a78e48e177cb0ba78c3ac4c42359</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3d03e3640896a78e48e177cb0ba78c3ac4c42359"/>
+    <title>
+        Bump version to 2.1.5 and build
+    </title>
+    <updated>2016-06-12T17:14:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.1.5 and build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16a6555bc21b728fe85a637e631184ea9ebeedfc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/16a6555bc21b728fe85a637e631184ea9ebeedfc"/>
+    <title>
+        Merge pull request #2758 from chartjs/fix/zoom-curved-lines
+    </title>
+    <updated>2016-06-12T16:18:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2758 from chartjs/fix/zoom-curved-lines
+
+Do not cap bezier control point locations&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f3d4ee933395d8cc34867e6e276970382feb5840</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f3d4ee933395d8cc34867e6e276970382feb5840"/>
+    <title>
+        Capping these to the chart bounds causes lines to bend during pan and…
+    </title>
+    <updated>2016-06-12T13:19:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Capping these to the chart bounds causes lines to bend during pan and zoom&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5de72a1cdf16302f46fb9aed04257c13b60c6571</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5de72a1cdf16302f46fb9aed04257c13b60c6571"/>
+    <title>
+        Merge pull request #2755 from chartjs/fix/2751
+    </title>
+    <updated>2016-06-11T14:45:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2755 from chartjs/fix/2751
+
+Fix pointLabel docs typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7be69ce7e317f4dbe52cc0e2d9bd8e76cd1160c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7be69ce7e317f4dbe52cc0e2d9bd8e76cd1160c1"/>
+    <title>
+        Fix pointLabel docs typo
+    </title>
+    <updated>2016-06-11T13:24:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix pointLabel docs typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/647dc582cd85fc8e25d49cf0e38d459c582b2652</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/647dc582cd85fc8e25d49cf0e38d459c582b2652"/>
+    <title>
+        Merge pull request #2752 from simonbrunel/plugins-arch
+    </title>
+    <updated>2016-06-11T12:42:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2752 from simonbrunel/plugins-arch
+
+Plugins Enhancement&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/53eb7667dd25f53fbf0d65e28370b32d90ab9448</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/53eb7667dd25f53fbf0d65e28370b32d90ab9448"/>
+    <title>
+        New datasets update plugin extensions
+    </title>
+    <updated>2016-06-10T22:17:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New datasets update plugin extensions
+
+Add `beforeDatasetsUpdate` and `afterDatasetsUpdate` plugin notifications during the chart update. Plugins are able to cancel the datasets update by explicitly returning false to `beforeDatasetsUpdate`. For consistency, rename `(before|after)DatasetDraw` to `(before|after)DatasetsDraw`.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dfdbd4465c6d35760aca60e7ff9bc58b62ac7cb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/dfdbd4465c6d35760aca60e7ff9bc58b62ac7cb9"/>
+    <title>
+        Allow to register/unregister an array of plugins
+    </title>
+    <updated>2016-06-10T22:17:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow to register/unregister an array of plugins
+
+The plugins service now accepts an array of plugin instances to register or unregister (for consistency, renamed `Chart.plugins.remove` to `unregister`). Also added a few methods to manipulate registered plugins, such as `count`, `getAll` and `clear` (mainly used by our unit tests).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a55c17d73fa7bfa9e2780fce3ea9a7770a11d8d3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a55c17d73fa7bfa9e2780fce3ea9a7770a11d8d3"/>
+    <title>
+        Enhance plugin notification system
+    </title>
+    <updated>2016-06-10T20:26:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enhance plugin notification system
+
+Change the plugin notification behavior: this method now returns false as soon as a plugin *explicitly* returns false, else returns true. Also, plugins are now called in their own scope (so remove the never used `scope` parameter).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a419af4c2a9a4190fbe2ef550e20d38505cd648</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7a419af4c2a9a4190fbe2ef550e20d38505cd648"/>
+    <title>
+        Rename plugin service and notification method
+    </title>
+    <updated>2016-06-10T20:26:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rename plugin service and notification method
+
+Rename `Chart.pluginService` to `Chart.plugins` (so move the old Chart.plugins array as a private member of the service), and rename `notifyPlugins` to `notify` for consistency with other service methods.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d901687c2d5bb011505c599bfb03aec3a810993f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d901687c2d5bb011505c599bfb03aec3a810993f"/>
+    <title>
+        Remove link that doesn&#39;t exist anymore in scale docs
+    </title>
+    <updated>2016-06-10T15:00:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove link that doesn&amp;#39;t exist anymore in scale docs&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

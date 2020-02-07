@@ -1,0 +1,81 @@
+From 782b84ae944f74dd3ccddf35273ae6538a21c45a Mon Sep 17 00:00:00 2001
+From: Simon Brunel <simonbrunel@users.noreply.github.com>
+Date: Sun, 15 May 2016 23:32:05 +0200
+Subject: [PATCH] Make Travis to release the npm package
+
+Add .npmignore to include dist/*.js files to the npm release (but exclude zip files). See https://docs.travis-ci.com/user/deployment/npm/. Also cleanup the .gitignore file.
+---
+ .gitignore  | 16 +++++-----------
+ .npmignore  | 13 +++++++++++++
+ .travis.yml | 10 +++++++++-
+ 3 files changed, 27 insertions(+), 12 deletions(-)
+ create mode 100644 .npmignore
+
+diff --git a/.gitignore b/.gitignore
+index 61c549634..27254e97e 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,14 +1,8 @@
++/coverage
++/custom
++/dist
++/docs/index.md
++/node_modules
+ 
+ .DS_Store
+-
+-node_modules/*
+-custom/*
+-dist/*
+-
+-docs/index.md
+-
+-bower_components/
+-
+-coverage/*
+ .idea
+-nbproject/*
+diff --git a/.npmignore b/.npmignore
+new file mode 100644
+index 000000000..47b4948ed
+--- /dev/null
++++ b/.npmignore
+@@ -0,0 +1,13 @@
++/.git
++/.github
++/coverage
++/custom
++/dist/*.zip
++/docs/index.md
++/node_modules
++
++.codeclimate.yml
++.DS_Store
++.gitignore
++.idea
++.travis.yml
+diff --git a/.travis.yml b/.travis.yml
+index 6671fc2a4..4643c405e 100644
+--- a/.travis.yml
++++ b/.travis.yml
+@@ -32,7 +32,7 @@ addons:
+       - google-chrome-stable
+ 
+ deploy:
+-  provider: releases
++- provider: releases
+   api_key:
+     secure: E6JiZzA/Qy+UD1so/rVfqYnMhgU4m0cUsljxyrKIiYKlt/ZXo1XJabNkpEIYLvckrNx+g/4cmidNcuLfrnAZJtUg53qHLxyqMTXa9zAqmxxJ6aIpQpNK25FIEk9Xwm2XZdbI5rrm0ZciP5rcgg0X8/j5+RtnU3ZpTOCVkp0P73A=
+   file:
+@@ -44,3 +44,11 @@ deploy:
+   skip_cleanup: true
+   on:
+     tags: true
++- provider: npm
++  email:
++    secure: f6jQXdqhoKtEZ3WBvnNM9PB2l9yg8SGmnUwQzeuLpW731opmv1ngPcMA+CotDAavIRs2BvAgVoLJOVGxMRXRSi5pgahfR0O2LetFoT/Px+q4MMqtn3zMgV/OuYL/fIyKXjyoYwSRfjuaIIGX7VTCOpqOEe29UQJAb7XcG9jhgIo=
++  api_key:
++    secure: O5lgPeX5ofkMSiUeijs+0hrK9Dejmpki/UABd+rgx3Cmjlxvi5DVugHpcn/6C0if0CoHv5/TqwQHVgL43kwR5ZKcspl7bzK2vD2YBpingF42Oz91YVNZwQIJyWNVSSWzzFYzG9xOXO26ZD1gTZ26Z3X+xfZVtugWkzbBa/c8NmQ=
++  skip_cleanup: true
++  on:
++    tags: true

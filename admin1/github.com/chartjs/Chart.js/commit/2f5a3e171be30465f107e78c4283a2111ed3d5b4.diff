@@ -1,0 +1,12 @@
+diff --git a/.gitignore b/.gitignore
+index cfb878a6d..0a65be9b2 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -6,6 +6,7 @@
+ /gh-pages
+ /jsdoc
+ /node_modules
++/package-lock.json
+ .DS_Store
+ .idea
+ .vscode

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.1.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.1.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.1.2.atom"/>
+  <title>Recent Commits to Chart.js:v2.1.2</title>
+  <updated>2016-05-08T15:26:48Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8ffbe234931036a73147401f11dac0562715aeb4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8ffbe234931036a73147401f11dac0562715aeb4"/>
+    <title>
+        2.1.2 release
+    </title>
+    <updated>2016-05-08T15:26:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;2.1.2 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9a38e25e28a8fed7858fe19a4d526f58afb79548</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9a38e25e28a8fed7858fe19a4d526f58afb79548"/>
+    <title>
+        Merge pull request #2493 from chartjs/fix/2492
+    </title>
+    <updated>2016-05-08T15:11:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2493 from chartjs/fix/2492
+
+Calculate tick width for bars using number of ticks&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/52a86549897f7ffc4ff110890e4d943f796dfd59</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/52a86549897f7ffc4ff110890e4d943f796dfd59"/>
+    <title>
+        Ensure that when calculating tick width in the bar controller, we use…
+    </title>
+    <updated>2016-05-08T01:28:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ensure that when calculating tick width in the bar controller, we use the number of ticks in the scale, not the number of data points.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/51d8a5b55e1595de1cfb60b328c2b09771cc6372</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/51d8a5b55e1595de1cfb60b328c2b09771cc6372"/>
+    <title>
+        Merge pull request #2490 from chartjs/fix/2476
+    </title>
+    <updated>2016-05-07T21:04:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2490 from chartjs/fix/2476
+
+beginAtZero and linear scales with no data should play nice&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bc505b1a9dfcf96176f9f8976e79efd29044d6e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bc505b1a9dfcf96176f9f8976e79efd29044d6e0"/>
+    <title>
+        beginAtZero and linear scales with no data should play nice
+    </title>
+    <updated>2016-05-07T20:56:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;beginAtZero and linear scales with no data should play nice&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b2fd94b131bf20a73a0eac3d56d34e22771a29c6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b2fd94b131bf20a73a0eac3d56d34e22771a29c6"/>
+    <title>
+        Merge pull request #2489 from chartjs/fix/2480
+    </title>
+    <updated>2016-05-07T20:44:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2489 from chartjs/fix/2480
+
+Use local variables + don&amp;#39;t include text width for vertical scales with mirrored text&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/33c7dbafd61f899b9a3329b45dec7ba454b57995</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/33c7dbafd61f899b9a3329b45dec7ba454b57995"/>
+    <title>
+        Use local variables + don&#39;t include text width for vertical scales wi…
+    </title>
+    <updated>2016-05-07T20:26:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use local variables + don&amp;#39;t include text width for vertical scales with mirrored text&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/15cbbae848884794d34db6a08a0f559e898d7662</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/15cbbae848884794d34db6a08a0f559e898d7662"/>
+    <title>
+        Merge pull request #2488 from chartjs/fix/2472
+    </title>
+    <updated>2016-05-07T18:24:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2488 from chartjs/fix/2472
+
+Scales should have 0 cross size when not displayed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d13e7905dcc686e2437a7993e6c83abff0e8d2ad</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d13e7905dcc686e2437a7993e6c83abff0e8d2ad"/>
+    <title>
+        Scales should have 0 cross size when not displayed
+    </title>
+    <updated>2016-05-07T18:18:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Scales should have 0 cross size when not displayed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b174d82563fac7a7353a2e65b806ca4d8a01a16e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b174d82563fac7a7353a2e65b806ca4d8a01a16e"/>
+    <title>
+        Merge pull request #2486 from chartjs/fix/2330
+    </title>
+    <updated>2016-05-07T15:47:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2486 from chartjs/fix/2330
+
+Allow updating scale defaults&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc4c23c8d24166701aa7d47ee1f94dec50f0b49a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/fc4c23c8d24166701aa7d47ee1f94dec50f0b49a"/>
+    <title>
+        Allow updating scale defaults
+    </title>
+    <updated>2016-05-07T15:43:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow updating scale defaults&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9cfda5a8198cee1d7d77a7732a1fd2c0beb0c93d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9cfda5a8198cee1d7d77a7732a1fd2c0beb0c93d"/>
+    <title>
+        Update CDN in README to 2.1.1
+    </title>
+    <updated>2016-05-07T15:42:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update CDN in README to 2.1.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29ab84c4c5504850e58935f9e59e4dbb22cb31d1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/29ab84c4c5504850e58935f9e59e4dbb22cb31d1"/>
+    <title>
+        Merge pull request #2484 from chartjs/release/2.1.1
+    </title>
+    <updated>2016-05-07T12:16:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2484 from chartjs/release/2.1.1
+
+2.1.1 release build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8fb2073260e56f51f7c9b2ae2bee942cd5022768</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8fb2073260e56f51f7c9b2ae2bee942cd5022768"/>
+    <title>
+        2.1.1 release build
+    </title>
+    <updated>2016-05-07T12:07:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;2.1.1 release build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f3363e1d3aac67d94d28037af3e3073f9a89aebb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f3363e1d3aac67d94d28037af3e3073f9a89aebb"/>
+    <title>
+        Merge pull request #2475 from chartjs/fix/2471
+    </title>
+    <updated>2016-05-07T11:55:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2475 from chartjs/fix/2471
+
+Fix time scale grid lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d88e9c3b75f5d3319c01c631025a36927b29446</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8d88e9c3b75f5d3319c01c631025a36927b29446"/>
+    <title>
+        Fix time scale grid lines
+    </title>
+    <updated>2016-05-06T11:57:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix time scale grid lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b2dc292437c6630ad37f1b085218cdac93899a10</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b2dc292437c6630ad37f1b085218cdac93899a10"/>
+    <title>
+        Merge pull request #2473 from chartjs/fix/tension
+    </title>
+    <updated>2016-05-06T11:29:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2473 from chartjs/fix/tension
+
+Fix line tension drawing, especially when set to 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4bff1602ecdc4dc8e933bfb946330234181bee6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c4bff1602ecdc4dc8e933bfb946330234181bee6"/>
+    <title>
+        Fix line tension drawing, especially when set to 0
+    </title>
+    <updated>2016-05-06T11:19:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix line tension drawing, especially when set to 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c079d73db0cf3ad4a8c10da2440eb321e0de41b4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c079d73db0cf3ad4a8c10da2440eb321e0de41b4"/>
+    <title>
+        Merge pull request #2468 from dmk2014/master
+    </title>
+    <updated>2016-05-05T16:09:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2468 from dmk2014/master
+
+Update Legend Documentation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad9f40f841d1f260cab13a25e619198431d76765</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ad9f40f841d1f260cab13a25e619198431d76765"/>
+    <title>
+        Update legend docs -&gt; parameter &#39;data&#39; has changed to &#39;chart&#39;.
+    </title>
+    <updated>2016-05-05T15:59:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6460241?s=30&amp;v=4"/>
+    <author>
+      <name>dmk2014</name>
+      <uri>https://github.com/dmk2014</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update legend docs -&amp;gt; parameter &amp;#39;data&amp;#39; has changed to &amp;#39;chart&amp;#39;.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

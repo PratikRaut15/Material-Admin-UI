@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v1.0.1-beta.4</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.4"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.4.atom"/>
+  <title>Recent Commits to Chart.js:v1.0.1-beta.4</title>
+  <updated>2014-08-17T22:21:11Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b840ce56be51b61dfc2d4e40e56304c880c541b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8b840ce56be51b61dfc2d4e40e56304c880c541b"/>
+    <title>
+        Pre-release version bump to beta.4
+    </title>
+    <updated>2014-08-17T22:21:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Pre-release version bump to beta.4&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7eec283d70a7807d578fe485346a4402c84f21d5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7eec283d70a7807d578fe485346a4402c84f21d5"/>
+    <title>
+        Merge pull request #435 from nnnick/fix/sparse-datasets
+    </title>
+    <updated>2014-08-17T22:18:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #435 from nnnick/fix/sparse-datasets
+
+Resolve issues with sparse datasets &amp;amp; solve bezier capping to scale bounds&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/10a9ef46cbc396bcfa7a1f809578f63bbb3ed167</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/10a9ef46cbc396bcfa7a1f809578f63bbb3ed167"/>
+    <title>
+        Add in extra bezier debug point
+    </title>
+    <updated>2014-08-17T22:14:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add in extra bezier debug point&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/179d80a93b64cf107ee219886c43eb6e212594f5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/179d80a93b64cf107ee219886c43eb6e212594f5"/>
+    <title>
+        Cap bezier handles inside the scale
+    </title>
+    <updated>2014-08-17T21:32:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cap bezier handles inside the scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/48f10196f627f75aa75a7ae5b4d674ae9b334277</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/48f10196f627f75aa75a7ae5b4d674ae9b334277"/>
+    <title>
+        Use null checking for which points to draw/bezier
+    </title>
+    <updated>2014-08-03T18:20:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use null checking for which points to draw/bezier&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bd25b5c7fdcb235b2c6db045feac06f8adef6063</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bd25b5c7fdcb235b2c6db045feac06f8adef6063"/>
+    <title>
+        New methods for array finding
+    </title>
+    <updated>2014-08-03T18:19:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New methods for array finding&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/09c0f3308cb226bc177761541bc882022658aadf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/09c0f3308cb226bc177761541bc882022658aadf"/>
+    <title>
+        Whitespace cleanup
+    </title>
+    <updated>2014-08-03T15:39:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Whitespace cleanup&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/30777e4a87958e83cadd58a59d912efad16161c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/30777e4a87958e83cadd58a59d912efad16161c1"/>
+    <title>
+        Merge branch &#39;master&#39; into fix/sparse-datasets
+    </title>
+    <updated>2014-08-03T15:05:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into fix/sparse-datasets
+
+Conflicts:
+	Chart.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/14e72759eeaa0ac0a46f24df3a0025d44414c0e8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/14e72759eeaa0ac0a46f24df3a0025d44414c0e8"/>
+    <title>
+        Merge pull request #331 from kara/patch-1
+    </title>
+    <updated>2014-07-27T22:27:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #331 from kara/patch-1
+
+Update copyright year in license to 2014&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d47e600f1a6b94586ee28b36f76d4b72880a49c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d47e600f1a6b94586ee28b36f76d4b72880a49c3"/>
+    <title>
+        Docs note on maintain aspect ratio option
+    </title>
+    <updated>2014-07-27T22:12:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Docs note on maintain aspect ratio option&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5bd10297fba1fd442d07f217e3506827c7fbfe92</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5bd10297fba1fd442d07f217e3506827c7fbfe92"/>
+    <title>
+        Update built output
+    </title>
+    <updated>2014-07-27T22:03:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update built output&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/55a115179e4717f10f25301a1b86fbc6cfd21de2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/55a115179e4717f10f25301a1b86fbc6cfd21de2"/>
+    <title>
+        Fix reference error when tagging a release
+    </title>
+    <updated>2014-07-27T22:02:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix reference error when tagging a release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/92e73bd28a0a289296aa4b8cdabe36c5377223de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/92e73bd28a0a289296aa4b8cdabe36c5377223de"/>
+    <title>
+        Merge pull request #490 from nnnick/feature/version-bump
+    </title>
+    <updated>2014-07-27T21:59:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #490 from nnnick/feature/version-bump
+
+Create a task to bump + write version numbers&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ebc955f562fb8120dbe2c23e863c1102f1c5261a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ebc955f562fb8120dbe2c23e863c1102f1c5261a"/>
+    <title>
+        Merge pull request #431 from Mardaneus86/patch-1
+    </title>
+    <updated>2014-07-27T21:58:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #431 from Mardaneus86/patch-1
+
+Missing draw method in Writing new chart types&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5683c11ebd0645466f10dc454e67745fa52aeacf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5683c11ebd0645466f10dc454e67745fa52aeacf"/>
+    <title>
+        Merge pull request #438 from Miosss/templateEnchanceme
+    </title>
+    <updated>2014-07-27T21:58:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #438 from Miosss/templateEnchanceme
+
+Alternative scale templating. Passing function as template.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/61467e107f21a73dcea85236e41fc2077181d685</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/61467e107f21a73dcea85236e41fc2077181d685"/>
+    <title>
+        Merge pull request #443 from andyburke/aspectratios
+    </title>
+    <updated>2014-07-27T21:57:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #443 from andyburke/aspectratios
+
+Allow for responsive chart to take up its entire container.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/adf6f3abb2ee4f7a3bb770cfefcd804e38b90af7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/adf6f3abb2ee4f7a3bb770cfefcd804e38b90af7"/>
+    <title>
+        Create a task to bump + write version numbers
+    </title>
+    <updated>2014-07-27T20:41:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create a task to bump + write version numbers
+
+Also run `gulp release` to tag the latest release.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/22c50b0aba3f6cea0e28c0a7890c0d8b052742f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/22c50b0aba3f6cea0e28c0a7890c0d8b052742f2"/>
+    <title>
+        Merge pull request #460 from ooflorent/fix/npm-package
+    </title>
+    <updated>2014-07-17T09:02:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #460 from ooflorent/fix/npm-package
+
+Add main in package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/edb245b649049671fe4983161dbc55d694c23c89</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/edb245b649049671fe4983161dbc55d694c23c89"/>
+    <title>
+        Add main file
+    </title>
+    <updated>2014-07-17T07:42:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/168498?s=30&amp;v=4"/>
+    <author>
+      <name>ooflorent</name>
+      <uri>https://github.com/ooflorent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add main file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16cf465575325bf21a94d2a345d8bf4d9d097f11</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/16cf465575325bf21a94d2a345d8bf4d9d097f11"/>
+    <title>
+        Add a small amount to docs.
+    </title>
+    <updated>2014-07-11T00:47:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/273857?s=30&amp;v=4"/>
+    <author>
+      <name>andyburke</name>
+      <uri>https://github.com/andyburke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a small amount to docs.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

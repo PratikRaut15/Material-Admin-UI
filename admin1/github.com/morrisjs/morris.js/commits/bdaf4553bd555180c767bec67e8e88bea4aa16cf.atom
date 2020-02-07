@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/bdaf4553bd555180c767bec67e8e88bea4aa16cf</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/bdaf4553bd555180c767bec67e8e88bea4aa16cf"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/bdaf4553bd555180c767bec67e8e88bea4aa16cf.atom"/>
+  <title>Recent Commits to morris.js:bdaf4553bd555180c767bec67e8e88bea4aa16cf</title>
+  <updated>2014-07-14T07:26:16Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bdaf4553bd555180c767bec67e8e88bea4aa16cf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/bdaf4553bd555180c767bec67e8e88bea4aa16cf"/>
+    <title>
+        Test against jQuery 1.7 since it is mentioned in README
+    </title>
+    <updated>2014-07-14T07:26:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/8155?s=30&amp;v=4"/>
+    <author>
+      <name>ebeigarts</name>
+      <uri>https://github.com/ebeigarts</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Test against jQuery 1.7 since it is mentioned in README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/13117937335644c40170e28160adfca516c582a1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/13117937335644c40170e28160adfca516c582a1"/>
+    <title>
+        Fix dependencies in bower.json
+    </title>
+    <updated>2014-07-14T07:25:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/8155?s=30&amp;v=4"/>
+    <author>
+      <name>ebeigarts</name>
+      <uri>https://github.com/ebeigarts</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix dependencies in bower.json
+
+1. README clearly states jQuery &amp;gt;= 1.7.0
+2. mocha is not runtime dependeny&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/72596faa6f5b59031084b90b0f69232f31a97d55</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/72596faa6f5b59031084b90b0f69232f31a97d55"/>
+    <title>
+        Update package.json
+    </title>
+    <updated>2014-07-13T21:06:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5cf1410eda7055eaf2c7d218d4cb24ec5ed55c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d5cf1410eda7055eaf2c7d218d4cb24ec5ed55c8"/>
+    <title>
+        Update README for v0.5.1 release.
+    </title>
+    <updated>2014-06-15T20:14:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README for v0.5.1 release.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2df090ee488021c6494acb5ab7fcd663c169f701</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2df090ee488021c6494acb5ab7fcd663c169f701"/>
+    <title>
+        Fix touch events.
+    </title>
+    <updated>2014-06-15T20:01:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix touch events.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bce2c80fdebc52c15458d09100f3e8e9f1480c12</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/bce2c80fdebc52c15458d09100f3e8e9f1480c12"/>
+    <title>
+        Support different jQuery package paths for travis builds.
+    </title>
+    <updated>2014-06-14T09:13:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Support different jQuery package paths for travis builds.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4a67502b056bb8de04814e3351c5d37ba7e9f955</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4a67502b056bb8de04814e3351c5d37ba7e9f955"/>
+    <title>
+        Rebuild.
+    </title>
+    <updated>2014-06-14T08:58:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rebuild.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1f0abcd631e4e16f0318c893b153d93a1cc84b49</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1f0abcd631e4e16f0318c893b153d93a1cc84b49"/>
+    <title>
+        Merge branch &#39;master&#39; of github.com:oesmith/morris.js
+    </title>
+    <updated>2014-06-14T08:58:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of github.com:oesmith/morris.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/587ecaa78481f0c7a678dc28a8d28b203551c20a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/587ecaa78481f0c7a678dc28a8d28b203551c20a"/>
+    <title>
+        Fix stacked=false in bar chart (fixes #275).
+    </title>
+    <updated>2014-06-14T08:58:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix stacked=false in bar chart (fixes #275).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aca2438c005130ee2ea14f819604478fc24d6a3d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/aca2438c005130ee2ea14f819604478fc24d6a3d"/>
+    <title>
+        Merge pull request #297 from sudodoki/feature/vertical_grid
+    </title>
+    <updated>2014-06-14T07:07:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #297 from sudodoki/feature/vertical_grid
+
+feature: configurable vertical segments&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4346d98fdd4d8be790b9a3f41621013ef68a9bb6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4346d98fdd4d8be790b9a3f41621013ef68a9bb6"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/mikach/morris.js
+    </title>
+    <updated>2014-06-14T07:01:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/mikach/morris.js
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ed05eb817cc48aeb2539e9fb07c9308fb79b95cc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ed05eb817cc48aeb2539e9fb07c9308fb79b95cc"/>
+    <title>
+        Add a reminder in the README to only change coffee source.
+    </title>
+    <updated>2014-06-14T06:55:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a reminder in the README to only change coffee source.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8f8aa35e3b90e004dd7b0a6f74ea6a93e153548d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8f8aa35e3b90e004dd7b0a6f74ea6a93e153548d"/>
+    <title>
+        (Finally) deprecate continuousLine option.
+    </title>
+    <updated>2014-05-05T20:38:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;(Finally) deprecate continuousLine option.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/64e5adf0b4e7d5d58b8801ae0fa12f7493446e21</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/64e5adf0b4e7d5d58b8801ae0fa12f7493446e21"/>
+    <title>
+        Update URLs in package.json.
+    </title>
+    <updated>2014-05-05T19:56:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update URLs in package.json.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fe8577c751d9d317763f5ca2d41018a7a778392b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/fe8577c751d9d317763f5ca2d41018a7a778392b"/>
+    <title>
+        v0.5.0 release date.
+    </title>
+    <updated>2014-05-05T19:45:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v0.5.0 release date.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/95323543208ffb267c0ade976f851c8a56e86069</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/95323543208ffb267c0ade976f851c8a56e86069"/>
+    <title>
+        Hide hover tooltip if empty
+    </title>
+    <updated>2014-04-03T16:37:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/4090481?s=30&amp;v=4"/>
+    <author>
+      <name>mikach</name>
+      <uri>https://github.com/mikach</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Hide hover tooltip if empty&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d31c072942bc5bf3f02247737c01b5219a35464c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d31c072942bc5bf3f02247737c01b5219a35464c"/>
+    <title>
+        Update links in README.
+    </title>
+    <updated>2014-03-19T20:59:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update links in README.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3063cf5688d7459e12544a4bce43b9f6ad46759d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/3063cf5688d7459e12544a4bce43b9f6ad46759d"/>
+    <title>
+        Fix specs.
+    </title>
+    <updated>2014-03-19T20:55:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix specs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41c37751565be6ee4539eb220a2d82081000b5c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/41c37751565be6ee4539eb220a2d82081000b5c7"/>
+    <title>
+        Merge pull request #380 from kara/patch-1
+    </title>
+    <updated>2014-03-19T20:31:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #380 from kara/patch-1
+
+Update copyright year in license to 2014&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/725d50400df6ed221bd1b31192dc09c6bfd52fd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/725d50400df6ed221bd1b31192dc09c6bfd52fd8"/>
+    <title>
+        Update copyright year in license to include 2014
+    </title>
+    <updated>2014-03-09T23:29:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/970b1ef52cf13a8a04527018df211fb7?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>kara.erickson3@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update copyright year in license to include 2014&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

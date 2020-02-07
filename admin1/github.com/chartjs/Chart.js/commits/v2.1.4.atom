@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.1.4</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.1.4"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.1.4.atom"/>
+  <title>Recent Commits to Chart.js:v2.1.4</title>
+  <updated>2016-05-26T22:43:39Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/40d76b6a7ba14aeac69b05ad15d713c3402867b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/40d76b6a7ba14aeac69b05ad15d713c3402867b2"/>
+    <title>
+        2.1.4 release
+    </title>
+    <updated>2016-05-26T22:43:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;2.1.4 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1801f56d8feffea7a3d977681784f71e93d7b379</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1801f56d8feffea7a3d977681784f71e93d7b379"/>
+    <title>
+        Merge pull request #2645 from Rowno/patch-1
+    </title>
+    <updated>2016-05-26T21:51:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2645 from Rowno/patch-1
+
+docs: fix the bar chart default axis id&amp;#39;s&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/127ed8ddb34ee692c9a72f5848f992884bdf3918</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/127ed8ddb34ee692c9a72f5848f992884bdf3918"/>
+    <title>
+        docs: fix the bar chart default axis id&#39;s
+    </title>
+    <updated>2016-05-26T21:38:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/605501?s=30&amp;v=4"/>
+    <author>
+      <name>Rowno</name>
+      <uri>https://github.com/Rowno</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: fix the bar chart default axis id&amp;#39;s&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8876cd88879068b5045f0d3b300abb2353c2c1a7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8876cd88879068b5045f0d3b300abb2353c2c1a7"/>
+    <title>
+        Merge pull request #2625 from chartjs/fix/2344
+    </title>
+    <updated>2016-05-25T22:50:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2625 from chartjs/fix/2344
+
+Start on Documentation Update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/93e5e52c65d2ecac32b8a9b54d4a284c2f6ee35e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/93e5e52c65d2ecac32b8a9b54d4a284c2f6ee35e"/>
+    <title>
+        Merge branch &#39;master&#39; into fix/2344
+    </title>
+    <updated>2016-05-25T22:43:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into fix/2344&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/81aedf4df0ebe107f35880451b1e093bc6bdeb5b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/81aedf4df0ebe107f35880451b1e093bc6bdeb5b"/>
+    <title>
+        Fix scale typos
+    </title>
+    <updated>2016-05-25T22:39:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix scale typos&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/451a9a451531f57bbf5dc34bd7fe4be01343de7c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/451a9a451531f57bbf5dc34bd7fe4be01343de7c"/>
+    <title>
+        Fix #2418 Firefox old version compatibility
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #2418 Firefox old version compatibility
+
+Old versions of FF doesn&amp;#39;t accept accessing the computed style via the &amp;#39;max-width&amp;#39; and &amp;#39;max-height&amp;#39; CSS notations using brackets, in which case the returned value is undefined. Changed the constraint methods to use maxWidth and mawHeight instead and make sure to test valid values.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/07b7db14e9b7e3bb462e6f2b96ab7d1f22247ec9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/07b7db14e9b7e3bb462e6f2b96ab7d1f22247ec9"/>
+    <title>
+        This fixes documentation issue #2628
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/4fca794da0cf08804f99048d3c8b39c1?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>you@example.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;This fixes documentation issue #2628&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1fc71a4a89f34bff53ecbcea9c990f0a0442845b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1fc71a4a89f34bff53ecbcea9c990f0a0442845b"/>
+    <title>
+        Decomplexify Chart.core.controller.eventHandler
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Decomplexify Chart.core.controller.eventHandler
+
+Refactor redundant code, use local variables and introduce a new helper to compare arrays (Chart.helpers.arrayEquals).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/07595d3271a3f8de69cd8a15789d99615e92e1c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/07595d3271a3f8de69cd8a15789d99615e92e1c7"/>
+    <title>
+        Refactor controller scale methods
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor controller scale methods
+
+Rewrite these two methods to reduce code duplication. Note that options.scale is not anymore mapped to &amp;#39;radialScale&amp;#39; ID but to &amp;#39;scale&amp;#39; ID (see ensureScalesHaveIDs), since this ID is not referenced anywhere in the code base.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/381aeaa19f1233865ffd4bb33fe8b98ae3a13cbc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/381aeaa19f1233865ffd4bb33fe8b98ae3a13cbc"/>
+    <title>
+        Refactor addElements and addElementAndReset
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor addElements and addElementAndReset
+
+Data controllers should now rarely implement addElements and addElementAndReset but instead should define dataElementType (and optionally datasetElementType). Also remove some dead code (e.g. numBars, colorForNewElement, etc.).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d513ba0ef7dbb1f728d5e581c5ae9f6193355b35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d513ba0ef7dbb1f728d5e581c5ae9f6193355b35"/>
+    <title>
+        Refactor scale base pixel and point calculation.
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor scale base pixel and point calculation.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e78d06d3e8c07b68f5d80b506391de2c460eb98e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e78d06d3e8c07b68f5d80b506391de2c460eb98e"/>
+    <title>
+        Clean up gulpfile even more
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clean up gulpfile even more&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1fe78ebc74a24eb47b3c38e1152defd4306a4b17</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1fe78ebc74a24eb47b3c38e1152defd4306a4b17"/>
+    <title>
+        Clean up gulpfile
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clean up gulpfile&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f2cb762141e66ccda353ae06e7bcb5c1b8a74dcf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f2cb762141e66ccda353ae06e7bcb5c1b8a74dcf"/>
+    <title>
+        Helpers improvements
+    </title>
+    <updated>2016-05-25T22:39:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Helpers improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1f653f3f6e8f408c4991ec83495a3a0981b2927a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1f653f3f6e8f408c4991ec83495a3a0981b2927a"/>
+    <title>
+        This fixes #2589
+    </title>
+    <updated>2016-05-25T22:39:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/13450260?s=30&amp;v=4"/>
+    <author>
+      <name>haschu</name>
+      <uri>https://github.com/haschu</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;This fixes #2589&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e81299ded4b7a6af9f2bf52e31129d9d96f51a3f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e81299ded4b7a6af9f2bf52e31129d9d96f51a3f"/>
+    <title>
+        Improve line chart docs
+    </title>
+    <updated>2016-05-25T22:39:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve line chart docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4a251062394c735b6e4a61e07e2a7c2836140411</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4a251062394c735b6e4a61e07e2a7c2836140411"/>
+    <title>
+        Scale docs
+    </title>
+    <updated>2016-05-25T22:39:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Scale docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99620172710970f4aedcf59a9a063a875126493e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/99620172710970f4aedcf59a9a063a875126493e"/>
+    <title>
+        Improve configuration options
+    </title>
+    <updated>2016-05-25T22:39:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve configuration options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4ab1b0c415550595dd7199354bea90b50aed3a64</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4ab1b0c415550595dd7199354bea90b50aed3a64"/>
+    <title>
+        Merge pull request #2637 from simonbrunel/fix/2418
+    </title>
+    <updated>2016-05-25T21:44:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2637 from simonbrunel/fix/2418
+
+Fix #2418 Firefox old version compatibility&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

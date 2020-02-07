@@ -1,0 +1,195 @@
+diff --git a/docs/charts/line.md b/docs/charts/line.md
+index b2922afe7..5078a2604 100644
+--- a/docs/charts/line.md
++++ b/docs/charts/line.md
+@@ -90,6 +90,7 @@ The following values are supported for `steppedLine`.
+ * `true`: Step-before Interpolation (eq. 'before')
+ * `'before'`: Step-before Interpolation
+ * `'after'`: Step-after Interpolation
++* `'middle'`: Step-middle Interpolation
+ 
+ If the `steppedLine` value is set to anything other than false, `lineTension` will be ignored.
+ 
+diff --git a/samples/charts/line/stepped.html b/samples/charts/line/stepped.html
+index 4ad9708eb..a87695c95 100644
+--- a/samples/charts/line/stepped.html
++++ b/samples/charts/line/stepped.html
+@@ -82,6 +82,10 @@
+ 				steppedLine: 'after',
+ 				label: 'Step After Interpolation',
+ 				color: window.chartColors.purple
++			}, {
++				steppedLine: 'middle',
++				label: 'Step Middle Interpolation',
++				color: window.chartColors.blue
+ 			}];
+ 
+ 			steppedLineSettings.forEach(function(details) {
+diff --git a/src/helpers/helpers.canvas.js b/src/helpers/helpers.canvas.js
+index b7546f232..b1212dff4 100644
+--- a/src/helpers/helpers.canvas.js
++++ b/src/helpers/helpers.canvas.js
+@@ -184,8 +184,13 @@ var exports = {
+ 	},
+ 
+ 	lineTo: function(ctx, previous, target, flip) {
+-		if (target.steppedLine) {
+-			if ((target.steppedLine === 'after' && !flip) || (target.steppedLine !== 'after' && flip)) {
++		var stepped = target.steppedLine;
++		if (stepped) {
++			if (stepped === 'middle') {
++				var midpoint = (previous.x + target.x) / 2.0;
++				ctx.lineTo(midpoint, flip ? target.y : previous.y);
++				ctx.lineTo(midpoint, flip ? previous.y : target.y);
++			} else if ((stepped === 'after' && !flip) || (stepped !== 'after' && flip)) {
+ 				ctx.lineTo(previous.x, target.y);
+ 			} else {
+ 				ctx.lineTo(target.x, previous.y);
+diff --git a/test/specs/element.line.tests.js b/test/specs/element.line.tests.js
+index f9f351d7d..a0278da4c 100644
+--- a/test/specs/element.line.tests.js
++++ b/test/specs/element.line.tests.js
+@@ -376,6 +376,143 @@ describe('Chart.elements.Line', function() {
+ 		});
+ 	});
+ 
++	it('should draw stepped lines, with "middle" interpolation', function() {
++
++		var mockContext = window.createMockContext();
++
++		// Create our points
++		var points = [];
++		points.push(new Chart.elements.Point({
++			_datasetindex: 2,
++			_index: 0,
++			_view: {
++				x: 0,
++				y: 10,
++				controlPointNextX: 0,
++				controlPointNextY: 10,
++				steppedLine: 'middle'
++			}
++		}));
++		points.push(new Chart.elements.Point({
++			_datasetindex: 2,
++			_index: 1,
++			_view: {
++				x: 5,
++				y: 0,
++				controlPointPreviousX: 5,
++				controlPointPreviousY: 0,
++				controlPointNextX: 5,
++				controlPointNextY: 0,
++				steppedLine: 'middle'
++			}
++		}));
++		points.push(new Chart.elements.Point({
++			_datasetindex: 2,
++			_index: 2,
++			_view: {
++				x: 15,
++				y: -10,
++				controlPointPreviousX: 15,
++				controlPointPreviousY: -10,
++				controlPointNextX: 15,
++				controlPointNextY: -10,
++				steppedLine: 'middle'
++			}
++		}));
++		points.push(new Chart.elements.Point({
++			_datasetindex: 2,
++			_index: 3,
++			_view: {
++				x: 19,
++				y: -5,
++				controlPointPreviousX: 19,
++				controlPointPreviousY: -5,
++				controlPointNextX: 19,
++				controlPointNextY: -5,
++				steppedLine: 'middle'
++			}
++		}));
++
++		var line = new Chart.elements.Line({
++			_datasetindex: 2,
++			_chart: {
++				ctx: mockContext,
++			},
++			_children: points,
++			// Need to provide some settings
++			_view: {
++				fill: false, // don't want to fill
++				tension: 0, // no bezier curve for now
++			}
++		});
++
++		line.draw();
++
++		expect(mockContext.getCalls()).toEqual([{
++			name: 'save',
++			args: [],
++		}, {
++			name: 'setLineCap',
++			args: ['butt']
++		}, {
++			name: 'setLineDash',
++			args: [
++				[]
++			]
++		}, {
++			name: 'setLineDashOffset',
++			args: [0.0]
++		}, {
++			name: 'setLineJoin',
++			args: ['miter']
++		}, {
++			name: 'setLineWidth',
++			args: [3]
++		}, {
++			name: 'setStrokeStyle',
++			args: ['rgba(0,0,0,0.1)']
++		}, {
++			name: 'beginPath',
++			args: []
++		}, {
++			name: 'moveTo',
++			args: [0, 10]
++		}, {
++			name: 'lineTo',
++			args: [2.5, 10]
++		}, {
++			name: 'lineTo',
++			args: [2.5, 0]
++		}, {
++			name: 'lineTo',
++			args: [5, 0]
++		}, {
++			name: 'lineTo',
++			args: [10, 0]
++		}, {
++			name: 'lineTo',
++			args: [10, -10]
++		}, {
++			name: 'lineTo',
++			args: [15, -10]
++		}, {
++			name: 'lineTo',
++			args: [17, -10]
++		}, {
++			name: 'lineTo',
++			args: [17, -5]
++		}, {
++			name: 'lineTo',
++			args: [19, -5]
++		}, {
++			name: 'stroke',
++			args: [],
++		}, {
++			name: 'restore',
++			args: []
++		}]);
++	});
++
+ 	it('should draw stepped lines, with "after" interpolation', function() {
+ 
+ 		var mockContext = window.createMockContext();

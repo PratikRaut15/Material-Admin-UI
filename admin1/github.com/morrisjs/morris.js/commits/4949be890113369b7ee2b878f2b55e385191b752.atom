@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/4949be890113369b7ee2b878f2b55e385191b752</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/4949be890113369b7ee2b878f2b55e385191b752"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/4949be890113369b7ee2b878f2b55e385191b752.atom"/>
+  <title>Recent Commits to morris.js:4949be890113369b7ee2b878f2b55e385191b752</title>
+  <updated>2015-01-10T23:02:08Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4949be890113369b7ee2b878f2b55e385191b752</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4949be890113369b7ee2b878f2b55e385191b752"/>
+    <title>
+        free positioned x coords, custom x labels, updated README.md to include
+    </title>
+    <updated>2015-01-10T23:02:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://2.gravatar.com/avatar/ffeffaddf34ba37edabb8066dc282ded?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>richard.moorhead@cerner.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;free positioned x coords, custom x labels, updated README.md to include
+bower instructions&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a7e1cdd142179d22953227498077507179bf6ce9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a7e1cdd142179d22953227498077507179bf6ce9"/>
+    <title>
+        Merge pull request #543 from arlaneenalra/line-chart-label
+    </title>
+    <updated>2015-01-09T10:32:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #543 from arlaneenalra/line-chart-label
+
+Fix label color in line chart - Squash Commits in #542.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de9a12def5e32fff994517c9433f85f5e932d40d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/de9a12def5e32fff994517c9433f85f5e932d40d"/>
+    <title>
+        Fix label color in line chart.
+    </title>
+    <updated>2015-01-08T16:03:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/4931582?s=30&amp;v=4"/>
+    <author>
+      <name>csalch</name>
+      <uri>https://github.com/csalch</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix label color in line chart.
+
+The line chart code always defaulted to using trendLineColors for
+labels even when no trend lines were enabled.  This commit changes
+that to use lineColors instead so that the labels match the lines
+they are for.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5c3f11226a292eb2f91935274af779025698f276</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5c3f11226a292eb2f91935274af779025698f276"/>
+    <title>
+        Merge pull request #461 from JelteF/weighted-trendline
+    </title>
+    <updated>2015-01-08T11:55:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #461 from JelteF/weighted-trendline
+
+Add optional weighting to the calculation of the trendline&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6996ae247339bf12ab2ccb5e019b8eb0ecc25b74</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/6996ae247339bf12ab2ccb5e019b8eb0ecc25b74"/>
+    <title>
+        Merge pull request #467 from JelteF/hidden-series-hover-fix
+    </title>
+    <updated>2015-01-08T11:55:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #467 from JelteF/hidden-series-hover-fix
+
+Fix hover positioning for linecharts when some lines are hidden&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e396732fa135b1e03b382256d37c469b22ac5cc3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e396732fa135b1e03b382256d37c469b22ac5cc3"/>
+    <title>
+        Merge pull request #462 from JelteF/feature-align-left
+    </title>
+    <updated>2015-01-08T11:54:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #462 from JelteF/feature-align-left
+
+Add option to align Y labels left&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a002a0269163fca28df8da644f23db22ede8c7eb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a002a0269163fca28df8da644f23db22ede8c7eb"/>
+    <title>
+        Merge pull request #475 from JelteF/hit-checking-on-click
+    </title>
+    <updated>2015-01-08T11:54:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #475 from JelteF/hit-checking-on-click
+
+Hit checking on click&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cbd5f8c6360fc13ff7a576b287477ef7b9434870</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/cbd5f8c6360fc13ff7a576b287477ef7b9434870"/>
+    <title>
+        Merge pull request #479 from JelteF/pass-src-barColor-function
+    </title>
+    <updated>2015-01-08T11:53:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #479 from JelteF/pass-src-barColor-function
+
+Src attribute of a row gets passed to the barColors function as well&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac48c048a0441014ec01ad00cbfcaeb7e066e58a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ac48c048a0441014ec01ad00cbfcaeb7e066e58a"/>
+    <title>
+        Merge pull request #510 from JelteF/monthlines
+    </title>
+    <updated>2015-01-08T11:51:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #510 from JelteF/monthlines
+
+Add vertical grid lines to line graphs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d008d9317f87096db8a75121ef6edfc579b7d4d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d008d9317f87096db8a75121ef6edfc579b7d4d7"/>
+    <title>
+        Merge pull request #518 from JelteF/in-bar-value
+    </title>
+    <updated>2015-01-08T11:51:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #518 from JelteF/in-bar-value
+
+Add an option to display the value of a bar in the bar itself&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/763c91e7959e1363fc6aa4c527a6d849572d4996</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/763c91e7959e1363fc6aa4c527a6d849572d4996"/>
+    <title>
+        Add an option to display the value of a bar in the bar itself (only f…
+    </title>
+    <updated>2014-10-26T12:29:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add an option to display the value of a bar in the bar itself (only for horizontal bars)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a"/>
+    <title>
+        Rebuild to fix a serious bug.
+    </title>
+    <updated>2014-10-25T15:44:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rebuild to fix a serious bug.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/77011bbae47ec7d589a2ef736c2c53f1b36b92a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/77011bbae47ec7d589a2ef736c2c53f1b36b92a6"/>
+    <title>
+        Merge pull request #517 from JelteF/off-by-one-bar
+    </title>
+    <updated>2014-10-25T15:42:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #517 from JelteF/off-by-one-bar
+
+Fix off by one error when shown was not given&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5f1ea081a5e9ca31134772a115edbcece11f15e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5f1ea081a5e9ca31134772a115edbcece11f15e0"/>
+    <title>
+        Fix off by one error when shown was not given
+    </title>
+    <updated>2014-10-25T15:40:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix off by one error when shown was not given&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c8e14ae16364509952849ac6764112f9f4823e6c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c8e14ae16364509952849ac6764112f9f4823e6c"/>
+    <title>
+        Add vertical grid lines to line graphs
+    </title>
+    <updated>2014-10-15T14:53:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add vertical grid lines to line graphs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f26a5efe6aa163be16715191c40250d6ac115f6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/9f26a5efe6aa163be16715191c40250d6ac115f6"/>
+    <title>
+        Add grid click return value to check for hitting of a bar
+    </title>
+    <updated>2014-10-15T13:34:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add grid click return value to check for hitting of a bar&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/75cdb5bd9713bda681ccee5f40a7c857c78bc039</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/75cdb5bd9713bda681ccee5f40a7c857c78bc039"/>
+    <title>
+        Merge pull request #498 from fran6co/events
+    </title>
+    <updated>2014-10-15T12:01:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #498 from fran6co/events
+
+Adds events range&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1c66cfc4ac7b23d324f131bec7739265887e30fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1c66cfc4ac7b23d324f131bec7739265887e30fc"/>
+    <title>
+        Merge pull request #464 from JelteF/escape-hover
+    </title>
+    <updated>2014-10-15T11:58:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #464 from JelteF/escape-hover
+
+Escape labels in hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a158fb7677b5891fa0fcac1235a4a2c24c043935</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a158fb7677b5891fa0fcac1235a4a2c24c043935"/>
+    <title>
+        Merge pull request #484 from JelteF/master
+    </title>
+    <updated>2014-10-08T14:33:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #484 from JelteF/master
+
+Rebuild files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5705894fa5d66df2ead35d5fbc95d6f7a16a70c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a5705894fa5d66df2ead35d5fbc95d6f7a16a70c"/>
+    <title>
+        Adds events range
+    </title>
+    <updated>2014-09-23T11:06:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/726088?s=30&amp;v=4"/>
+    <author>
+      <name>fran6co</name>
+      <uri>https://github.com/fran6co</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adds events range&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

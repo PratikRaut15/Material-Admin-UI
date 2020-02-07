@@ -1,0 +1,603 @@
+From 2a97ec21c55c70f81b6c6f5d46979c273cc4c091 Mon Sep 17 00:00:00 2001
+From: Simon Brunel <simonbrunel@users.noreply.github.com>
+Date: Fri, 14 Dec 2018 20:20:43 +0100
+Subject: [PATCH] Migrate from Browserify to rollup (#5904)
+
+Browserify isn't optimal bundling Chart.js because it adds too many internal wrappers, doesn't handle external/global dependencies and doesn't provide a way to generate ESM builds. Therefore, it seems the right choice to switch to rollup, so move all the build process in `rollup.config.js` and make Gulp to execute `rollup -c`.
+
+We also had to switch to Terser instead of UglifyJS because this last one contains a breaking bug. Note that tests now use the exact same rollup config as our builds (the minified one) to ensure that the bundling and minification steps don't break anything. Finally, replace the `gulp watch` task by `gulp build --watch` to be consistent with the other `unittest` and `docs` watching syntax.
+---
+ docs/developers/contributing.md    |   3 +-
+ gulpfile.js                        | 120 ++++++++---------------------
+ karma.conf.js                      |  76 +++++++++++++-----
+ package.json                       |  16 ++--
+ rollup.config.js                   | 100 ++++++++++++++++++++++++
+ src/core/core.animation.js         |   4 +-
+ src/core/core.datasetController.js |   4 +-
+ src/core/core.tooltip.js           |   3 +-
+ src/helpers/helpers.canvas.js      |   4 +-
+ src/scales/scale.time.js           |   2 -
+ 10 files changed, 208 insertions(+), 124 deletions(-)
+ create mode 100644 rollup.config.js
+
+diff --git a/docs/developers/contributing.md b/docs/developers/contributing.md
+index 551ac71ca..f15e283f7 100644
+--- a/docs/developers/contributing.md
++++ b/docs/developers/contributing.md
+@@ -30,7 +30,8 @@ This will install the local development dependencies for Chart.js, along with a
+ The following commands are now available from the repository root:
+ 
+ ```bash
+-> gulp build                // build Chart.js in ./dist
++> gulp build                // build dist files in ./dist
++> gulp build --watch        // build and watch for changes
+ > gulp unittest             // run tests from ./test/specs
+ > gulp unittest --watch     // run tests and watch for source changes
+ > gulp unittest --coverage  // run tests and generate coverage reports in ./coverage
+diff --git a/gulpfile.js b/gulpfile.js
+index c0a18cda2..7a5cec8c1 100644
+--- a/gulpfile.js
++++ b/gulpfile.js
+@@ -1,45 +1,27 @@
+ var gulp = require('gulp');
+-var concat = require('gulp-concat');
+ var eslint = require('gulp-eslint');
+ var file = require('gulp-file');
+-var insert = require('gulp-insert');
+ var replace = require('gulp-replace');
+ var size = require('gulp-size');
+ var streamify = require('gulp-streamify');
+-var uglify = require('gulp-uglify');
++var terser = require('gulp-terser');
+ var util = require('gulp-util');
+ var zip = require('gulp-zip');
+-var exec = require('child-process-promise').exec;
++var exec = require('child_process').exec;
+ var karma = require('karma');
+-var browserify = require('browserify');
+-var source = require('vinyl-source-stream');
+ var merge = require('merge-stream');
+-var collapse = require('bundle-collapser/plugin');
+ var yargs = require('yargs');
+ var path = require('path');
+-var fs = require('fs');
+ var htmllint = require('gulp-htmllint');
+ var pkg = require('./package.json');
+ 
+ var argv = yargs
+-  .option('force-output', {default: false})
+-  .option('silent-errors', {default: false})
+   .option('verbose', {default: false})
+   .argv;
+ 
+ var srcDir = './src/';
+ var outDir = './dist/';
+ 
+-var header = "/*!\n" +
+-  " * Chart.js\n" +
+-  " * http://chartjs.org/\n" +
+-  " * Version: {{ version }}\n" +
+-  " *\n" +
+-  " * Copyright " + (new Date().getFullYear()) + " Chart.js Contributors\n" +
+-  " * Released under the MIT license\n" +
+-  " * https://github.com/chartjs/Chart.js/blob/master/LICENSE.md\n" +
+-  " */\n";
+-
+ if (argv.verbose) {
+   util.log("Gulp running with options: " + JSON.stringify(argv, null, 2));
+ }
+@@ -47,7 +29,6 @@ if (argv.verbose) {
+ gulp.task('bower', bowerTask);
+ gulp.task('build', buildTask);
+ gulp.task('package', packageTask);
+-gulp.task('watch', watchTask);
+ gulp.task('lint-html', lintHtmlTask);
+ gulp.task('lint-js', lintJsTask);
+ gulp.task('lint', gulp.parallel('lint-html', 'lint-js'));
+@@ -57,7 +38,25 @@ gulp.task('test', gulp.parallel('lint', 'unittest'));
+ gulp.task('library-size', librarySizeTask);
+ gulp.task('module-sizes', moduleSizesTask);
+ gulp.task('size', gulp.parallel('library-size', 'module-sizes'));
+-gulp.task('default', gulp.parallel('build', 'watch'));
++gulp.task('default', gulp.parallel('build'));
++
++function run(bin, args, done) {
++  return new Promise(function(resolve, reject) {
++    var exe = '"' + process.execPath + '"';
++    var src = require.resolve(bin);
++    var ps = exec([exe, src].concat(args || []).join(' '));
++
++    ps.stdout.pipe(process.stdout);
++    ps.stderr.pipe(process.stderr);
++    ps.on('close', function(error) {
++      if (error) {
++        reject(error);
++      } else {
++        resolve();
++      }
++    });
++  });
++}
+ 
+ /**
+  * Generates the bower.json manifest file which will be pushed along release tags.
+@@ -70,7 +69,7 @@ function bowerTask() {
+       homepage: pkg.homepage,
+       license: pkg.license,
+       version: pkg.version,
+-      main: outDir + "Chart.js",
++      main: outDir + 'Chart.js',
+       ignore: [
+         '.github',
+         '.codeclimate.yml',
+@@ -86,52 +85,7 @@ function bowerTask() {
+ }
+ 
+ function buildTask() {
+-
+-  var errorHandler = function (err) {
+-    if(argv.forceOutput) {
+-      var browserError = 'console.error("Gulp: ' + err.toString() + '")';
+-      ['Chart', 'Chart.min', 'Chart.bundle', 'Chart.bundle.min'].forEach(function(fileName) {
+-        fs.writeFileSync(outDir+fileName+'.js', browserError);
+-      });
+-    }
+-    if(argv.silentErrors) {
+-      util.log(util.colors.red('[Error]'), err.toString());
+-      this.emit('end');
+-    } else {
+-      throw err;
+-    }
+-  }
+-
+-  var bundled = browserify('./src/chart.js', { standalone: 'Chart' })
+-    .plugin(collapse)
+-    .bundle()
+-    .on('error', errorHandler)
+-    .pipe(source('Chart.bundle.js'))
+-    .pipe(insert.prepend(header))
+-    .pipe(streamify(replace('{{ version }}', pkg.version)))
+-    .pipe(gulp.dest(outDir))
+-    .pipe(streamify(uglify()))
+-    .pipe(insert.prepend(header))
+-    .pipe(streamify(replace('{{ version }}', pkg.version)))
+-    .pipe(streamify(concat('Chart.bundle.min.js')))
+-    .pipe(gulp.dest(outDir));
+-
+-  var nonBundled = browserify('./src/chart.js', { standalone: 'Chart' })
+-    .ignore('moment')
+-    .plugin(collapse)
+-    .bundle()
+-    .on('error', errorHandler)
+-    .pipe(source('Chart.js'))
+-    .pipe(insert.prepend(header))
+-    .pipe(streamify(replace('{{ version }}', pkg.version)))
+-    .pipe(gulp.dest(outDir))
+-    .pipe(streamify(uglify()))
+-    .pipe(insert.prepend(header))
+-    .pipe(streamify(replace('{{ version }}', pkg.version)))
+-    .pipe(streamify(concat('Chart.min.js')))
+-    .pipe(gulp.dest(outDir));
+-
+-  return merge(bundled, nonBundled);
++  return run('rollup/bin/rollup', ['-c', argv.watch ? '--watch' : '']);
+ }
+ 
+ function packageTask() {
+@@ -180,17 +134,12 @@ function lintHtmlTask() {
+     }));
+ }
+ 
+-function docsTask(done) {
+-  var script = require.resolve('gitbook-cli/bin/gitbook.js');
+-  var cmd = '"' + process.execPath + '"';
+-
+-  exec([cmd, script, 'install', './'].join(' ')).then(() => {
+-    return exec([cmd, script, argv.watch ? 'serve' : 'build', './', './dist/docs'].join(' '));
+-  }).then(() => {
+-    done();
+-  }).catch((err) => {
+-    done(new Error(err.stdout || err));
+-  })
++function docsTask() {
++  var bin = 'gitbook-cli/bin/gitbook.js';
++  var cmd = argv.watch ? 'serve' : 'build';
++
++  return run(bin, ['install', './'])
++    .then(() => run(bin, [cmd, './', './dist/docs']));
+ }
+ 
+ function unittestTask(done) {
+@@ -199,9 +148,8 @@ function unittestTask(done) {
+     singleRun: !argv.watch,
+     args: {
+       coverage: !!argv.coverage,
+-      inputs: argv.inputs
+-        ? argv.inputs.split(';')
+-        : ['./test/specs/**/*.js']
++      inputs: (argv.inputs || 'test/specs/**/*.js').split(';'),
++      watch: argv.watch
+     }
+   },
+   // https://github.com/karma-runner/gulp-karma/issues/18
+@@ -220,13 +168,9 @@ function librarySizeTask() {
+ 
+ function moduleSizesTask() {
+   return gulp.src(srcDir + '**/*.js')
+-    .pipe(uglify())
++    .pipe(terser())
+     .pipe(size({
+       showFiles: true,
+       gzip: true
+     }));
+ }
+-
+-function watchTask() {
+-  return gulp.watch('./src/**', gulp.parallel('build'));
+-}
+diff --git a/karma.conf.js b/karma.conf.js
+index 4b3a301f1..028785675 100644
+--- a/karma.conf.js
++++ b/karma.conf.js
+@@ -1,11 +1,29 @@
+-/* eslint camelcase: 0 */
++/* eslint-env es6 */
++
++const commonjs = require('rollup-plugin-commonjs');
++const istanbul = require('rollup-plugin-istanbul');
++const resolve = require('rollup-plugin-node-resolve');
++const builds = require('./rollup.config');
+ 
+ module.exports = function(karma) {
+-	var args = karma.args || {};
+-	var config = {
+-		frameworks: ['browserify', 'jasmine'],
++	const args = karma.args || {};
++
++	// Use the same rollup config as our dist files: when debugging (--watch),
++	// we will prefer the unminified build which is easier to browse and works
++	// better with source mapping. In other cases, pick the minified build to
++	// make sure that the minification process (terser) doesn't break anything.
++	const regex = args.watch ? /Chart\.js$/ : /Chart\.min\.js$/;
++	const build = builds.filter(v => v.output.file.match(regex))[0];
++
++	if (args.watch) {
++		build.output.sourcemap = 'inline';
++	}
++
++	karma.set({
++		frameworks: ['jasmine'],
+ 		reporters: ['progress', 'kjhtml'],
+ 		browsers: ['chrome', 'firefox'],
++		logLevel: karma.LOG_WARN,
+ 
+ 		// Explicitly disable hardware acceleration to make image
+ 		// diff more stable when ran on Travis and dev machine.
+@@ -31,42 +49,60 @@ module.exports = function(karma) {
+ 			{pattern: 'test/fixtures/**/*.png', included: false},
+ 			'node_modules/moment/min/moment.min.js',
+ 			'test/index.js',
+-			'src/**/*.js'
++			'src/chart.js'
+ 		].concat(args.inputs),
+ 
+ 		preprocessors: {
+-			'test/index.js': ['browserify'],
+-			'src/**/*.js': ['browserify']
++			'test/index.js': ['rollup'],
++			'src/chart.js': ['sources']
+ 		},
+ 
+-		browserify: {
+-			debug: true
++		rollupPreprocessor: {
++			plugins: [
++				resolve(),
++				commonjs()
++			],
++			output: {
++				name: 'test',
++				format: 'umd'
++			}
++		},
++
++		customPreprocessors: {
++			sources: {
++				base: 'rollup',
++				options: build
++			}
+ 		},
+ 
+ 		// These settings deal with browser disconnects. We had seen test flakiness from Firefox
+ 		// [Firefox 56.0.0 (Linux 0.0.0)]: Disconnected (1 times), because no message in 10000 ms.
+ 		// https://github.com/jasmine/jasmine/issues/1327#issuecomment-332939551
+ 		browserDisconnectTolerance: 3
+-	};
++	});
+ 
+ 	// https://swizec.com/blog/how-to-run-javascript-tests-in-chrome-on-travis/swizec/6647
+ 	if (process.env.TRAVIS) {
+-		config.customLaunchers.chrome.flags.push('--no-sandbox');
++		karma.customLaunchers.chrome.flags.push('--no-sandbox');
+ 	}
+ 
+ 	if (args.coverage) {
+-		config.reporters.push('coverage');
+-		config.browserify.transform = ['browserify-istanbul'];
+-
+-		// https://github.com/karma-runner/karma-coverage/blob/master/docs/configuration.md
+-		config.coverageReporter = {
++		karma.reporters.push('coverage');
++		karma.coverageReporter = {
+ 			dir: 'coverage/',
+ 			reporters: [
+-				{type: 'html', subdir: 'report-html'},
+-				{type: 'lcovonly', subdir: '.', file: 'lcov.info'}
++				{type: 'html', subdir: 'html'},
++				{type: 'lcovonly', subdir: '.'}
+ 			]
+ 		};
++		[
++			karma.rollupPreprocessor,
++			karma.customPreprocessors.sources.options
++		].forEach(v => {
++			(v.plugins || (v.plugins = [])).unshift(
++				istanbul({
++					include: 'src/**/*.js'
++				}));
++		});
+ 	}
+-
+-	karma.set(config);
+ };
+diff --git a/package.json b/package.json
+index 23b75ffd6..bf913bf0a 100644
+--- a/package.json
++++ b/package.json
+@@ -23,39 +23,37 @@
+     "url": "https://github.com/chartjs/Chart.js/issues"
+   },
+   "devDependencies": {
+-    "browserify": "^16.2.3",
+-    "browserify-istanbul": "^3.0.1",
+-    "bundle-collapser": "^1.3.0",
+-    "child-process-promise": "^2.2.1",
+     "coveralls": "^3.0.0",
+     "eslint": "^5.9.0",
+     "eslint-config-chartjs": "^0.1.0",
+     "eslint-plugin-html": "^5.0.0",
+     "gitbook-cli": "^2.3.2",
+     "gulp": "^4.0.0",
+-    "gulp-concat": "^2.6.0",
+     "gulp-eslint": "^5.0.0",
+     "gulp-file": "^0.4.0",
+     "gulp-htmllint": "^0.0.16",
+-    "gulp-insert": "^0.5.0",
+     "gulp-replace": "^1.0.0",
+     "gulp-size": "^3.0.0",
+     "gulp-streamify": "^1.0.2",
+-    "gulp-uglify": "^3.0.0",
++    "gulp-terser": "^1.1.6",
+     "gulp-util": "^3.0.0",
+     "gulp-zip": "^4.2.0",
+     "jasmine": "^3.3.0",
+     "jasmine-core": "^3.3.0",
+     "karma": "^3.1.1",
+-    "karma-browserify": "^5.1.1",
+     "karma-chrome-launcher": "^2.2.0",
+     "karma-coverage": "^1.1.1",
+     "karma-firefox-launcher": "^1.0.1",
+     "karma-jasmine": "^2.0.1",
+     "karma-jasmine-html-reporter": "^1.4.0",
++    "karma-rollup-preprocessor": "^6.1.1",
+     "merge-stream": "^1.0.1",
+     "pixelmatch": "^4.0.2",
+-    "vinyl-source-stream": "^2.0.0",
++    "rollup": "^0.67.4",
++    "rollup-plugin-commonjs": "^9.2.0",
++    "rollup-plugin-istanbul": "^2.0.1",
++    "rollup-plugin-node-resolve": "^3.4.0",
++    "rollup-plugin-terser": "^3.0.0",
+     "watchify": "^3.9.0",
+     "yargs": "^12.0.5"
+   },
+diff --git a/rollup.config.js b/rollup.config.js
+new file mode 100644
+index 000000000..9f76d9573
+--- /dev/null
++++ b/rollup.config.js
+@@ -0,0 +1,100 @@
++/* eslint-env es6 */
++
++const commonjs = require('rollup-plugin-commonjs');
++const resolve = require('rollup-plugin-node-resolve');
++const terser = require('rollup-plugin-terser').terser;
++const pkg = require('./package.json');
++
++const input = 'src/chart.js';
++const banner = `/*!
++ * Chart.js v${pkg.version}
++ * ${pkg.homepage}
++ * (c) ${new Date().getFullYear()} Chart.js Contributors
++ * Released under the MIT License
++ */`;
++
++module.exports = [
++	// UMD builds (excluding moment)
++	// dist/Chart.min.js
++	// dist/Chart.js
++	{
++		input: input,
++		plugins: [
++			resolve(),
++			commonjs()
++		],
++		output: {
++			name: 'Chart',
++			file: 'dist/Chart.js',
++			banner: banner,
++			format: 'umd',
++			indent: false,
++			globals: {
++				moment: 'moment'
++			}
++		},
++		external: [
++			'moment'
++		]
++	},
++	{
++		input: input,
++		plugins: [
++			resolve(),
++			commonjs(),
++			terser({
++				output: {
++					preamble: banner
++				}
++			})
++		],
++		output: {
++			name: 'Chart',
++			file: 'dist/Chart.min.js',
++			format: 'umd',
++			indent: false,
++			globals: {
++				moment: 'moment'
++			}
++		},
++		external: [
++			'moment'
++		]
++	},
++
++	// UMD builds (including moment)
++	// dist/Chart.bundle.min.js
++	// dist/Chart.bundle.js
++	{
++		input: input,
++		plugins: [
++			resolve(),
++			commonjs()
++		],
++		output: {
++			name: 'Chart',
++			file: 'dist/Chart.bundle.js',
++			banner: banner,
++			format: 'umd',
++			indent: false
++		}
++	},
++	{
++		input: input,
++		plugins: [
++			resolve(),
++			commonjs(),
++			terser({
++				output: {
++					preamble: banner
++				}
++			})
++		],
++		output: {
++			name: 'Chart',
++			file: 'dist/Chart.bundle.min.js',
++			format: 'umd',
++			indent: false
++		}
++	}
++];
+diff --git a/src/core/core.animation.js b/src/core/core.animation.js
+index 8b2f4dd2a..892eb1cd7 100644
+--- a/src/core/core.animation.js
++++ b/src/core/core.animation.js
+@@ -2,7 +2,7 @@
+ 
+ var Element = require('./core.element');
+ 
+-var exports = module.exports = Element.extend({
++var exports = Element.extend({
+ 	chart: null, // the animation associated chart instance
+ 	currentStep: 0, // the current animation step
+ 	numSteps: 60, // default number of steps
+@@ -13,6 +13,8 @@ var exports = module.exports = Element.extend({
+ 	onAnimationComplete: null, // user specified callback to fire when the animation finishes
+ });
+ 
++module.exports = exports;
++
+ // DEPRECATIONS
+ 
+ /**
+diff --git a/src/core/core.datasetController.js b/src/core/core.datasetController.js
+index 8d2de1a1a..3b47dffdc 100644
+--- a/src/core/core.datasetController.js
++++ b/src/core/core.datasetController.js
+@@ -74,7 +74,7 @@ function unlistenArrayEvents(array, listener) {
+ }
+ 
+ // Base class for all dataset controllers (line, bar, etc)
+-var DatasetController = module.exports = function(chart, datasetIndex) {
++var DatasetController = function(chart, datasetIndex) {
+ 	this.initialize(chart, datasetIndex);
+ };
+ 
+@@ -324,3 +324,5 @@ helpers.extend(DatasetController.prototype, {
+ });
+ 
+ DatasetController.extend = helpers.inherits;
++
++module.exports = DatasetController;
+diff --git a/src/core/core.tooltip.js b/src/core/core.tooltip.js
+index b135bbc92..fb081e60b 100644
+--- a/src/core/core.tooltip.js
++++ b/src/core/core.tooltip.js
+@@ -470,7 +470,7 @@ function getBeforeAfterBodyLines(callback) {
+ 	return pushOrConcat([], splitNewlines(callback));
+ }
+ 
+-var exports = module.exports = Element.extend({
++var exports = Element.extend({
+ 	initialize: function() {
+ 		this._model = getBaseModel(this._options);
+ 		this._lastActive = [];
+@@ -968,3 +968,4 @@ var exports = module.exports = Element.extend({
+  */
+ exports.positioners = positioners;
+ 
++module.exports = exports;
+diff --git a/src/helpers/helpers.canvas.js b/src/helpers/helpers.canvas.js
+index ea0c6f1ce..b7546f232 100644
+--- a/src/helpers/helpers.canvas.js
++++ b/src/helpers/helpers.canvas.js
+@@ -12,7 +12,7 @@ var TWO_THIRDS_PI = PI * 2 / 3;
+ /**
+  * @namespace Chart.helpers.canvas
+  */
+-var exports = module.exports = {
++var exports = {
+ 	/**
+ 	 * Clears the entire canvas associated to the given `chart`.
+ 	 * @param {Chart} chart - The chart for which to clear the canvas.
+@@ -209,6 +209,8 @@ var exports = module.exports = {
+ 	}
+ };
+ 
++module.exports = exports;
++
+ // DEPRECATIONS
+ 
+ /**
+diff --git a/src/scales/scale.time.js b/src/scales/scale.time.js
+index 405d8ff8c..3044cfae2 100644
+--- a/src/scales/scale.time.js
++++ b/src/scales/scale.time.js
+@@ -2,8 +2,6 @@
+ 'use strict';
+ 
+ var moment = require('moment');
+-moment = typeof moment === 'function' ? moment : window.moment;
+-
+ var defaults = require('../core/core.defaults');
+ var helpers = require('../helpers/index');
+ var Scale = require('../core/core.scale');

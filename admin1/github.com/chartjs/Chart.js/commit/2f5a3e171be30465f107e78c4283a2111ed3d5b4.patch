@@ -1,0 +1,21 @@
+From 2f5a3e171be30465f107e78c4283a2111ed3d5b4 Mon Sep 17 00:00:00 2001
+From: Simon Brunel <simonbrunel@users.noreply.github.com>
+Date: Thu, 11 Jan 2018 12:51:03 +0100
+Subject: [PATCH] Ignore package-lock.json (#5138)
+
+---
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.gitignore b/.gitignore
+index cfb878a6d..0a65be9b2 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -6,6 +6,7 @@
+ /gh-pages
+ /jsdoc
+ /node_modules
++/package-lock.json
+ .DS_Store
+ .idea
+ .vscode

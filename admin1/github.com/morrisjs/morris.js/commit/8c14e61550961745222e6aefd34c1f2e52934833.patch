@@ -1,0 +1,24 @@
+From 8c14e61550961745222e6aefd34c1f2e52934833 Mon Sep 17 00:00:00 2001
+From: Morton Fox <github@qslw.com>
+Date: Wed, 29 Apr 2015 12:22:55 -0400
+Subject: [PATCH] Fix two of the issue links.
+
+---
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/README.md b/README.md
+index e02a4f4..c4a0e35 100644
+--- a/README.md
++++ b/README.md
+@@ -100,8 +100,8 @@ tests currently *only* pass on OS X.
+ - Fix DST handling [#191](https://github.com/morrisjs/morris.js/issues/191)
+ - Parse data values from strings in Morris.Donut [#189](https://github.com/morrisjs/morris.js/issues/189)
+ - Non-cumulative area charts [#199](https://github.com/morrisjs/morris.js/issues/199)
+-- Round Y-axis labels to significant numbers [#162](https://github.com/morrisjs/morris.js/162)
+-- Customising default hover content [#179](https://github.com/morrisjs/morris.js/179)
++- Round Y-axis labels to significant numbers [#162](https://github.com/morrisjs/morris.js/issues/162)
++- Customising default hover content [#179](https://github.com/morrisjs/morris.js/issues/179)
+ 
+ ### 0.4.1 - 8th February 2013
+ 

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.2.atom"/>
+  <title>Recent Commits to Chart.js:2.0.2</title>
+  <updated>2016-04-16T22:39:51Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/67625063a3c1242ca13858aa629668007b5b8106</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/67625063a3c1242ca13858aa629668007b5b8106"/>
+    <title>
+        2.0.2
+    </title>
+    <updated>2016-04-16T22:39:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;2.0.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f60eecc019841e40aee623509f61ce04820965a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4f60eecc019841e40aee623509f61ce04820965a"/>
+    <title>
+        Better default tick rotation and tick autoskip settings (#2258)
+    </title>
+    <updated>2016-04-16T22:38:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better default tick rotation and tick autoskip settings (#2258)
+
+* Better default tick rotation and tick autoskip settings
+
+* scale.time: Use ctx to measure label, and &amp;lt;= instead of &amp;lt; for unit fitting
+
+* Test Changes
+
+* Passing Tests with new defaults&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1be88df8136e90b326359ca355a26c14fd6ad85f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1be88df8136e90b326359ca355a26c14fd6ad85f"/>
+    <title>
+        Merge pull request #2271 from mdehoog/doughnut-rotation
+    </title>
+    <updated>2016-04-16T20:36:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2271 from mdehoog/doughnut-rotation
+
+Add rotation and circumference properties to doughnut/pie charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5e8bfea53e9c18469c5a20cfc3092a7be0f240c9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5e8bfea53e9c18469c5a20cfc3092a7be0f240c9"/>
+    <title>
+        Bump and build for 2.0.1
+    </title>
+    <updated>2016-04-16T18:22:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump and build for 2.0.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d3a29967e2718d37a4408350c7e5c5be18a2711a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d3a29967e2718d37a4408350c7e5c5be18a2711a"/>
+    <title>
+        Added rotation and circumference properties to doughnut/pie charts
+    </title>
+    <updated>2016-04-16T14:23:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1538523?s=30&amp;v=4"/>
+    <author>
+      <name>mdehoog</name>
+      <uri>https://github.com/mdehoog</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added rotation and circumference properties to doughnut/pie charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/39cf4cc4749b036f941b444343c7791183dedccb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/39cf4cc4749b036f941b444343c7791183dedccb"/>
+    <title>
+        Merge pull request #2264 from thukaramvh/tvenkat_bleeding_edge
+    </title>
+    <updated>2016-04-16T12:44:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2264 from thukaramvh/tvenkat_bleeding_edge
+
+Graph Index Data Labels display for Line Bar Graph for v2.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/72d03a08a68318450a43d72fef3c60ff93df94aa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/72d03a08a68318450a43d72fef3c60ff93df94aa"/>
+    <title>
+        Merge pull request #2270 from nnnick/fix/travis-tests
+    </title>
+    <updated>2016-04-16T12:42:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2270 from nnnick/fix/travis-tests
+
+Fix/travis tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7bff3387b7b31ac61eeff7402f765edf8bbc94b4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7bff3387b7b31ac61eeff7402f765edf8bbc94b4"/>
+    <title>
+        Newer ubuntu version
+    </title>
+    <updated>2016-04-16T12:28:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Newer ubuntu version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c32db70940e8a42331e946c9f3d8ee4c8202c00</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0c32db70940e8a42331e946c9f3d8ee4c8202c00"/>
+    <title>
+        try a different travis config
+    </title>
+    <updated>2016-04-16T12:24:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;try a different travis config&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5836c19ec52c3896c7c92d7a3f3355a6ee6be96b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5836c19ec52c3896c7c92d7a3f3355a6ee6be96b"/>
+    <title>
+        Optimize animation frame requests (#2268)
+    </title>
+    <updated>2016-04-16T00:15:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Optimize animation frame requests (#2268)
+
+The animation service now keeps track of the active animation frame request and will skip new requests until the current one is executed. This can happen when processing mouse events, e.g. &amp;#39;mousemove&amp;#39; and &amp;#39;mouseout&amp;#39; events will trigger multiple renders.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc74f98dd6fa6daddc16aa59c3d524c940633b11</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/fc74f98dd6fa6daddc16aa59c3d524c940633b11"/>
+    <title>
+        Merge pull request #2263 from HarvestingClouds/patch-2
+    </title>
+    <updated>2016-04-15T10:13:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2263 from HarvestingClouds/patch-2
+
+Using the dynamic absolute position of the canvas, even for relative …&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac4a4bfd676699490cc00149e51ae6db6729370c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ac4a4bfd676699490cc00149e51ae6db6729370c"/>
+    <title>
+        Data Labels display for Line Bar combo for v2.0
+    </title>
+    <updated>2016-04-15T04:57:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/18475112?s=30&amp;v=4"/>
+    <author>
+      <name>thukaramvh</name>
+      <uri>https://github.com/thukaramvh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Data Labels display for Line Bar combo for v2.0
+
+Data Labels display for Line Bar combo for v2.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e251d06ef5a73b94baecf338a26e10835d9177c4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e251d06ef5a73b94baecf338a26e10835d9177c4"/>
+    <title>
+        Using the dynamic absolute position of the canvas, even for relative …
+    </title>
+    <updated>2016-04-15T04:11:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/5864392?s=30&amp;v=4"/>
+    <author>
+      <name>HarvestingClouds</name>
+      <uri>https://github.com/HarvestingClouds</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Using the dynamic absolute position of the canvas, even for relative placement of the chart
+
+This will work with both relative and absolute position for the chart and will apply the tooltips appropriately. I have tested in a normal context and then also using the chart in the second column of two column table i.e. in a different position on the screen. Without this, the default tooltips will appear at the same position no matter where the chart is placed. They will appear misplaced. The fix I have provided allows the tooltips to appear smoothly with the chart, no matter where it is placed on the web page.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1232a913007fa5b50c14460abe1970aee8e6fd1c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1232a913007fa5b50c14460abe1970aee8e6fd1c"/>
+    <title>
+        Merge pull request #2254 from dibsyjr1/v2.0-dev
+    </title>
+    <updated>2016-04-13T19:27:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2254 from dibsyjr1/v2.0-dev
+
+Fixed legendCallback() html generation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/447801c45a544e518fb55bf5283117869f41f754</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/447801c45a544e518fb55bf5283117869f41f754"/>
+    <title>
+        Returned Chart.js build file back to normal
+    </title>
+    <updated>2016-04-13T17:51:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/9978497?s=30&amp;v=4"/>
+    <author>
+      <name>dibsyjr1</name>
+      <uri>https://github.com/dibsyjr1</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Returned Chart.js build file back to normal&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5aa16a67c1b34f5d63f52de1e153d3bb2dcca675</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5aa16a67c1b34f5d63f52de1e153d3bb2dcca675"/>
+    <title>
+        Fixed the generateLegend function
+    </title>
+    <updated>2016-04-13T15:03:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/9978497?s=30&amp;v=4"/>
+    <author>
+      <name>dibsyjr1</name>
+      <uri>https://github.com/dibsyjr1</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed the generateLegend function
+
+Fixed the generateLegend function to create the colour block next to the text instead of around it.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b96572ac010d916bc9ae71122511c5939898267</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4b96572ac010d916bc9ae71122511c5939898267"/>
+    <title>
+        Fixed legendCallback() html generation
+    </title>
+    <updated>2016-04-13T14:26:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/9978497?s=30&amp;v=4"/>
+    <author>
+      <name>dibsyjr1</name>
+      <uri>https://github.com/dibsyjr1</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed legendCallback() html generation
+
+Fixed legendCallback&amp;#39;s html generation so that the span lies next to the text instead of being around it.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3166895772fe81ddd8b8a690e5a7354f09c5d766</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3166895772fe81ddd8b8a690e5a7354f09c5d766"/>
+    <title>
+        Merge pull request #2251 from tomduncalf/v2.0-handle-gradients
+    </title>
+    <updated>2016-04-13T11:05:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2251 from tomduncalf/v2.0-handle-gradients
+
+Allow gradients to be used as colors without causing errors when e.g. calling the color helper to generate the default colour value for hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c854dd40c304dff02a73df836ab25d8e40a573c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0c854dd40c304dff02a73df836ab25d8e40a573c"/>
+    <title>
+        Allow gradients to be used as colors without causing errors when e.g.…
+    </title>
+    <updated>2016-04-13T08:46:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/5458070?s=30&amp;v=4"/>
+    <author>
+      <name>tomduncalf</name>
+      <uri>https://github.com/tomduncalf</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow gradients to be used as colors without causing errors when e.g. calling the color helper to generate the defualt colour value for hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/87c8f51578284616f0229152ce78d19c2bd815e8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/87c8f51578284616f0229152ce78d19c2bd815e8"/>
+    <title>
+        Merge pull request #2237 from troywarr/v2.0-dev
+    </title>
+    <updated>2016-04-11T00:15:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2237 from troywarr/v2.0-dev
+
+Fix &amp;quot;main&amp;quot; file path in bower.json&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

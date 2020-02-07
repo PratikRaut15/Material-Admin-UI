@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.0.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.0.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.0.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.0.0</title>
+  <updated>2016-04-09T12:01:01Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ebb8ca233d769b8c565b84393f1ceedbe5359bc9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ebb8ca233d769b8c565b84393f1ceedbe5359bc9"/>
+    <title>
+        Bump version to v2.0.0
+    </title>
+    <updated>2016-04-09T12:01:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to v2.0.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6ba2efe3a46dce413e5002fa188eadc745fd0b20</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6ba2efe3a46dce413e5002fa188eadc745fd0b20"/>
+    <title>
+        Built files
+    </title>
+    <updated>2016-04-03T17:23:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Built files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5fd7370583bb14222c78b8ae8ed36dab920a5d1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d5fd7370583bb14222c78b8ae8ed36dab920a5d1"/>
+    <title>
+        Merge pull request #2206 from nnnick/fix/constraint-width-percent
+    </title>
+    <updated>2016-04-03T17:18:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2206 from nnnick/fix/constraint-width-percent
+
+Allow percentages as the max-width/max-height of the container&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/93a2e9fc553cd930af7152d129f91211fc575177</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/93a2e9fc553cd930af7152d129f91211fc575177"/>
+    <title>
+        Merge pull request #2209 from nnnick/zoom_and_pan_pre_work
+    </title>
+    <updated>2016-04-03T13:19:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2209 from nnnick/zoom_and_pan_pre_work
+
+Zoom and pan pre work&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a7fede4f465277dd0cb6ce1675153f6e4a6472e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a7fede4f465277dd0cb6ce1675153f6e4a6472e2"/>
+    <title>
+        Fix jshint error
+    </title>
+    <updated>2016-04-03T13:15:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix jshint error&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/488826ace394a0449a7b8a6dc3da4d1d871dcdee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/488826ace394a0449a7b8a6dc3da4d1d871dcdee"/>
+    <title>
+        Update doc file to indicate that category scale supports min/max attr…
+    </title>
+    <updated>2016-04-03T03:07:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update doc file to indicate that category scale supports min/max attributes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ee70d6d48a980fbe006d3d2e02ebae24fbfd83a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9ee70d6d48a980fbe006d3d2e02ebae24fbfd83a"/>
+    <title>
+        Category scale supports min / max
+    </title>
+    <updated>2016-04-03T03:05:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Category scale supports min / max&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/95bd0a54dd2f4e3a0ec5601b2a359ec72408d48a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/95bd0a54dd2f4e3a0ec5601b2a359ec72408d48a"/>
+    <title>
+        Clip out the chart area so that things outside do not draw
+    </title>
+    <updated>2016-04-03T01:41:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clip out the chart area so that things outside do not draw&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2b361e1fee1f3be00760739f17173a9d45eb8445</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2b361e1fee1f3be00760739f17173a9d45eb8445"/>
+    <title>
+        Fix typo
+    </title>
+    <updated>2016-04-02T13:41:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7875b0c68df08312efa76062fe5bf63dd20dc14a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7875b0c68df08312efa76062fe5bf63dd20dc14a"/>
+    <title>
+        Install latest chrome before running tests
+    </title>
+    <updated>2016-04-02T13:37:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Install latest chrome before running tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5c1f242785ffe05993b8dd04de9e16a1c938894f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5c1f242785ffe05993b8dd04de9e16a1c938894f"/>
+    <title>
+        Use latest firefox version
+    </title>
+    <updated>2016-04-02T13:37:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use latest firefox version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3350d5fb134796119c28f350e139407b4a125a61</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3350d5fb134796119c28f350e139407b4a125a61"/>
+    <title>
+        Refactoring to reduce code size
+    </title>
+    <updated>2016-04-02T13:19:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactoring to reduce code size&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b15b316e85d385fd099cbd0f0b01e62e6b3f0866</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b15b316e85d385fd099cbd0f0b01e62e6b3f0866"/>
+    <title>
+        use watchify for incremental test rebuilds
+    </title>
+    <updated>2016-04-02T13:02:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;use watchify for incremental test rebuilds&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b6d7ceba1c457a99b0cd09c00a53c8249a0d0a29</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b6d7ceba1c457a99b0cd09c00a53c8249a0d0a29"/>
+    <title>
+        Add initial implementation of constraint percentage width / height su…
+    </title>
+    <updated>2016-04-02T03:11:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add initial implementation of constraint percentage width / height support. Added tests for dom sizing methods.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/be6b254d50c2a319561b31e65248a0ebfaa49c4c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/be6b254d50c2a319561b31e65248a0ebfaa49c4c"/>
+    <title>
+        Merge pull request #2203 from nnnick/fix/minor-doc-updates
+    </title>
+    <updated>2016-04-02T02:16:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2203 from nnnick/fix/minor-doc-updates
+
+Minor doc fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0b56ea452fc1657a8032e25f5829cb8bbf26e1db</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0b56ea452fc1657a8032e25f5829cb8bbf26e1db"/>
+    <title>
+        Minor doc fixes
+    </title>
+    <updated>2016-04-02T02:12:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Minor doc fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/37da19df784cb08dba612f09de18e3d42a13cf58</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/37da19df784cb08dba612f09de18e3d42a13cf58"/>
+    <title>
+        Merge pull request #2186 from nnnick/fix/2115
+    </title>
+    <updated>2016-03-30T00:13:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2186 from nnnick/fix/2115
+
+Better handling when data.datasets does not exist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d8347039cf2348d66eee0477a263e3efdafdf03d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d8347039cf2348d66eee0477a263e3efdafdf03d"/>
+    <title>
+        Better handling when data.datasets does not exist
+    </title>
+    <updated>2016-03-30T00:10:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better handling when data.datasets does not exist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f39fa53a7e5547cc608670ed64514948d60999e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f39fa53a7e5547cc608670ed64514948d60999e5"/>
+    <title>
+        Fix doc titles
+    </title>
+    <updated>2016-03-26T14:57:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix doc titles&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cefaef4707e16c6f68e3b4cef9d592a9b6f354e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cefaef4707e16c6f68e3b4cef9d592a9b6f354e2"/>
+    <title>
+        Fix tests
+    </title>
+    <updated>2016-03-26T14:49:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix tests&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

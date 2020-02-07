@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.2.0-rc.1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.2.0-rc.1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.2.0-rc.1.atom"/>
+  <title>Recent Commits to Chart.js:v2.2.0-rc.1</title>
+  <updated>2016-07-15T11:01:55Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6572c94bd611a120dd13221da13c747bec02e7c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6572c94bd611a120dd13221da13c747bec02e7c2"/>
+    <title>
+        Fix missing Chart.js.zip file for Travis release
+    </title>
+    <updated>2016-07-15T11:01:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix missing Chart.js.zip file for Travis release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f22754874cce74c542d229ae61f1753be2ca3f95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f22754874cce74c542d229ae61f1753be2ca3f95"/>
+    <title>
+        Merge pull request #2971 from moberwasserlechner/patch-2
+    </title>
+    <updated>2016-07-14T13:42:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2971 from moberwasserlechner/patch-2
+
+Docs for Title and Legend position incomplete&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0b0a3c9ccd5509b35d734a2c7388cd90b2de581e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0b0a3c9ccd5509b35d734a2c7388cd90b2de581e"/>
+    <title>
+        Docs for Title and Legend position incomplete
+    </title>
+    <updated>2016-07-14T10:30:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1049938?s=30&amp;v=4"/>
+    <author>
+      <name>moberwasserlechner</name>
+      <uri>https://github.com/moberwasserlechner</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Docs for Title and Legend position incomplete
+
+Positioning of title and legend to the left or to the right works.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5804f1e3c9b8875fb811fc0caf192a28c405255b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5804f1e3c9b8875fb811fc0caf192a28c405255b"/>
+    <title>
+        Package.json for v.2.2.0-rc.1 and fixed travis deploy
+    </title>
+    <updated>2016-07-14T00:00:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Package.json for v.2.2.0-rc.1 and fixed travis deploy&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bfa37e7d68da7245d4f4da417173917791b88e62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bfa37e7d68da7245d4f4da417173917791b88e62"/>
+    <title>
+        Merge pull request #2926 from chartjs/fix/2915
+    </title>
+    <updated>2016-07-13T22:22:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2926 from chartjs/fix/2915
+
+Fix bar and line controllers to convert strings to numbers when stacking&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3dd15f64d298d57c79de506f8a164e30884a18fd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3dd15f64d298d57c79de506f8a164e30884a18fd"/>
+    <title>
+        Merge pull request #2918 from chartjs/fix/2916
+    </title>
+    <updated>2016-07-13T22:21:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2918 from chartjs/fix/2916
+
+Fix time point lines. Improved logic for using the value in the time …&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5c8e7114a86b71f302209b11b64c8b5068f0ee3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d5c8e7114a86b71f302209b11b64c8b5068f0ee3"/>
+    <title>
+        Merge pull request #2961 from moberwasserlechner/patch-1
+    </title>
+    <updated>2016-07-13T13:13:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2961 from moberwasserlechner/patch-1
+
+Fix copy typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/281ad204524f6ad9943902a6a909bb56bfc3d06b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/281ad204524f6ad9943902a6a909bb56bfc3d06b"/>
+    <title>
+        Fix copy typo
+    </title>
+    <updated>2016-07-13T06:49:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1049938?s=30&amp;v=4"/>
+    <author>
+      <name>moberwasserlechner</name>
+      <uri>https://github.com/moberwasserlechner</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix copy typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/885eeb091a0908cf80767f2af515ac73f3abe52d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/885eeb091a0908cf80767f2af515ac73f3abe52d"/>
+    <title>
+        Update link to Colors in  documentation for each chart type
+    </title>
+    <updated>2016-07-12T15:33:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update link to Colors in  documentation for each chart type&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/524493fe0623c5346af9d71e87ae20f7047b30e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/524493fe0623c5346af9d71e87ae20f7047b30e0"/>
+    <title>
+        Merge pull request #2883 from Mesonyx/mesonyx/bugfix/null-tooltips
+    </title>
+    <updated>2016-07-11T14:34:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2883 from Mesonyx/mesonyx/bugfix/null-tooltips
+
+Fix for null value label/x-axis multi-tooltip bug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/49c4169010048d1fb4add298ec1f680b6dd6d30a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/49c4169010048d1fb4add298ec1f680b6dd6d30a"/>
+    <title>
+        Bring back capping of bezier curve points and have an option to disab…
+    </title>
+    <updated>2016-07-09T21:24:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bring back capping of bezier curve points and have an option to disable it (#2948)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b6686f00f4670a03ed242db13a80a0d6f9399af2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b6686f00f4670a03ed242db13a80a0d6f9399af2"/>
+    <title>
+        Non numeric y (#2849)
+    </title>
+    <updated>2016-07-09T15:22:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Non numeric y (#2849)
+
+* Category scale can now read from the xLabels and yLabels properties.
+
+* Update docs with section regarding the data object.
+
+* Add sample file with non numeric Y and fix animations&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/72813d51122090984cb0ee8dc46cfdfacd778983</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/72813d51122090984cb0ee8dc46cfdfacd778983"/>
+    <title>
+        Merge branch &#39;amlethojalen-master&#39;
+    </title>
+    <updated>2016-07-09T14:02:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;amlethojalen-master&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a1f94b1a57a02dbd45eac3e27d97a179b853557d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a1f94b1a57a02dbd45eac3e27d97a179b853557d"/>
+    <title>
+        update sample to have negative numbers
+    </title>
+    <updated>2016-07-09T14:01:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update sample to have negative numbers&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6f392639c2e3eb6d9b3aea7195e08f20c5297055</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6f392639c2e3eb6d9b3aea7195e08f20c5297055"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/amlethojalen/Chart.js int…
+    </title>
+    <updated>2016-07-09T13:39:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/amlethojalen/Chart.js into amlethojalen-master&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/609df5fb164e7eabdb5f5881841cca2570f40d21</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/609df5fb164e7eabdb5f5881841cca2570f40d21"/>
+    <title>
+        Merge pull request #2885 from neilmacintyre/master
+    </title>
+    <updated>2016-07-09T13:12:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2885 from neilmacintyre/master
+
+cached index and length&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc09b58a14a2669185a82f73c4944496c37a014d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/fc09b58a14a2669185a82f73c4944496c37a014d"/>
+    <title>
+        Merge pull request #2905 from shuson/patch-1
+    </title>
+    <updated>2016-07-09T13:12:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2905 from shuson/patch-1
+
+add wikipedia link for DRY explanation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8226f3432b9a71f2f9c0c616161de328378985da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8226f3432b9a71f2f9c0c616161de328378985da"/>
+    <title>
+        Fix JSHint warnings and remove commented code
+    </title>
+    <updated>2016-07-09T13:08:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix JSHint warnings and remove commented code&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4dacb78ae7a3d8aaab2ab1a4547dce3f22673bf1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4dacb78ae7a3d8aaab2ab1a4547dce3f22673bf1"/>
+    <title>
+        Merge pull request #2936 from gitname/patch-1
+    </title>
+    <updated>2016-07-07T20:17:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2936 from gitname/patch-1
+
+Fix typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/046e2effb55da06fb685d112744dac245dacdfa4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/046e2effb55da06fb685d112744dac245dacdfa4"/>
+    <title>
+        Fix typo
+    </title>
+    <updated>2016-07-07T19:57:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/7143133?s=30&amp;v=4"/>
+    <author>
+      <name>gitname</name>
+      <uri>https://github.com/gitname</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

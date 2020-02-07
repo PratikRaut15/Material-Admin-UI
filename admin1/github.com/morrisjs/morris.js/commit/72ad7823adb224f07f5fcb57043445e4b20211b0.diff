@@ -1,0 +1,42 @@
+diff --git a/.travis.yml b/.travis.yml
+index d3d2e53..46cc1b5 100644
+--- a/.travis.yml
++++ b/.travis.yml
+@@ -9,6 +9,7 @@ before_script:
+   - 'sed -i -e "s/RAPHAEL/$RAPHAEL/" bower.json'
+   - "bower install"
+ env:
++  - JQUERY="~> 1.7.0" RAPHAEL="~> 2.0.0"
+   - JQUERY="~> 1.8.0" RAPHAEL="~> 2.0.0"
+   - JQUERY="~> 1.9.0" RAPHAEL="~> 2.0.0"
+   - JQUERY="~> 2.0.0" RAPHAEL="~> 2.0.0"
+diff --git a/bower.json b/bower.json
+index 535a14e..c222c3c 100644
+--- a/bower.json
++++ b/bower.json
+@@ -6,9 +6,8 @@
+     "./morris.css"
+   ],
+   "dependencies": {
+-    "jquery": ">= 2.1.0",
+-    "raphael": ">= 2.0",
+-    "mocha": "~1.17.1"
++    "jquery": ">= 1.7.0",
++    "raphael": ">= 2.0"
+   },
+   "devDependencies": {
+     "mocha": "~1.17.1",
+diff --git a/bower.travis.json b/bower.travis.json
+index 7ac77e5..e5a36b4 100644
+--- a/bower.travis.json
++++ b/bower.travis.json
+@@ -7,8 +7,7 @@
+   ],
+   "dependencies": {
+     "jquery": "JQUERY",
+-    "raphael": "RAPHAEL",
+-    "mocha": "~1.17.1"
++    "raphael": "RAPHAEL"
+   },
+   "devDependencies": {
+     "mocha": "~1.17.1",

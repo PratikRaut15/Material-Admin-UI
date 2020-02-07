@@ -1,0 +1,11 @@
+diff --git a/bower.json b/bower.json
+index c222c3c..a400c35 100644
+--- a/bower.json
++++ b/bower.json
+@@ -1,6 +1,5 @@
+ {
+   "name": "morris.js",
+-  "version": "0.5.1",
+   "main": [
+     "./morris.js",
+     "./morris.css"

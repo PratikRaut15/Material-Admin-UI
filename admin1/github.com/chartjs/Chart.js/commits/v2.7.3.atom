@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.7.3</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.7.3"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.7.3.atom"/>
+  <title>Recent Commits to Chart.js:v2.7.3</title>
+  <updated>2018-10-15T17:14:43Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/924a66bae23f7e938531024951f7251d46785473</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/924a66bae23f7e938531024951f7251d46785473"/>
+    <title>
+        Release 2.7.3
+    </title>
+    <updated>2018-10-15T17:14:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.7.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7065c4318f27948fe3536040001067b9140f2806</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7065c4318f27948fe3536040001067b9140f2806"/>
+    <title>
+        Merge pull request #5732 from chartjs/master
+    </title>
+    <updated>2018-10-15T17:08:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #5732 from chartjs/master
+
+Version 2.7.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7eab1b9945a68a0cc0abf7f6ab4fd4c28a5b7d5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d7eab1b9945a68a0cc0abf7f6ab4fd4c28a5b7d5"/>
+    <title>
+        Bump version to 2.7.3
+    </title>
+    <updated>2018-10-15T16:48:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.7.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1ba06a26fddde17285072f3a446679e9388b382f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1ba06a26fddde17285072f3a446679e9388b382f"/>
+    <title>
+        Add aspectRatio property to responsive doc (#5756)
+    </title>
+    <updated>2018-10-09T16:20:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8260962?s=30&amp;v=4"/>
+    <author>
+      <name>danielcb29</name>
+      <uri>https://github.com/danielcb29</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add aspectRatio property to responsive doc (#5756)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9293c30d4f5727c4f64967d709f37f44d43b716f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9293c30d4f5727c4f64967d709f37f44d43b716f"/>
+    <title>
+        Add scatter link in charts documentation (#5736)
+    </title>
+    <updated>2018-09-21T19:22:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17082987?s=30&amp;v=4"/>
+    <author>
+      <name>miguelms95</name>
+      <uri>https://github.com/miguelms95</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add scatter link in charts documentation (#5736)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2f9c663d011618e264c2db7a5bccd25c08838e34</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2f9c663d011618e264c2db7a5bccd25c08838e34"/>
+    <title>
+        Added Wicked-Charts to the Popular Extensions Page (#5734)
+    </title>
+    <updated>2018-09-21T19:21:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/32562426?s=30&amp;v=4"/>
+    <author>
+      <name>maximAtanasov</name>
+      <uri>https://github.com/maximAtanasov</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added Wicked-Charts to the Popular Extensions Page (#5734)
+
+Wicked-Charts is a Java wrapper around Chart.js and allows users to create charts in Java using the Wicket framework. The latest version of Wicked-Charts (3.1.0) supports Chartjs and Wicket 8.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a65546629d8561d63eccb3b07ae44bce54d7595</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7a65546629d8561d63eccb3b07ae44bce54d7595"/>
+    <title>
+        Fix scale when data is all small numbers (#5723)
+    </title>
+    <updated>2018-09-16T09:33:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/7069475?s=30&amp;v=4"/>
+    <author>
+      <name>costerwi</name>
+      <uri>https://github.com/costerwi</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix scale when data is all small numbers (#5723)
+
+* Add test for correct handling of small numbers
+
+* Calculate tick precision for arbitrarily small numbers
+
+* Use scientific notation for very small tick numbers
+
+* Calculate significant digits for exponential tick values&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bbd589d5ab1606b970d04cb28496e338a7a4c35f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bbd589d5ab1606b970d04cb28496e338a7a4c35f"/>
+    <title>
+        Add &quot;Accessibility&quot; documentation page (#5719)
+    </title>
+    <updated>2018-09-11T07:12:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/35270620?s=30&amp;v=4"/>
+    <author>
+      <name>wuweiweiwu</name>
+      <uri>https://github.com/wuweiweiwu</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add &amp;quot;Accessibility&amp;quot; documentation page (#5719)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1aa54b074bda2f07a315b26d738bd90f617bd278</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1aa54b074bda2f07a315b26d738bd90f617bd278"/>
+    <title>
+        Add gulp watch task for docs (#5724)
+    </title>
+    <updated>2018-09-09T18:42:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/35270620?s=30&amp;v=4"/>
+    <author>
+      <name>wuweiweiwu</name>
+      <uri>https://github.com/wuweiweiwu</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add gulp watch task for docs (#5724)
+
+gulp docs --watch&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3830216420d7f85ed4a037bfb3bc7be1d7e70512</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3830216420d7f85ed4a037bfb3bc7be1d7e70512"/>
+    <title>
+        Event handling to use target instead currentTarget (#5575)
+    </title>
+    <updated>2018-08-10T07:32:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/34158322?s=30&amp;v=4"/>
+    <author>
+      <name>teroman</name>
+      <uri>https://github.com/teroman</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Event handling to use target instead currentTarget (#5575)
+
+If you attach event handlers to a container rather than directly to the canvas then the currentTarget is the container, event.target is the canvas that triggers the event. It&amp;#39;s useful to do this if you have many charts or are creating them dynamically.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab41173d9b2abb9c543c82c360abb51c3efcd778</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ab41173d9b2abb9c543c82c360abb51c3efcd778"/>
+    <title>
+        Fix adding and removing datasets in bar samples (#5663)
+    </title>
+    <updated>2018-08-08T16:52:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/9089180?s=30&amp;v=4"/>
+    <author>
+      <name>TPullen21</name>
+      <uri>https://github.com/TPullen21</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix adding and removing datasets in bar samples (#5663)
+
+Account for zero indexing of arrays when creating a name for an added dataset and remove the last dataset in the array when removing a dataset rather than removing the first.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a9c4e377a7f529a82fc1dbcef32ab23d40c9b158</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a9c4e377a7f529a82fc1dbcef32ab23d40c9b158"/>
+    <title>
+        Add color to financial time series sample (#5661)
+    </title>
+    <updated>2018-08-08T16:44:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/9089180?s=30&amp;v=4"/>
+    <author>
+      <name>TPullen21</name>
+      <uri>https://github.com/TPullen21</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add color to financial time series sample (#5661)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/301017373353443755665acf8f4494384c6c9725</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/301017373353443755665acf8f4494384c6c9725"/>
+    <title>
+        Disable hardware acceleration for unit tests
+    </title>
+    <updated>2018-07-29T20:43:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Disable hardware acceleration for unit tests
+
+Explicitly disable hardware acceleration to make image diff more stable when ran on Travis and dev machine.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/91608398b683afa627c9ab65a65d3e9b50cdb794</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/91608398b683afa627c9ab65a65d3e9b50cdb794"/>
+    <title>
+        Add &quot;point style&quot; image tests
+    </title>
+    <updated>2018-07-29T20:43:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add &amp;quot;point style&amp;quot; image tests
+
+Replace the old style canvas &amp;quot;mock&amp;quot; context checks by image based unit tests which are easier to maintain and allow more flexibility in the drawing logic since we are not testing the context calls but the final painted result.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9a295816b3ed406ff34d078746d8afd94d0b13a2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9a295816b3ed406ff34d078746d8afd94d0b13a2"/>
+    <title>
+        Replace ES6 by Webpack in the integration docs (#5555)
+    </title>
+    <updated>2018-07-29T20:16:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8083666?s=30&amp;v=4"/>
+    <author>
+      <name>slokhorst</name>
+      <uri>https://github.com/slokhorst</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Replace ES6 by Webpack in the integration docs (#5555)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/352268616b439017c1ed76eec512de99105db4a3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/352268616b439017c1ed76eec512de99105db4a3"/>
+    <title>
+        Fix min and max option checks in linear scales (#5209)
+    </title>
+    <updated>2018-07-29T16:09:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/34158322?s=30&amp;v=4"/>
+    <author>
+      <name>teroman</name>
+      <uri>https://github.com/teroman</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix min and max option checks in linear scales (#5209)
+
+When 0, the min and max options was considered not being set, instead we should check for null or undefined.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/493eaa842444b4e5b1f6d192fadf2bb1aaa02eba</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/493eaa842444b4e5b1f6d192fadf2bb1aaa02eba"/>
+    <title>
+        Refactor helpers.canvas.drawPoint() (#5623)
+    </title>
+    <updated>2018-07-29T09:31:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/723188?s=30&amp;v=4"/>
+    <author>
+      <name>nagix</name>
+      <uri>https://github.com/nagix</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor helpers.canvas.drawPoint() (#5623)
+
+Bring ctx.beginPath() before switch and replace ctx.fillRect()/ctx.strokeRect() with ctx.rect()/ctx.fill() to make it consistent with the other styles. It is also preferable that helpers.canvas.roundedRect() include ctx.closePath() at the end because CanvasRenderingContext2D.rect() closes the subpath.
+
+Get rid of ctx.closePath() for cross, crossRot, star, line and dash because these have no closed path shape, and it should be avoided that ctx.closePath() makes a round-trip path.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0963c8f76c997643aa3aa1101c34ea31cb58eab2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0963c8f76c997643aa3aa1101c34ea31cb58eab2"/>
+    <title>
+        Fix positioning in the custom tooltip example (#5454)
+    </title>
+    <updated>2018-07-14T08:06:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/674062?s=30&amp;v=4"/>
+    <author>
+      <name>jung35</name>
+      <uri>https://github.com/jung35</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix positioning in the custom tooltip example (#5454)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/119a86f3995e373865ce33a1687cb834ecef6eb3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/119a86f3995e373865ce33a1687cb834ecef6eb3"/>
+    <title>
+        Update the descriptions of barThickness, offsetGridLines and offset (…
+    </title>
+    <updated>2018-07-14T07:57:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/723188?s=30&amp;v=4"/>
+    <author>
+      <name>nagix</name>
+      <uri>https://github.com/nagix</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update the descriptions of barThickness, offsetGridLines and offset (#5600)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/246b9a1a40b72e57ba256d679ca6e44f1cd82411</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/246b9a1a40b72e57ba256d679ca6e44f1cd82411"/>
+    <title>
+        Add circular option documentation for grid lines (#5637)
+    </title>
+    <updated>2018-07-14T07:52:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/10933146?s=30&amp;v=4"/>
+    <author>
+      <name>nielmistry</name>
+      <uri>https://github.com/nielmistry</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add circular option documentation for grid lines (#5637)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

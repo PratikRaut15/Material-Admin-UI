@@ -1,0 +1,21 @@
+From 05afeebef5e4157e492675271311b81c387d04aa Mon Sep 17 00:00:00 2001
+From: Kevin Kirsche <Kev.Kirsche+GitHub@gmail.com>
+Date: Wed, 10 Jun 2015 19:01:07 -0400
+Subject: [PATCH] Remove moot `version` property from bower.json
+
+Per bower/bower.json-spec@a325da3
+---
+ bower.json | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/bower.json b/bower.json
+index c222c3c..a400c35 100644
+--- a/bower.json
++++ b/bower.json
+@@ -1,6 +1,5 @@
+ {
+   "name": "morris.js",
+-  "version": "0.5.1",
+   "main": [
+     "./morris.js",
+     "./morris.css"

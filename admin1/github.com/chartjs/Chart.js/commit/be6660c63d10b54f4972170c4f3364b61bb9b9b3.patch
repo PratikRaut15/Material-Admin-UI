@@ -1,0 +1,20 @@
+From be6660c63d10b54f4972170c4f3364b61bb9b9b3 Mon Sep 17 00:00:00 2001
+From: Winter Zhong <wmzhong@users.noreply.github.com>
+Date: Fri, 16 Feb 2018 08:25:49 +0800
+Subject: [PATCH] Improve title of generated documentation (#5256)
+
+---
+ book.json | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/book.json b/book.json
+index 487fd095c..8b0f73970 100644
+--- a/book.json
++++ b/book.json
+@@ -1,5 +1,6 @@
+ {
+   "root": "./docs",
++  "title": "Chart.js documentation",
+   "author": "chartjs",
+   "gitbook": "3.2.2",
+   "plugins": ["-lunr", "-search", "search-plus", "anchorjs", "chartjs", "ga"],

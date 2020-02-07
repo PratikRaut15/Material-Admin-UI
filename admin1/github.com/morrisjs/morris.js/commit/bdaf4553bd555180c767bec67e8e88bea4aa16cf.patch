@@ -1,0 +1,21 @@
+From bdaf4553bd555180c767bec67e8e88bea4aa16cf Mon Sep 17 00:00:00 2001
+From: Edgars Beigarts <edgars.beigarts@makit.lv>
+Date: Sat, 12 Jul 2014 20:33:14 +0300
+Subject: [PATCH] Test against jQuery 1.7 since it is mentioned in README
+
+---
+ .travis.yml | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/.travis.yml b/.travis.yml
+index d3d2e53..46cc1b5 100644
+--- a/.travis.yml
++++ b/.travis.yml
+@@ -9,6 +9,7 @@ before_script:
+   - 'sed -i -e "s/RAPHAEL/$RAPHAEL/" bower.json'
+   - "bower install"
+ env:
++  - JQUERY="~> 1.7.0" RAPHAEL="~> 2.0.0"
+   - JQUERY="~> 1.8.0" RAPHAEL="~> 2.0.0"
+   - JQUERY="~> 1.9.0" RAPHAEL="~> 2.0.0"
+   - JQUERY="~> 2.0.0" RAPHAEL="~> 2.0.0"

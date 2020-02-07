@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/df2925d9e8de677279ca7f54583192c76dc6de0c</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/df2925d9e8de677279ca7f54583192c76dc6de0c"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/df2925d9e8de677279ca7f54583192c76dc6de0c.atom"/>
+  <title>Recent Commits to morris.js:df2925d9e8de677279ca7f54583192c76dc6de0c</title>
+  <updated>2012-06-18T19:09:27Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/df2925d9e8de677279ca7f54583192c76dc6de0c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/df2925d9e8de677279ca7f54583192c76dc6de0c"/>
+    <title>
+        Compiled coffee script and uglified
+    </title>
+    <updated>2012-06-18T19:09:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/448969?s=30&amp;v=4"/>
+    <author>
+      <name>dump247</name>
+      <uri>https://github.com/dump247</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Compiled coffee script and uglified&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a220fb6f4af5db7c5f3df55a4bd10fe4ddaf4305</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a220fb6f4af5db7c5f3df55a4bd10fe4ddaf4305"/>
+    <title>
+        Pulled up map call to resolve issue with nulls in coordinate lists
+    </title>
+    <updated>2012-06-18T19:04:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/448969?s=30&amp;v=4"/>
+    <author>
+      <name>dump247</name>
+      <uri>https://github.com/dump247</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Pulled up map call to resolve issue with nulls in coordinate lists
+createPath fails if the list contains 0 or 1 coordinate and multiples nulls&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/046903cd6f11cb7e66a68a37958c1c17999b6758</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/046903cd6f11cb7e66a68a37958c1c17999b6758"/>
+    <title>
+        Title.
+    </title>
+    <updated>2012-06-10T18:48:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Title.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cfd8e6ceb9ab5d9d9733154144fd005f61f084df</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/cfd8e6ceb9ab5d9d9733154144fd005f61f084df"/>
+    <title>
+        Better updating data example.
+    </title>
+    <updated>2012-06-10T18:21:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better updating data example.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dd4f531ddf905e7b1cf093a29323ce5a56010d2c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/dd4f531ddf905e7b1cf093a29323ce5a56010d2c"/>
+    <title>
+        Update example.
+    </title>
+    <updated>2012-06-10T17:30:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update example.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/68aca2cde4f8ad894da0c3678e5b8e35dcc2689c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/68aca2cde4f8ad894da0c3678e5b8e35dcc2689c"/>
+    <title>
+        Updating datasets.
+    </title>
+    <updated>2012-06-10T17:28:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updating datasets.
+
+Use setData() function to update dataset.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/acfec20bcf1c9d7f0d7595ca69f4a0cb5d8d6f70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/acfec20bcf1c9d7f0d7595ca69f4a0cb5d8d6f70"/>
+    <title>
+        Make sure x-axis labels don&#39;t overflow.
+    </title>
+    <updated>2012-06-08T21:39:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make sure x-axis labels don&amp;#39;t overflow.
+
+Fixes #63.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0015b28ef22daf996b972a3bde51bd677aeaee81</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0015b28ef22daf996b972a3bde51bd677aeaee81"/>
+    <title>
+        Tidy up decimal grids intervals a little.
+    </title>
+    <updated>2012-06-08T20:47:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tidy up decimal grids intervals a little.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/380cc5217a855275691fc19bcdb6cd9aa97d57cf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/380cc5217a855275691fc19bcdb6cd9aa97d57cf"/>
+    <title>
+        Merge branch &#39;decimal&#39; of https://github.com/pelletier/morris.js into…
+    </title>
+    <updated>2012-06-08T20:42:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;decimal&amp;#39; of https://github.com/pelletier/morris.js into pelletier-decimal
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/79575dce976859214bae799ecbe8359c9f883478</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/79575dce976859214bae799ecbe8359c9f883478"/>
+    <title>
+        Fix string values.
+    </title>
+    <updated>2012-06-08T20:37:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix string values.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aa67b1a3058e48c69915b96035f8dc1749215ff8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/aa67b1a3058e48c69915b96035f8dc1749215ff8"/>
+    <title>
+        Bugfix: zero value regression (#59).
+    </title>
+    <updated>2012-05-15T21:39:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bugfix: zero value regression (#59).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e329928bdca3c3f123f86b3486a5cdad54284f2e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e329928bdca3c3f123f86b3486a5cdad54284f2e"/>
+    <title>
+        Move the formatting into yLabelFormat.
+    </title>
+    <updated>2012-05-14T10:10:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/172804?s=30&amp;v=4"/>
+    <author>
+      <name>pelletier</name>
+      <uri>https://github.com/pelletier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Move the formatting into yLabelFormat.
+
+In order to let the user to get rid of the precision, she can provide a custom
+yLabelFormat funciton.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7def73fbf60cbc36694db644525c78c99b856c73</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7def73fbf60cbc36694db644525c78c99b856c73"/>
+    <title>
+        Compute the maxYLabelWith using the precision.
+    </title>
+    <updated>2012-05-14T10:03:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/172804?s=30&amp;v=4"/>
+    <author>
+      <name>pelletier</name>
+      <uri>https://github.com/pelletier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Compute the maxYLabelWith using the precision.
+
+As I introduced the precision, the maxYLabelWith is not the width of the raw
+value but the width of the formatted one.
+
+As the computing the of maxYLabelWidth is done in calc(), I moved yInterval in
+it because I need it to compute the precision. Also I think it makes more sense,
+because the calc() method is supposed to &amp;quot;do any size-related calculations&amp;quot;.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dbc114e060424d56b3f90d662c91799820b55e40</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/dbc114e060424d56b3f90d662c91799820b55e40"/>
+    <title>
+        Add simple support of decimal values on the y axis.
+    </title>
+    <updated>2012-05-14T09:52:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/172804?s=30&amp;v=4"/>
+    <author>
+      <name>pelletier</name>
+      <uri>https://github.com/pelletier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add simple support of decimal values on the y axis.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/942e121caaaa65b3929d895ab3e217b990465108</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/942e121caaaa65b3929d895ab3e217b990465108"/>
+    <title>
+        A deep copy is overkill here.
+    </title>
+    <updated>2012-05-14T06:37:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;A deep copy is overkill here.
+
+The only destructive change to the supplied data array is to change its
+ordering, so a shallow copy is enough to avoid clobbering it.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2108baaf4e6962c1522b4b581bb84a05f4d1e12e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2108baaf4e6962c1522b4b581bb84a05f4d1e12e"/>
+    <title>
+        Add an error message if the graph placeholder isn&#39;t found.
+    </title>
+    <updated>2012-05-11T17:25:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/172804?s=30&amp;v=4"/>
+    <author>
+      <name>pelletier</name>
+      <uri>https://github.com/pelletier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add an error message if the graph placeholder isn&amp;#39;t found.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c66a723acc4162cee429f02e574d64cbf4b96bb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c66a723acc4162cee429f02e574d64cbf4b96bb9"/>
+    <title>
+        Make a deep copy of the given data set.
+    </title>
+    <updated>2012-05-11T16:41:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/172804?s=30&amp;v=4"/>
+    <author>
+      <name>pelletier</name>
+      <uri>https://github.com/pelletier</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make a deep copy of the given data set.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d3d793919ba6c48297e3921aac0542cbc1edc195</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d3d793919ba6c48297e3921aac0542cbc1edc195"/>
+    <title>
+        Bump changelog for 0.2.8.
+    </title>
+    <updated>2012-05-10T06:41:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump changelog for 0.2.8.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f13e9e838f7089b78665ccff6b085039e9bf595e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f13e9e838f7089b78665ccff6b085039e9bf595e"/>
+    <title>
+        Better support for non-continous data (see #53).
+    </title>
+    <updated>2012-05-10T06:35:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better support for non-continous data (see #53).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa8f8c60e571cf140688568a106da8860085e8d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/fa8f8c60e571cf140688568a106da8860085e8d7"/>
+    <title>
+        A small refactor.
+    </title>
+    <updated>2012-04-05T19:04:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;A small refactor.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

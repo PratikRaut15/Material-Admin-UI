@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.2.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.2.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.2.2.atom"/>
+  <title>Recent Commits to Chart.js:v2.2.2</title>
+  <updated>2016-08-27T12:29:09Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0ebe388611a8d394750aa6dba5634db26e378742</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0ebe388611a8d394750aa6dba5634db26e378742"/>
+    <title>
+        Update version for v2.2.2 release
+    </title>
+    <updated>2016-08-27T12:29:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update version for v2.2.2 release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4a4dccd6c1255b49041e54666cd9ca78d842dc54</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4a4dccd6c1255b49041e54666cd9ca78d842dc54"/>
+    <title>
+        Fix #3044 Line chart single data point centering (#3166)
+    </title>
+    <updated>2016-08-25T16:52:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/19689271?s=30&amp;v=4"/>
+    <author>
+      <name>roicos</name>
+      <uri>https://github.com/roicos</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #3044 Line chart single data point centering (#3166)
+
+In line charts, when there is only one label and data point, both are now horizontally centered.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8afac7bd3c508e3cc5ad6035c97c1560905a5ec4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8afac7bd3c508e3cc5ad6035c97c1560905a5ec4"/>
+    <title>
+        Merge pull request #3191 from chartjs/fix/2994
+    </title>
+    <updated>2016-08-23T21:09:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3191 from chartjs/fix/2994
+
+Fix issues with repeated labels in the category scale and added a tes…&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/016f070a325691048af6ee3de920522494b4ca2f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/016f070a325691048af6ee3de920522494b4ca2f"/>
+    <title>
+        Merge pull request #3192 from chartjs/fix/2872
+    </title>
+    <updated>2016-08-23T21:09:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3192 from chartjs/fix/2872
+
+When drawTicks is false, we should not include their size in the size…&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/904f19fb7e443834500cb806cf3e5881dc57c713</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/904f19fb7e443834500cb806cf3e5881dc57c713"/>
+    <title>
+        When drawTicks is false, we should not include their size in the size…
+    </title>
+    <updated>2016-08-23T00:09:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;When drawTicks is false, we should not include their size in the size of the axis&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1749d90faf74c8b2f1e22b6ba9b8e74abb8b4c28</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1749d90faf74c8b2f1e22b6ba9b8e74abb8b4c28"/>
+    <title>
+        Fix issues with repeated labels in the category scale and added a tes…
+    </title>
+    <updated>2016-08-22T22:03:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix issues with repeated labels in the category scale and added a test to cover this case.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b33aff20919ca65e7914aa368fb99961e36e89be</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b33aff20919ca65e7914aa368fb99961e36e89be"/>
+    <title>
+        Merge pull request #3131 from Lighnat0r/master
+    </title>
+    <updated>2016-08-22T21:53:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3131 from Lighnat0r/master
+
+Use parser options in getPixelForValue for time scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/89531c6b932d77184c8acde96cf2988d7627d7a1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/89531c6b932d77184c8acde96cf2988d7627d7a1"/>
+    <title>
+        Merge pull request #3112 from MatthieuRivaud/MonotoneCubicInterpolation
+    </title>
+    <updated>2016-08-22T21:53:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3112 from MatthieuRivaud/MonotoneCubicInterpolation
+
+Monotone cubic interpolation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c94673e55af2618da2f1e4a87719972f4fdb0f7f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c94673e55af2618da2f1e4a87719972f4fdb0f7f"/>
+    <title>
+        Merge pull request #3128 from vermeeca/3127-tooltip-sort
+    </title>
+    <updated>2016-08-22T21:53:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3128 from vermeeca/3127-tooltip-sort
+
+Accept chart data to itemSort callback for Tooltips&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c283867f73a5caea271304dd42480383ccd515ba</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c283867f73a5caea271304dd42480383ccd515ba"/>
+    <title>
+        Remove smallestLabelSeparation from TimeScale (#3186)
+    </title>
+    <updated>2016-08-22T18:50:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1053087?s=30&amp;v=4"/>
+    <author>
+      <name>desowin</name>
+      <uri>https://github.com/desowin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove smallestLabelSeparation from TimeScale (#3186)
+
+In case of charts with over 4000 points, smallestLabelSeparation
+calculation contributes significantly to total cpu usage (about 25% according
+to built-in Chrome profiler). Important thing to note is that result
+of this calculation is not used at all.
+
+Related commits:
+  * 677c249b613bf1a4ebccb1bebda9f04f7346b866
+    introduced smallestLabelSeparation. It was used in calculateBaseWidth
+    function.
+  * d198157fb8ea479ec9286bcf0ffb72e2e62e9661
+    removed last use of smallestLabelSeparation. Since then the calculated
+    value was never used.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e1995473f02fde0cf4b840f642f45634122a3a48</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e1995473f02fde0cf4b840f642f45634122a3a48"/>
+    <title>
+        Document possible options for animation.easing (#3111)
+    </title>
+    <updated>2016-08-21T21:00:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/12495386?s=30&amp;v=4"/>
+    <author>
+      <name>mdewilde</name>
+      <uri>https://github.com/mdewilde</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Document possible options for animation.easing (#3111)
+
+List all possible values for animation.easing and reference URL with more information (taken from code comment).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/349a8a33ea2a3216bcb41666afe945944132e1b9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/349a8a33ea2a3216bcb41666afe945944132e1b9"/>
+    <title>
+        Added borderDash support for grid lines (#3136) (#3142)
+    </title>
+    <updated>2016-08-12T16:31:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/8260207?s=30&amp;v=4"/>
+    <author>
+      <name>karthikiyengar</name>
+      <uri>https://github.com/karthikiyengar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added borderDash support for grid lines (#3136) (#3142)
+
+* Added borderDash support for grid lines (#3136)
+
+* Save and restore context to prevent border dash being applied to other elements
+
+* Adds support for borderDashOffset, checks for setLineDash (IE9/IE10)
+
+* Fixes tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/31197978b7052fef053d093258a3f9e40eab8289</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/31197978b7052fef053d093258a3f9e40eab8289"/>
+    <title>
+        Fix #2966: 0 values in logarithmic scale for line and vertical bar ch…
+    </title>
+    <updated>2016-08-11T19:40:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/19689271?s=30&amp;v=4"/>
+    <author>
+      <name>roicos</name>
+      <uri>https://github.com/roicos</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #2966: 0 values in logarithmic scale for line and vertical bar charts (#3016)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ff0e8eadabaf5e7d9fa8c41f1537a1d223bae054</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ff0e8eadabaf5e7d9fa8c41f1537a1d223bae054"/>
+    <title>
+        Use parser options in getPixelForValue for time scale
+    </title>
+    <updated>2016-08-10T17:14:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/7009354?s=30&amp;v=4"/>
+    <author>
+      <name>Lighnat0r</name>
+      <uri>https://github.com/Lighnat0r</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use parser options in getPixelForValue for time scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/88de438c0ef62c97277710e8b7c7733e7a69c120</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/88de438c0ef62c97277710e8b7c7733e7a69c120"/>
+    <title>
+        3127 - Modify the itemSort callback for tooltips to accept a third pa…
+    </title>
+    <updated>2016-08-10T13:54:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/122619?s=30&amp;v=4"/>
+    <author>
+      <name>vermeeca</name>
+      <uri>https://github.com/vermeeca</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;3127 - Modify the itemSort callback for tooltips to accept a third parameter of the data object passed to the chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5fea5a1156829908114f3748ee02130b08795670</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5fea5a1156829908114f3748ee02130b08795670"/>
+    <title>
+        Merge pull request #3094 from chartjs/fix/3090
+    </title>
+    <updated>2016-08-10T03:00:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3094 from chartjs/fix/3090
+
+Make the iframe not focusable by using tabIndex of -1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c20d391b49da743c060a2a49c269d943eb1fb6a2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c20d391b49da743c060a2a49c269d943eb1fb6a2"/>
+    <title>
+        Remove empty if statement in element.line.js
+    </title>
+    <updated>2016-08-10T01:39:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove empty if statement in element.line.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/abfbdd5f312bc3be7add68f356fcaf097ca938f9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/abfbdd5f312bc3be7add68f356fcaf097ca938f9"/>
+    <title>
+        Remove unneeded trailing commas
+    </title>
+    <updated>2016-08-10T01:35:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove unneeded trailing commas&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6e9ee1f137828fe68a567c35a4d89ce38d770de1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6e9ee1f137828fe68a567c35a4d89ce38d770de1"/>
+    <title>
+        Merge &#39;Documentation updates&#39; #3110
+    </title>
+    <updated>2016-08-10T00:12:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge &amp;#39;Documentation updates&amp;#39; #3110&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/57f2d7de58427a413c406ef0a5a4e120e3351620</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/57f2d7de58427a413c406ef0a5a4e120e3351620"/>
+    <title>
+        Update docs and add plugin section (suggested by @simonbrunel)
+    </title>
+    <updated>2016-08-09T14:34:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update docs and add plugin section (suggested by @simonbrunel)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

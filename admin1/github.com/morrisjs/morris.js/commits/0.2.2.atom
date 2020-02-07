@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0.2.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0.2.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0.2.2.atom"/>
+  <title>Recent Commits to morris.js:0.2.2</title>
+  <updated>2012-02-29T20:53:53Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eca4b3aba1013fcd58e7a5c21a57a74e09b7d4c5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/eca4b3aba1013fcd58e7a5c21a57a74e09b7d4c5"/>
+    <title>
+        Sort input data (closes #10, #20).
+    </title>
+    <updated>2012-02-29T20:53:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Sort input data (closes #10, #20).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b3b8377c539cda8be03f4e23081be7d7cfe320af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b3b8377c539cda8be03f4e23081be7d7cfe320af"/>
+    <title>
+        Fix bug when options.data.length == 2.
+    </title>
+    <updated>2012-02-29T08:11:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix bug when options.data.length == 2.
+
+Closes #19&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/819f40b3d4cfea8777e618461d21a886d896e586</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/819f40b3d4cfea8777e618461d21a886d896e586"/>
+    <title>
+        0.2.1 changelog.
+    </title>
+    <updated>2012-02-28T22:29:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;0.2.1 changelog.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0453724887cdb98595b6053df6e0c89658a2e597</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0453724887cdb98595b6053df6e0c89658a2e597"/>
+    <title>
+        Accept DOM element in options.element (closes #11).
+    </title>
+    <updated>2012-02-28T22:00:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Accept DOM element in options.element (closes #11).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dc0a34dcbb4f906fc25705d93b33ceabb5722a5e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/dc0a34dcbb4f906fc25705d93b33ceabb5722a5e"/>
+    <title>
+        Refactor path drawing.
+    </title>
+    <updated>2012-02-28T21:27:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor path drawing.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8da7935d8ec57a90a7be442e09b0032157355df7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8da7935d8ec57a90a7be442e09b0032157355df7"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/scockram/morris.js into s…
+    </title>
+    <updated>2012-02-28T21:15:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/scockram/morris.js into scockram-master&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a72eb3ed36926b09c5598780035cfe118950cd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7a72eb3ed36926b09c5598780035cfe118950cd8"/>
+    <title>
+        Simplify $.extend call.
+    </title>
+    <updated>2012-02-28T21:06:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Simplify $.extend call.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3371209ab87530181c2a556d72fcbadcf9d1f618</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/3371209ab87530181c2a556d72fcbadcf9d1f618"/>
+    <title>
+        Added option to draw straight lines
+    </title>
+    <updated>2012-02-28T13:30:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1092858?s=30&amp;v=4"/>
+    <author>
+      <name>scockram</name>
+      <uri>https://github.com/scockram</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added option to draw straight lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d059c3acaf356c0620bd6977cc36391cc30f14b4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d059c3acaf356c0620bd6977cc36391cc30f14b4"/>
+    <title>
+        Clone @default options object before merging it
+    </title>
+    <updated>2012-02-28T12:12:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/17647?s=30&amp;v=4"/>
+    <author>
+      <name>mickele</name>
+      <uri>https://github.com/mickele</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clone @default options object before merging it&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d6cb3ee8e13855f9c6436d614892747888c5676</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8d6cb3ee8e13855f9c6436d614892747888c5676"/>
+    <title>
+        Add ymax &#39;auto $min&#39; support.
+    </title>
+    <updated>2012-02-28T08:20:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add ymax &amp;#39;auto $min&amp;#39; support.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/846c4677c99bea0961e297c82e1b7661fb4bfe1f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/846c4677c99bea0961e297c82e1b7661fb4bfe1f"/>
+    <title>
+        Proper dependencies in Makefile.
+    </title>
+    <updated>2012-02-28T07:53:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Proper dependencies in Makefile.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7d9d0b811a9c22e34fa65c0f0726dbdecff5f652</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7d9d0b811a9c22e34fa65c0f0726dbdecff5f652"/>
+    <title>
+        Merge pull request #7 from thedjinn/ymax-option
+    </title>
+    <updated>2012-02-28T07:00:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #7 from thedjinn/ymax-option
+
+Added option to set maximum y-value&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/92666d6a6ca179ebb73c5e2f8a5b728d341019a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/92666d6a6ca179ebb73c5e2f8a5b728d341019a5"/>
+    <title>
+        Merge pull request #6 from thedjinn/makefile
+    </title>
+    <updated>2012-02-28T07:00:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #6 from thedjinn/makefile
+
+Added Makefile&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3b4934003efecdc1475c82cf18f5f39c5fa02140</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/3b4934003efecdc1475c82cf18f5f39c5fa02140"/>
+    <title>
+        add option to set maximum y value
+    </title>
+    <updated>2012-02-27T23:25:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/346890?s=30&amp;v=4"/>
+    <author>
+      <name>thedjinn</name>
+      <uri>https://github.com/thedjinn</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add option to set maximum y value&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/336482cd6244e77213914ad903b7db72047412de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/336482cd6244e77213914ad903b7db72047412de"/>
+    <title>
+        add makefile
+    </title>
+    <updated>2012-02-27T23:16:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/346890?s=30&amp;v=4"/>
+    <author>
+      <name>thedjinn</name>
+      <uri>https://github.com/thedjinn</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add makefile&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/738f53ec72a47effa0be589491ec280176e6ab54</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/738f53ec72a47effa0be589491ec280176e6ab54"/>
+    <title>
+        Pulled some examples from #5 (closes #5).
+    </title>
+    <updated>2012-02-26T01:25:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Pulled some examples from #5 (closes #5).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/91dd0fcb42c6e50c867d37ebdbf748fdffc1a407</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/91dd0fcb42c6e50c867d37ebdbf748fdffc1a407"/>
+    <title>
+        Update readme.
+    </title>
+    <updated>2012-02-26T01:13:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99aafd3ed896a5ef6529cedbc6bb668b131a978e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/99aafd3ed896a5ef6529cedbc6bb668b131a978e"/>
+    <title>
+        Add minified build output. Make &#39;new&#39; optional on Morris.Line.
+    </title>
+    <updated>2012-02-26T00:28:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add minified build output. Make &amp;#39;new&amp;#39; optional on Morris.Line.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/40f336e8bce091e112d8ddc7ec0f520b8829a03c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/40f336e8bce091e112d8ddc7ec0f520b8829a03c"/>
+    <title>
+        Fix date-parsing bug.
+    </title>
+    <updated>2012-02-26T00:11:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix date-parsing bug.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9b4791534b7d86c20a75d5e657112fe747b48778</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/9b4791534b7d86c20a75d5e657112fe747b48778"/>
+    <title>
+        Merge branch &#39;coffee-rewrite&#39;
+    </title>
+    <updated>2012-02-25T18:04:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;coffee-rewrite&amp;#39;
+
+Conflicts:
+	morris.js&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

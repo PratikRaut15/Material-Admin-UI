@@ -1,0 +1,95 @@
+diff --git a/README.md b/README.md
+index 6873d7b..e02a4f4 100644
+--- a/README.md
++++ b/README.md
+@@ -47,6 +47,9 @@ With node installed, install [grunt](https://github.com/cowboy/grunt) using
+ `npm install -g grunt-cli`, and then the rest of the test/build dependencies
+ with `npm install` in the morris.js project folder.
+ 
++Additionally, [bower](http://bower.io/) is required for for retrieving additional test dependencies.  
++Install it with `npm install -g bower` and then `bower install` in the morris project folder.
++
+ Once you're all set up, you can compile, minify and run the tests using `grunt`.
+ 
+ Note: I'm experimenting with using perceptual diffs to catch rendering
+diff --git a/lib/morris.grid.coffee b/lib/morris.grid.coffee
+index 86c98cb..443fb20 100644
+--- a/lib/morris.grid.coffee
++++ b/lib/morris.grid.coffee
+@@ -96,6 +96,7 @@ class Morris.Grid extends Morris.EventEmitter
+   gridDefaults:
+     dateFormat: null
+     axes: true
++    freePosition: false
+     grid: true
+     gridLineColor: '#aaa'
+     gridStrokeWidth: 0.5
+@@ -164,6 +165,10 @@ class Morris.Grid extends Morris.EventEmitter
+           ret.label = @options.dateFormat ret.x
+         else if typeof ret.label is 'number'
+           ret.label = new Date(ret.label).toString()
++      else if @options.freePosition
++        ret.x = parseFloat(row[@options.xkey])
++        if @options.xLabelFormat
++          ret.label = @options.xLabelFormat ret
+       else
+         ret.x = index
+         if @options.xLabelFormat
+@@ -188,7 +193,7 @@ class Morris.Grid extends Morris.EventEmitter
+         yval
+       ret
+ 
+-    if @options.parseTime
++    if @options.parseTime or @options.freePosition
+       @data = @data.sort (a, b) -> (a.x > b.x) - (b.x > a.x)
+ 
+     # calculate horizontal range of the graph
+diff --git a/lib/morris.line.coffee b/lib/morris.line.coffee
+index ee59ee4..3e9bccd 100644
+--- a/lib/morris.line.coffee
++++ b/lib/morris.line.coffee
+@@ -193,6 +193,8 @@ class Morris.Line extends Morris.Grid
+         labels = [[@data[0].label, @data[0].x]]
+       else
+         labels = Morris.labelSeries(@xmin, @xmax, @width, @options.xLabels, @options.xLabelFormat)
++    else if @options.customLabels
++      labels = ([row.label, row.x] for row in @options.customLabels)
+     else
+       labels = ([row.label, row.x] for row in @data)
+     labels.reverse()
+diff --git a/spec/lib/line/line_spec.coffee b/spec/lib/line/line_spec.coffee
+index 42e52e8..ff32fc0 100644
+--- a/spec/lib/line/line_spec.coffee
++++ b/spec/lib/line/line_spec.coffee
+@@ -64,8 +64,29 @@ describe 'Morris.Line', ->
+         labels: ['dontcare']
+         dateFormat: (d) ->
+           x = new Date(d)
+-          "#{x.getYear()}/#{x.getMonth()+1}/#{x.getDay()}"
+-      chart.data.map((x) -> x.label).should == ['2012/1/1', '2012/1/2']
++          "#{x.getYear()+1900}/#{x.getMonth()+1}/#{x.getDay()+1}"
++      chart.data.map((x) -> x.label).should.eql(['2012/1/1', '2012/1/2'])
++
++    it 'should use user-defined labels', ->
++      chart = Morris.Line
++        element: 'graph'
++        data: [{x:1,y:2}],
++        xkey: 'x',
++        ykeys: ['y'],
++        labels: ['dontcare']
++        customLabels: [{x:3,label:'label'}]
++      chart.options.customLabels.map((x) -> x.label).should.eql(['label'])
++
++    it 'should use relative x-coordinates', ->
++      chart = Morris.Line
++        element: 'graph'
++        data: [{x:1,y:2}, {x:1.2,y:2}],
++        xkey: 'x',
++        ykeys: ['y'],
++        labels: ['dontcare']
++        parseTime: false
++        freePosition: true
++      [chart.data[1].x - chart.data[0].x].should.not.equal(1) 
+ 
+   describe 'rendering lines', ->
+     beforeEach ->

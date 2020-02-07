@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/vertical-tick-alignment</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/vertical-tick-alignment"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/vertical-tick-alignment.atom"/>
+  <title>Recent Commits to Chart.js:vertical-tick-alignment</title>
+  <updated>2016-10-25T00:55:51Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/52982f02f33edb148ab80eec00b0df1516fdd3de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/52982f02f33edb148ab80eec00b0df1516fdd3de"/>
+    <title>
+        Fix an issue where the margins are subtracted from the padding twice
+    </title>
+    <updated>2016-10-25T00:55:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix an issue where the margins are subtracted from the padding twice&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1892bac2acfd2bc900e026ac0eb3d307d58b25f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1892bac2acfd2bc900e026ac0eb3d307d58b25f2"/>
+    <title>
+        Alignment sample + minor fix
+    </title>
+    <updated>2016-10-25T00:45:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Alignment sample + minor fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e54adcb7bbde0a1f3678c5dd745cfcfe17181f93</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e54adcb7bbde0a1f3678c5dd745cfcfe17181f93"/>
+    <title>
+        Better rounding
+    </title>
+    <updated>2016-10-25T00:24:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better rounding&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cfb4c40b46183818960245a4add21c9695905bdf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cfb4c40b46183818960245a4add21c9695905bdf"/>
+    <title>
+        Merge branch &#39;master&#39; into vertical-tick-alignment
+    </title>
+    <updated>2016-10-24T23:42:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into vertical-tick-alignment
+
+Conflicts:
+	src/core/core.scale.js
+	test/scale.radialLinear.tests.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/80bd08bef9f3447738c8fde4c0d0b436312a2cb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/80bd08bef9f3447738c8fde4c0d0b436312a2cb9"/>
+    <title>
+        Update chartColors.js to utils.js and move randomScalingFactor functi…
+    </title>
+    <updated>2016-10-23T21:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update chartColors.js to utils.js and move randomScalingFactor function there&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/274aa290ca69f38aac5fd1a5fb55cc5043ea5d8c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/274aa290ca69f38aac5fd1a5fb55cc5043ea5d8c"/>
+    <title>
+        Fix bug in &#39;y&#39; tooltip mode
+    </title>
+    <updated>2016-10-23T21:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix bug in &amp;#39;y&amp;#39; tooltip mode&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ad9cd215466e3abb82731f6550d4df80bbc3a84</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9ad9cd215466e3abb82731f6550d4df80bbc3a84"/>
+    <title>
+        Reorganized sample files into sub directories. Added a helper contain…
+    </title>
+    <updated>2016-10-23T21:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reorganized sample files into sub directories. Added a helper containing colours that should be used by all samples.
+
+I added new samples to explain behaviour and modified all samples to have consistent styling. In updating the samples,
+I removed the use of jQuery and instead use standard methods.
+
+For the custom tooltip samples, I updated the styling to show color boxes like the regular tooltips.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ae268e94236b921d6cc966c580cd4984d5f4f94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5ae268e94236b921d6cc966c580cd4984d5f4f94"/>
+    <title>
+        Add a way to filter items in the tooltip
+    </title>
+    <updated>2016-10-23T21:33:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a way to filter items in the tooltip&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3bd4d283f758ccac1e3dd378d9157faef4a133bd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3bd4d283f758ccac1e3dd378d9157faef4a133bd"/>
+    <title>
+        Custom tooltip: add data points infos (#3201)
+    </title>
+    <updated>2016-10-19T13:48:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/164294?s=30&amp;v=4"/>
+    <author>
+      <name>bydooweedoo</name>
+      <uri>https://github.com/bydooweedoo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Custom tooltip: add data points infos (#3201)
+
+Expose tooltip items from tooltip model and added `x` and `y` properties to `TooltipItemInterface`&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a0388eff4cc38d69872190675bb17d49af841a93</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a0388eff4cc38d69872190675bb17d49af841a93"/>
+    <title>
+        Add new properties for the caretX,caretY point of a tooltip. Useful f…
+    </title>
+    <updated>2016-10-19T11:30:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add new properties for the caretX,caretY point of a tooltip. Useful for custom tooltips.
+The custom tooltip sample was updated as well to use the new properties.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a0ce74643f3d6f7ad6f2f4a8ac4343d6526b91a8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a0ce74643f3d6f7ad6f2f4a8ac4343d6526b91a8"/>
+    <title>
+        Fix eslint errors in layout service test
+    </title>
+    <updated>2016-10-18T22:00:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix eslint errors in layout service test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/596ff3718c59138b54f8f76f3792e5565fa18e0f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/596ff3718c59138b54f8f76f3792e5565fa18e0f"/>
+    <title>
+        Layout service now supports configurable padding on left, top, right …
+    </title>
+    <updated>2016-10-17T21:59:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Layout service now supports configurable padding on left, top, right and bottom.
+Re-enabled the layout service tests and then properly disabled the tests that
+fail on the CI.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16f23b2c44ebeccda1e144b3dd75e9c63f81307b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/16f23b2c44ebeccda1e144b3dd75e9c63f81307b"/>
+    <title>
+        Add reset method to chart prototype
+    </title>
+    <updated>2016-10-17T11:40:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add reset method to chart prototype&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/766ca49cd094562f3a2e870e0c2b162ee16c8189</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/766ca49cd094562f3a2e870e0c2b162ee16c8189"/>
+    <title>
+        Extend eslint to test files (#3473)
+    </title>
+    <updated>2016-10-16T21:34:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Extend eslint to test files (#3473)
+
+* Add eslint to test files
+
+* Fix mockContext for tests
+
+* Make formatting look better for nested objects&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4a5b5a0e7eba85ca44f658375cb0c78e6af93e5c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4a5b5a0e7eba85ca44f658375cb0c78e6af93e5c"/>
+    <title>
+        Enhance context acquisition on chart creation
+    </title>
+    <updated>2016-10-16T13:25:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enhance context acquisition on chart creation
+
+Add support for creating a chart from the canvas id and prevent exceptions, at construction time, when the given item doesn&amp;#39;t provide a valid CanvasRenderingContext2D or when the getContext API is not accessible (e.g. undefined by add-ons to prevent fingerprinting). New jasmine matcher to verify chart validity.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6ec6a929f06c01c053d75378030724749f50bcc9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6ec6a929f06c01c053d75378030724749f50bcc9"/>
+    <title>
+        Make index mode only work with the horizontal distance to an element …
+    </title>
+    <updated>2016-10-15T21:49:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make index mode only work with the horizontal distance to an element  (#3471)
+
+Make index mode only work with the horizontal distance to an element if intersect is off&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a86c47cf480e8d86ea03a121e9b6552a17aae41d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a86c47cf480e8d86ea03a121e9b6552a17aae41d"/>
+    <title>
+        Configurable Tooltip Position Modes (#3453)
+    </title>
+    <updated>2016-10-14T21:36:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Configurable Tooltip Position Modes (#3453)
+
+Adds new tooltip position option that allows configuring where a tooltip is displayed on the graph in relation to the elements that appear in it&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3365ba6d29e579e99db61dd65390e39536a0800d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3365ba6d29e579e99db61dd65390e39536a0800d"/>
+    <title>
+        Bar chart performance improvements
+    </title>
+    <updated>2016-10-14T11:20:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bar chart performance improvements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f8e90b1c2ddfcbf3df378c0bcf81f50bcc714558</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f8e90b1c2ddfcbf3df378c0bcf81f50bcc714558"/>
+    <title>
+        New fill modes for lines (#3460)
+    </title>
+    <updated>2016-10-14T11:19:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New fill modes for lines (#3460)
+
+New fill modes for lines allowing the user to customize where the fill goes to&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f481746fe1e56a1b0b88eae150863471d3550478</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f481746fe1e56a1b0b88eae150863471d3550478"/>
+    <title>
+        Update the GitHub issue template
+    </title>
+    <updated>2016-10-11T11:42:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update the GitHub issue template&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

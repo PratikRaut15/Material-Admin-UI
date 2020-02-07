@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.0-beta</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.0-beta"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.0-beta.atom"/>
+  <title>Recent Commits to Chart.js:2.0.0-beta</title>
+  <updated>2015-10-24T23:17:13Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e8165348dbe7f426f49e1260ee76265b5674edcc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e8165348dbe7f426f49e1260ee76265b5674edcc"/>
+    <title>
+        Updated Readme, and versions for beta release
+    </title>
+    <updated>2015-10-24T23:17:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated Readme, and versions for beta release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a4d11bd1a699483dcfe5bd6eb7a206a698a319b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a4d11bd1a699483dcfe5bd6eb7a206a698a319b6"/>
+    <title>
+        Built Distributables
+    </title>
+    <updated>2015-10-24T22:47:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Built Distributables&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/559ee6291e85889c210e1541402b102903924d0d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/559ee6291e85889c210e1541402b102903924d0d"/>
+    <title>
+        Merge pull request #1567 from nnnick/fix/rounding
+    </title>
+    <updated>2015-10-24T07:40:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1567 from nnnick/fix/rounding
+
+Better linear scale tick formatter + small tick generation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6dc651a79f1f283cff4e87cacffc86997c8b74ae</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6dc651a79f1f283cff4e87cacffc86997c8b74ae"/>
+    <title>
+        Merge pull request #1566 from nnnick/v2.0-dev-skip-null-fixes
+    </title>
+    <updated>2015-10-24T07:35:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1566 from nnnick/v2.0-dev-skip-null-fixes
+
+V2.0 dev skip null fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4d009d116dfd405e183fc44658909e013dfa88fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4d009d116dfd405e183fc44658909e013dfa88fc"/>
+    <title>
+        Use the new travis CI docker framework (hopefully)
+    </title>
+    <updated>2015-10-24T07:31:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use the new travis CI docker framework (hopefully)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6adf39e2334a07212d4ec364181cf486d0b6440f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6adf39e2334a07212d4ec364181cf486d0b6440f"/>
+    <title>
+        radialLinear scale tests now expect rounded values
+    </title>
+    <updated>2015-10-24T07:25:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;radialLinear scale tests now expect rounded values
+
+The rounding problems compounded in a few areas (like the
+distanceFromCenter function and drawingArea property).  Those are now
+more accurate.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e7b71aa9098803692d759f6acc3a60d1c71d3ab7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e7b71aa9098803692d759f6acc3a60d1c71d3ab7"/>
+    <title>
+        Line element and controller tests now coincide with the latest skipNu…
+    </title>
+    <updated>2015-10-24T07:23:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Line element and controller tests now coincide with the latest skipNull refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2cd4b131353172a539036826fb6f26a3e7d24872</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2cd4b131353172a539036826fb6f26a3e7d24872"/>
+    <title>
+        radialLInear getPointPosition now rounds crazy decimals
+    </title>
+    <updated>2015-10-24T07:23:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;radialLInear getPointPosition now rounds crazy decimals
+
+This particular part of testing was succeeding in chrome, and failing
+in firefox.  It should be rounded anyway.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1c40d50097209468ce1c197f1959ff852ee107f0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1c40d50097209468ce1c197f1959ff852ee107f0"/>
+    <title>
+        recursive and accurate getRightValue
+    </title>
+    <updated>2015-10-24T07:22:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;recursive and accurate getRightValue&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f22c0f33229ae1af8ee12c7118bb92d804b53896</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f22c0f33229ae1af8ee12c7118bb92d804b53896"/>
+    <title>
+        Fix tests affected by changes to default label formatter
+    </title>
+    <updated>2015-10-24T02:11:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix tests affected by changes to default label formatter&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c3d9ec5ddec2e72ff04f4fb1bbea8f1e20e48d9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0c3d9ec5ddec2e72ff04f4fb1bbea8f1e20e48d9"/>
+    <title>
+        Improved number format function. Also improved the generation of smal…
+    </title>
+    <updated>2015-10-24T02:00:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improved number format function. Also improved the generation of small tick values&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea571003d9e18844d96c3900cef37b636ccc60bf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ea571003d9e18844d96c3900cef37b636ccc60bf"/>
+    <title>
+        Scale min/max calculations now disregard bad values
+    </title>
+    <updated>2015-10-23T22:41:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Scale min/max calculations now disregard bad values&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e50d2f7fc38935b0c6c32db534487e03a0eac6b4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e50d2f7fc38935b0c6c32db534487e03a0eac6b4"/>
+    <title>
+        Point Skipping now draws properly and is easier to understand
+    </title>
+    <updated>2015-10-23T22:37:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Point Skipping now draws properly and is easier to understand&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7b13e902fff33a98c04b33cd2e5708bb96fd24f4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7b13e902fff33a98c04b33cd2e5708bb96fd24f4"/>
+    <title>
+        Bad values for data are now converted to NaN
+    </title>
+    <updated>2015-10-23T22:36:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bad values for data are now converted to NaN&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9d540cebb6751b63b628778a87ae86552a1ff8c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9d540cebb6751b63b628778a87ae86552a1ff8c8"/>
+    <title>
+        SplineCurve function now graciously handles skipped points
+    </title>
+    <updated>2015-10-23T22:36:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;SplineCurve function now graciously handles skipped points&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/afc40e7dbced09a07e013bc442a92baee9309354</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/afc40e7dbced09a07e013bc442a92baee9309354"/>
+    <title>
+        Radar controller now skips non-numerical coordinates
+    </title>
+    <updated>2015-10-23T22:36:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Radar controller now skips non-numerical coordinates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ae0d9b0c6853155aefe08132dc31cbd843816328</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ae0d9b0c6853155aefe08132dc31cbd843816328"/>
+    <title>
+        Line controller now skips non-numerical coordinates
+    </title>
+    <updated>2015-10-23T22:35:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Line controller now skips non-numerical coordinates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8081e9c80121680a85daf233d173e714c5cf341d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8081e9c80121680a85daf233d173e714c5cf341d"/>
+    <title>
+        Bubble controller now skips on non-numerical coordinates
+    </title>
+    <updated>2015-10-23T22:34:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bubble controller now skips on non-numerical coordinates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3a20d1187ef6004abe8480df02f8b4e735396a24</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3a20d1187ef6004abe8480df02f8b4e735396a24"/>
+    <title>
+        Merge pull request #1542 from nnnick/v2.0-dev-tooltip-refactor
+    </title>
+    <updated>2015-10-23T19:02:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1542 from nnnick/v2.0-dev-tooltip-refactor
+
+V2.0 dev tooltip refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/60f24267747e44fad6efa6c0e908ba4ecf4add30</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/60f24267747e44fad6efa6c0e908ba4ecf4add30"/>
+    <title>
+        Only use active datasets in the tooltip body
+    </title>
+    <updated>2015-10-23T18:41:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Only use active datasets in the tooltip body&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

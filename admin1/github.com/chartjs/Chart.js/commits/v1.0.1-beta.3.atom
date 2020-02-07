@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v1.0.1-beta.3</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.3"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.3.atom"/>
+  <title>Recent Commits to Chart.js:v1.0.1-beta.3</title>
+  <updated>2014-07-27T22:03:32Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5bd10297fba1fd442d07f217e3506827c7fbfe92</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5bd10297fba1fd442d07f217e3506827c7fbfe92"/>
+    <title>
+        Update built output
+    </title>
+    <updated>2014-07-27T22:03:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update built output&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/55a115179e4717f10f25301a1b86fbc6cfd21de2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/55a115179e4717f10f25301a1b86fbc6cfd21de2"/>
+    <title>
+        Fix reference error when tagging a release
+    </title>
+    <updated>2014-07-27T22:02:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix reference error when tagging a release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/92e73bd28a0a289296aa4b8cdabe36c5377223de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/92e73bd28a0a289296aa4b8cdabe36c5377223de"/>
+    <title>
+        Merge pull request #490 from nnnick/feature/version-bump
+    </title>
+    <updated>2014-07-27T21:59:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #490 from nnnick/feature/version-bump
+
+Create a task to bump + write version numbers&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ebc955f562fb8120dbe2c23e863c1102f1c5261a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ebc955f562fb8120dbe2c23e863c1102f1c5261a"/>
+    <title>
+        Merge pull request #431 from Mardaneus86/patch-1
+    </title>
+    <updated>2014-07-27T21:58:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #431 from Mardaneus86/patch-1
+
+Missing draw method in Writing new chart types&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5683c11ebd0645466f10dc454e67745fa52aeacf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5683c11ebd0645466f10dc454e67745fa52aeacf"/>
+    <title>
+        Merge pull request #438 from Miosss/templateEnchanceme
+    </title>
+    <updated>2014-07-27T21:58:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #438 from Miosss/templateEnchanceme
+
+Alternative scale templating. Passing function as template.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/61467e107f21a73dcea85236e41fc2077181d685</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/61467e107f21a73dcea85236e41fc2077181d685"/>
+    <title>
+        Merge pull request #443 from andyburke/aspectratios
+    </title>
+    <updated>2014-07-27T21:57:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #443 from andyburke/aspectratios
+
+Allow for responsive chart to take up its entire container.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/adf6f3abb2ee4f7a3bb770cfefcd804e38b90af7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/adf6f3abb2ee4f7a3bb770cfefcd804e38b90af7"/>
+    <title>
+        Create a task to bump + write version numbers
+    </title>
+    <updated>2014-07-27T20:41:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create a task to bump + write version numbers
+
+Also run `gulp release` to tag the latest release.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/22c50b0aba3f6cea0e28c0a7890c0d8b052742f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/22c50b0aba3f6cea0e28c0a7890c0d8b052742f2"/>
+    <title>
+        Merge pull request #460 from ooflorent/fix/npm-package
+    </title>
+    <updated>2014-07-17T09:02:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #460 from ooflorent/fix/npm-package
+
+Add main in package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/edb245b649049671fe4983161dbc55d694c23c89</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/edb245b649049671fe4983161dbc55d694c23c89"/>
+    <title>
+        Add main file
+    </title>
+    <updated>2014-07-17T07:42:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/168498?s=30&amp;v=4"/>
+    <author>
+      <name>ooflorent</name>
+      <uri>https://github.com/ooflorent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add main file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16cf465575325bf21a94d2a345d8bf4d9d097f11</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/16cf465575325bf21a94d2a345d8bf4d9d097f11"/>
+    <title>
+        Add a small amount to docs.
+    </title>
+    <updated>2014-07-11T00:47:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/273857?s=30&amp;v=4"/>
+    <author>
+      <name>andyburke</name>
+      <uri>https://github.com/andyburke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a small amount to docs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/997a216b5008e33c9a9e01b5b5ac89c6536b9883</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/997a216b5008e33c9a9e01b5b5ac89c6536b9883"/>
+    <title>
+        Allow for responsive charts to take up entire container by setting re…
+    </title>
+    <updated>2014-07-11T00:45:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/273857?s=30&amp;v=4"/>
+    <author>
+      <name>andyburke</name>
+      <uri>https://github.com/andyburke</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow for responsive charts to take up entire container by setting responsive: true and maintainAspectRatio: false.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d193951dc5871aac230f3f778ec3c5c0cf1d47af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d193951dc5871aac230f3f778ec3c5c0cf1d47af"/>
+    <title>
+        Alternative templating, cleanup.
+    </title>
+    <updated>2014-07-10T11:13:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/8083959?s=30&amp;v=4"/>
+    <author>
+      <name>Miosss</name>
+      <uri>https://github.com/Miosss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Alternative templating, cleanup.
+
+Just added brackets.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c37c58ad39d8d1991065d0b7db561ab116afdd27</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c37c58ad39d8d1991065d0b7db561ab116afdd27"/>
+    <title>
+        Alternative scale templating. Passing function as template.
+    </title>
+    <updated>2014-07-09T12:57:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/8083959?s=30&amp;v=4"/>
+    <author>
+      <name>Miosss</name>
+      <uri>https://github.com/Miosss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Alternative scale templating. Passing function as template.
+
+Allows to choose template mechanism - processing function or original micro templating.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/55fc0cfd49749c6dded5964bb7356325021f25bc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/55fc0cfd49749c6dded5964bb7356325021f25bc"/>
+    <title>
+        Change package.json name to lowercase
+    </title>
+    <updated>2014-07-08T20:45:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change package.json name to lowercase&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cdfdc3c3e28919f55f353d0af61a63ef3b7b984d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cdfdc3c3e28919f55f353d0af61a63ef3b7b984d"/>
+    <title>
+        Missing draw method in Writing new chart types
+    </title>
+    <updated>2014-07-08T11:15:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7780108?s=30&amp;v=4"/>
+    <author>
+      <name>Mardaneus86</name>
+      <uri>https://github.com/Mardaneus86</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Missing draw method in Writing new chart types
+
+Added the draw method to &amp;quot;Writing new chart types&amp;quot;. If you use the template without the draw method, you get an undefined error because Chart.Type.prototype.render calls this.draw() on line 808 in Chart.Core.js.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef5081184fb54b2b25365640eb3290e89b316fc4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ef5081184fb54b2b25365640eb3290e89b316fc4"/>
+    <title>
+        Community chart types / extensions list
+    </title>
+    <updated>2014-07-06T21:59:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Community chart types / extensions list&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/02e535cdad4e7ae64f0ea9c89fbb98777496c14b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/02e535cdad4e7ae64f0ea9c89fbb98777496c14b"/>
+    <title>
+        Update bower &amp; package.json with version bump
+    </title>
+    <updated>2014-07-02T20:51:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update bower &amp;amp; package.json with version bump
+
+Forget this literally every time…&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3e1b120cbeff4caa90ff15880a9e0075e70b50f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3e1b120cbeff4caa90ff15880a9e0075e70b50f2"/>
+    <title>
+        Build latest output files for new version
+    </title>
+    <updated>2014-07-02T20:42:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build latest output files for new version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/95844701bd235a42dd99180a6543e0166f5d8d70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/95844701bd235a42dd99180a6543e0166f5d8d70"/>
+    <title>
+        Mention not committing built files in README.md
+    </title>
+    <updated>2014-07-02T20:39:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Mention not committing built files in README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/403b6751ab399683db269b6b1e73c7b3e2f79cdc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/403b6751ab399683db269b6b1e73c7b3e2f79cdc"/>
+    <title>
+        Change case of README file
+    </title>
+    <updated>2014-07-02T20:38:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change case of README file&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

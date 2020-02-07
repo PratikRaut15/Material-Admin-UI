@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0.2.8</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0.2.8"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0.2.8.atom"/>
+  <title>Recent Commits to morris.js:0.2.8</title>
+  <updated>2012-05-10T06:41:53Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d3d793919ba6c48297e3921aac0542cbc1edc195</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d3d793919ba6c48297e3921aac0542cbc1edc195"/>
+    <title>
+        Bump changelog for 0.2.8.
+    </title>
+    <updated>2012-05-10T06:41:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump changelog for 0.2.8.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f13e9e838f7089b78665ccff6b085039e9bf595e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f13e9e838f7089b78665ccff6b085039e9bf595e"/>
+    <title>
+        Better support for non-continous data (see #53).
+    </title>
+    <updated>2012-05-10T06:35:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better support for non-continous data (see #53).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa8f8c60e571cf140688568a106da8860085e8d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/fa8f8c60e571cf140688568a106da8860085e8d7"/>
+    <title>
+        A small refactor.
+    </title>
+    <updated>2012-04-05T19:04:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;A small refactor.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0079d307f3a724fdbb2cd559e41b1d9815965930</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0079d307f3a724fdbb2cd559e41b1d9815965930"/>
+    <title>
+        Added &#39;preunits&#39; options and renamed &#39;units&#39; to &#39;postunits&#39;. &#39;units&#39; …
+    </title>
+    <updated>2012-04-05T17:54:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/196831?s=30&amp;v=4"/>
+    <author>
+      <name>jonthornton</name>
+      <uri>https://github.com/jonthornton</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added &amp;#39;preunits&amp;#39; options and renamed &amp;#39;units&amp;#39; to &amp;#39;postunits&amp;#39;. &amp;#39;units&amp;#39; option will be fill &amp;#39;postunits&amp;#39; automatically to preserve backwards compatibility.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5e4191060cdd0cf3db6b0b3841bd29b8e87252fb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5e4191060cdd0cf3db6b0b3841bd29b8e87252fb"/>
+    <title>
+        Fix old IE bugs (mostly in examples rather than library code!)
+    </title>
+    <updated>2012-04-04T21:07:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix old IE bugs (mostly in examples rather than library code!)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e6e666469da8a9faac339887d05d33e1f6aa1f70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e6e666469da8a9faac339887d05d33e1f6aa1f70"/>
+    <title>
+        Only use timezones when timezone info is specified.
+    </title>
+    <updated>2012-04-04T20:39:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Only use timezones when timezone info is specified.
+
+(ie. when neither zulu time or an offset is included, use local time).
+
+Add tests.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/870e0a649a559a82661ea50848a4687a95ac4837</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/870e0a649a559a82661ea50848a4687a95ac4837"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/littlebtc/morris.js into …
+    </title>
+    <updated>2012-04-04T20:02:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/littlebtc/morris.js into timezones
+
+Conflicts:
+	morris.coffee
+	morris.js
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/564126fbfa6408a46402bd6190442b2754ceac9c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/564126fbfa6408a46402bd6190442b2754ceac9c"/>
+    <title>
+        Merge xLabelFormat contributions by @jonthornton.
+    </title>
+    <updated>2012-04-04T19:32:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge xLabelFormat contributions by @jonthornton.
+
+Rename `xLabelsFormat` -&amp;gt; `xLabelFormat` (grammatically better :))
+
+Add note to example to recommend use of `xLabels` option when using
+`xLabelFormat`.
+
+Use $.extends rather than setting spec.fmt directly (avoids modifying
+the globals).
+
+Add a test.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/57211d6db28698f38f0ae03bf00202f5afaba9e8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/57211d6db28698f38f0ae03bf00202f5afaba9e8"/>
+    <title>
+        Added option to customize x-labels.
+    </title>
+    <updated>2012-04-03T15:31:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/196831?s=30&amp;v=4"/>
+    <author>
+      <name>jonthornton</name>
+      <uri>https://github.com/jonthornton</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added option to customize x-labels.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b6be4104ceb315e8b16d95e4f566594ad935585</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4b6be4104ceb315e8b16d95e4f566594ad935585"/>
+    <title>
+        README.md
+    </title>
+    <updated>2012-04-02T20:30:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e11c28187cf45d81d587d1c01ee1b6bab4760648</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e11c28187cf45d81d587d1c01ee1b6bab4760648"/>
+    <title>
+        Add years example.
+    </title>
+    <updated>2012-04-02T20:28:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add years example.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e670a6dbee89da5bf29ce7302f2b5cb6840843e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e670a6dbee89da5bf29ce7302f2b5cb6840843e2"/>
+    <title>
+        Add `xLabels` option to specify x-label intervals.
+    </title>
+    <updated>2012-04-02T20:27:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add `xLabels` option to specify x-label intervals.
+
+Clean up whitespace (hooray for Whitespace.tmbundle!).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d901e04fa47fce5b0a7de3091a0fbfde72c627d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2d901e04fa47fce5b0a7de3091a0fbfde72c627d"/>
+    <title>
+        Add build status icon.
+    </title>
+    <updated>2012-04-02T13:57:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add build status icon.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/40e2c60b2b1d0ef3a901ae2383e8e9b907335a04</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/40e2c60b2b1d0ef3a901ae2383e8e9b907335a04"/>
+    <title>
+        try an absolute path
+    </title>
+    <updated>2012-04-02T13:52:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;try an absolute path&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0e1b9f6f18e0c23c8605886ff2128778bdbcab71</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0e1b9f6f18e0c23c8605886ff2128778bdbcab71"/>
+    <title>
+        revert to 1.4.1 qunit runner.
+    </title>
+    <updated>2012-04-02T13:47:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;revert to 1.4.1 qunit runner.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/02ef26ec6b2bfad98dd5b2c0b2cd8f93f26f929b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/02ef26ec6b2bfad98dd5b2c0b2cd8f93f26f929b"/>
+    <title>
+        Language key
+    </title>
+    <updated>2012-04-02T13:42:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Language key&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1a84e1aadcf1afd080bb61abaa900a4828cb8b71</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1a84e1aadcf1afd080bb61abaa900a4828cb8b71"/>
+    <title>
+        Let&#39;s try travis.
+    </title>
+    <updated>2012-04-02T13:31:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Let&amp;#39;s try travis.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f761a8e483540faa9f0c0e01adae76ae890d98fb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f761a8e483540faa9f0c0e01adae76ae890d98fb"/>
+    <title>
+        Update README.
+    </title>
+    <updated>2012-04-01T21:29:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc4ff279a5dba3056868ea90d244c5ef3f528714</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/fc4ff279a5dba3056868ea90d244c5ef3f528714"/>
+    <title>
+        Refactor x-axis labelling.
+    </title>
+    <updated>2012-04-01T21:29:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor x-axis labelling.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/970a813a5ab0089969d2645204d850d5370910b9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/970a813a5ab0089969d2645204d850d5370910b9"/>
+    <title>
+        Support ISO 8601 with time zone offsets
+    </title>
+    <updated>2012-03-31T17:19:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/82419?s=30&amp;v=4"/>
+    <author>
+      <name>littlebtc</name>
+      <uri>https://github.com/littlebtc</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Support ISO 8601 with time zone offsets&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

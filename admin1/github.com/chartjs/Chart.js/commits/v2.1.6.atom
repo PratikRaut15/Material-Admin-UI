@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.1.6</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.1.6"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.1.6.atom"/>
+  <title>Recent Commits to Chart.js:v2.1.6</title>
+  <updated>2016-06-14T23:32:24Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/07662b158d829f395b2c97d732e60599b8b5c4e4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/07662b158d829f395b2c97d732e60599b8b5c4e4"/>
+    <title>
+        V2.1.6 with tooltip array fix
+    </title>
+    <updated>2016-06-14T23:32:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;V2.1.6 with tooltip array fix&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0720608e64f52b3856e98e67f8f5cb6e1b267e87</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0720608e64f52b3856e98e67f8f5cb6e1b267e87"/>
+    <title>
+        Merge pull request #2776 from chartjs/fix/2775
+    </title>
+    <updated>2016-06-14T23:31:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2776 from chartjs/fix/2775
+
+fix tooltip with array returns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f106e1bf2db1aa604edb62b8e3b309329c41dd94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f106e1bf2db1aa604edb62b8e3b309329c41dd94"/>
+    <title>
+        fix tooltip with array returns
+    </title>
+    <updated>2016-06-14T23:19:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix tooltip with array returns&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/44e40045897880f0cc837a8f41eccc1dea6b2ce6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/44e40045897880f0cc837a8f41eccc1dea6b2ce6"/>
+    <title>
+        Merge pull request #2760 from chartjs/2.1.5_release
+    </title>
+    <updated>2016-06-12T17:21:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2760 from chartjs/2.1.5_release
+
+Bump version to 2.1.5 and build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3d03e3640896a78e48e177cb0ba78c3ac4c42359</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3d03e3640896a78e48e177cb0ba78c3ac4c42359"/>
+    <title>
+        Bump version to 2.1.5 and build
+    </title>
+    <updated>2016-06-12T17:14:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.1.5 and build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16a6555bc21b728fe85a637e631184ea9ebeedfc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/16a6555bc21b728fe85a637e631184ea9ebeedfc"/>
+    <title>
+        Merge pull request #2758 from chartjs/fix/zoom-curved-lines
+    </title>
+    <updated>2016-06-12T16:18:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2758 from chartjs/fix/zoom-curved-lines
+
+Do not cap bezier control point locations&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f3d4ee933395d8cc34867e6e276970382feb5840</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f3d4ee933395d8cc34867e6e276970382feb5840"/>
+    <title>
+        Capping these to the chart bounds causes lines to bend during pan and…
+    </title>
+    <updated>2016-06-12T13:19:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Capping these to the chart bounds causes lines to bend during pan and zoom&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5de72a1cdf16302f46fb9aed04257c13b60c6571</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5de72a1cdf16302f46fb9aed04257c13b60c6571"/>
+    <title>
+        Merge pull request #2755 from chartjs/fix/2751
+    </title>
+    <updated>2016-06-11T14:45:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2755 from chartjs/fix/2751
+
+Fix pointLabel docs typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7be69ce7e317f4dbe52cc0e2d9bd8e76cd1160c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7be69ce7e317f4dbe52cc0e2d9bd8e76cd1160c1"/>
+    <title>
+        Fix pointLabel docs typo
+    </title>
+    <updated>2016-06-11T13:24:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix pointLabel docs typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/647dc582cd85fc8e25d49cf0e38d459c582b2652</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/647dc582cd85fc8e25d49cf0e38d459c582b2652"/>
+    <title>
+        Merge pull request #2752 from simonbrunel/plugins-arch
+    </title>
+    <updated>2016-06-11T12:42:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2752 from simonbrunel/plugins-arch
+
+Plugins Enhancement&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/53eb7667dd25f53fbf0d65e28370b32d90ab9448</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/53eb7667dd25f53fbf0d65e28370b32d90ab9448"/>
+    <title>
+        New datasets update plugin extensions
+    </title>
+    <updated>2016-06-10T22:17:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New datasets update plugin extensions
+
+Add `beforeDatasetsUpdate` and `afterDatasetsUpdate` plugin notifications during the chart update. Plugins are able to cancel the datasets update by explicitly returning false to `beforeDatasetsUpdate`. For consistency, rename `(before|after)DatasetDraw` to `(before|after)DatasetsDraw`.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dfdbd4465c6d35760aca60e7ff9bc58b62ac7cb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/dfdbd4465c6d35760aca60e7ff9bc58b62ac7cb9"/>
+    <title>
+        Allow to register/unregister an array of plugins
+    </title>
+    <updated>2016-06-10T22:17:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow to register/unregister an array of plugins
+
+The plugins service now accepts an array of plugin instances to register or unregister (for consistency, renamed `Chart.plugins.remove` to `unregister`). Also added a few methods to manipulate registered plugins, such as `count`, `getAll` and `clear` (mainly used by our unit tests).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a55c17d73fa7bfa9e2780fce3ea9a7770a11d8d3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a55c17d73fa7bfa9e2780fce3ea9a7770a11d8d3"/>
+    <title>
+        Enhance plugin notification system
+    </title>
+    <updated>2016-06-10T20:26:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enhance plugin notification system
+
+Change the plugin notification behavior: this method now returns false as soon as a plugin *explicitly* returns false, else returns true. Also, plugins are now called in their own scope (so remove the never used `scope` parameter).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a419af4c2a9a4190fbe2ef550e20d38505cd648</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7a419af4c2a9a4190fbe2ef550e20d38505cd648"/>
+    <title>
+        Rename plugin service and notification method
+    </title>
+    <updated>2016-06-10T20:26:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rename plugin service and notification method
+
+Rename `Chart.pluginService` to `Chart.plugins` (so move the old Chart.plugins array as a private member of the service), and rename `notifyPlugins` to `notify` for consistency with other service methods.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d901687c2d5bb011505c599bfb03aec3a810993f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d901687c2d5bb011505c599bfb03aec3a810993f"/>
+    <title>
+        Remove link that doesn&#39;t exist anymore in scale docs
+    </title>
+    <updated>2016-06-10T15:00:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove link that doesn&amp;#39;t exist anymore in scale docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e7834442ac4447143919a4daac9738795d21df83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e7834442ac4447143919a4daac9738795d21df83"/>
+    <title>
+        Merge pull request #2739 from msimulcik/master
+    </title>
+    <updated>2016-06-09T22:36:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2739 from msimulcik/master
+
+Fix of radial linear scale font family settings bug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b1c50ed0c22c39b2db98c8eed291c2785f8aef44</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b1c50ed0c22c39b2db98c8eed291c2785f8aef44"/>
+    <title>
+        Merge pull request #2732 from chartjs/scale-colors-per-line
+    </title>
+    <updated>2016-06-09T22:35:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2732 from chartjs/scale-colors-per-line
+
+Scale colors per line&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3aeddf52398924a8054cd9cb8071d578962858b3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3aeddf52398924a8054cd9cb8071d578962858b3"/>
+    <title>
+        Merge pull request #2723 from chartjs/vertical-legend
+    </title>
+    <updated>2016-06-09T22:35:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2723 from chartjs/vertical-legend
+
+Vertical legend&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2e29f4981dd0ce2e64d1dc6a324359d21d8d8b82</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2e29f4981dd0ce2e64d1dc6a324359d21d8d8b82"/>
+    <title>
+        Revert &quot;Fixed radial linear scale font family settings bug&quot;
+    </title>
+    <updated>2016-06-09T07:37:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/ef62be6a182dd20bfff49a2968a3034d?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>miroslav.simulcik@in-solut.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revert &amp;quot;Fixed radial linear scale font family settings bug&amp;quot;
+
+This reverts commit 6e3c6c05ad41c08fecffcfa468482036119c5267.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d94e3e4274cb6d8944c4f1279bfa72efd8fb1b0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8d94e3e4274cb6d8944c4f1279bfa72efd8fb1b0"/>
+    <title>
+        Merge pull request #2712 from simonbrunel/helpers-cleanup
+    </title>
+    <updated>2016-06-09T00:08:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2712 from simonbrunel/helpers-cleanup
+
+Rewrite a few helpers to be more efficient&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

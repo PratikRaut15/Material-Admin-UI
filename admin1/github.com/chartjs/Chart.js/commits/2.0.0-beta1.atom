@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.0-beta1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.0-beta1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.0-beta1.atom"/>
+  <title>Recent Commits to Chart.js:2.0.0-beta1</title>
+  <updated>2015-12-01T02:35:09Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c074d3b7d4a1053935a33685d3fca2b32b09e2d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c074d3b7d4a1053935a33685d3fca2b32b09e2d2"/>
+    <title>
+        Update built files
+    </title>
+    <updated>2015-12-01T02:35:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update built files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6cce9585481fc20c85c37ef633b80a658bd8393e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6cce9585481fc20c85c37ef633b80a658bd8393e"/>
+    <title>
+        Merge pull request #1720 from nnnick/fix/1718
+    </title>
+    <updated>2015-12-01T01:50:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1720 from nnnick/fix/1718
+
+Allow the user to change the time label display formats&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ccb1c68b65844dad698e195f0ef4d7cd134bef8e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ccb1c68b65844dad698e195f0ef4d7cd134bef8e"/>
+    <title>
+        Update docs
+    </title>
+    <updated>2015-12-01T01:47:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f609452727c58a595e6f0811ff0a7de11f722c93</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f609452727c58a595e6f0811ff0a7de11f722c93"/>
+    <title>
+        Allow the user to change the time label display formats
+    </title>
+    <updated>2015-12-01T01:42:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow the user to change the time label display formats&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b2150b93a2ff1f486712de84e6473ac3cef283ca</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b2150b93a2ff1f486712de84e6473ac3cef283ca"/>
+    <title>
+        New built files + some sample file updates
+    </title>
+    <updated>2015-11-29T18:33:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;New built files + some sample file updates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b9fa20714f402f1d54d79192775441b9894b4317</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b9fa20714f402f1d54d79192775441b9894b4317"/>
+    <title>
+        Merge pull request #1713 from nnnick/v2.0-beta1-docs
+    </title>
+    <updated>2015-11-29T18:13:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1713 from nnnick/v2.0-beta1-docs
+
+Initial docs to get ready for beta1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5ee242dc60fae2b6a52f903e71c3b3a89e44862</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e5ee242dc60fae2b6a52f903e71c3b3a89e44862"/>
+    <title>
+        Merge branch &#39;v2.0-dev&#39; into v2.0-beta1-docs
+    </title>
+    <updated>2015-11-29T16:32:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;v2.0-dev&amp;#39; into v2.0-beta1-docs
+
+Conflicts:
+	docs/01-Scales.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9dbc5650ed437350eeb97eb7264f32fe165f1772</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9dbc5650ed437350eeb97eb7264f32fe165f1772"/>
+    <title>
+        Initial update to line and bar docs
+    </title>
+    <updated>2015-11-29T16:30:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Initial update to line and bar docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0052ceb7a1bbdade944d66da5ff10c04f3b82066</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0052ceb7a1bbdade944d66da5ff10c04f3b82066"/>
+    <title>
+        Initial update to scale documentation
+    </title>
+    <updated>2015-11-29T15:58:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Initial update to scale documentation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e91e6be851705eb97bf18bdf495a4f62705b535b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e91e6be851705eb97bf18bdf495a4f62705b535b"/>
+    <title>
+        Merge pull request #1696 from nnnick/fix/1688
+    </title>
+    <updated>2015-11-29T15:16:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1696 from nnnick/fix/1688
+
+When tooltip opacity is less than 1e-3, round to 0.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/349586e14c36ecc7c56f01e991140bf04c5aa085</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/349586e14c36ecc7c56f01e991140bf04c5aa085"/>
+    <title>
+        Merge pull request #1695 from nnnick/fix/consistent-display-parameters
+    </title>
+    <updated>2015-11-29T15:16:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1695 from nnnick/fix/consistent-display-parameters
+
+Fix inconsistent display parameters&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4b30a7b0e213381b9ef1dcf63b4ff51e1799b02</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c4b30a7b0e213381b9ef1dcf63b4ff51e1799b02"/>
+    <title>
+        Update getting started docs
+    </title>
+    <updated>2015-11-29T15:04:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update getting started docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f0555af8ccd774c5cc70689c9dbd09dfcdb11383</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f0555af8ccd774c5cc70689c9dbd09dfcdb11383"/>
+    <title>
+        Another build
+    </title>
+    <updated>2015-11-27T22:37:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Another build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5244b7dbaee664525e26cbde0bc9d4cbb546a4c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e5244b7dbaee664525e26cbde0bc9d4cbb546a4c"/>
+    <title>
+        Merge branch &#39;v2.0-dev&#39; of https://github.com/nnnick/Chart.js into v2…
+    </title>
+    <updated>2015-11-27T22:37:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;v2.0-dev&amp;#39; of https://github.com/nnnick/Chart.js into v2.0-dev&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf2ca8bd0b0bb92b888c7208313ded894a32db5b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bf2ca8bd0b0bb92b888c7208313ded894a32db5b"/>
+    <title>
+        Push up new built files
+    </title>
+    <updated>2015-11-27T22:35:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Push up new built files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f4bcef13f5d10889b56ff029ba2de54f98ea448f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f4bcef13f5d10889b56ff029ba2de54f98ea448f"/>
+    <title>
+        Merge pull request #1704 from Marius2805/v2.0-dev
+    </title>
+    <updated>2015-11-27T12:25:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1704 from Marius2805/v2.0-dev
+
+V2.0 Docs: Fixed wrong example data structure for Pie/Doughnut Chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/efdc23c56783b975a7bf9cbee017fd264357962e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/efdc23c56783b975a7bf9cbee017fd264357962e"/>
+    <title>
+        Merge pull request #1703 from wuchangming/v2.0-dev
+    </title>
+    <updated>2015-11-27T12:24:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1703 from wuchangming/v2.0-dev
+
+V2.0 dev 	Bug in handler event.type=&amp;#39;touchend&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e84d27dde7862713ceb1cdd42139f37775c0bcef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e84d27dde7862713ceb1cdd42139f37775c0bcef"/>
+    <title>
+        Fixed wrong structure of example data
+    </title>
+    <updated>2015-11-27T07:34:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/4172752?s=30&amp;v=4"/>
+    <author>
+      <name>SkydiveMarius</name>
+      <uri>https://github.com/SkydiveMarius</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed wrong structure of example data&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7aa2fd1af37f6a5614d4b30f29bf5ca44c87f432</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7aa2fd1af37f6a5614d4b30f29bf5ca44c87f432"/>
+    <title>
+        Bug in handler event.type=&#39;touchend&#39;
+    </title>
+    <updated>2015-11-27T03:16:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/5039340?s=30&amp;v=4"/>
+    <author>
+      <name>wuchangming</name>
+      <uri>https://github.com/wuchangming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bug in handler event.type=&amp;#39;touchend&amp;#39;
+
+In Chorme.
+while event.type = &amp;quot;touchend” ,  event.touches is a empty TouchList,
+event.touches.length === 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a1c968105a26274b34e48120a58a4fb25ba1ea4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a1c968105a26274b34e48120a58a4fb25ba1ea4"/>
+    <title>
+        Merge remote-tracking branch &#39;nnnick/v2.0-dev&#39; into v2.0-dev
+    </title>
+    <updated>2015-11-27T00:50:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/5039340?s=30&amp;v=4"/>
+    <author>
+      <name>wuchangming</name>
+      <uri>https://github.com/wuchangming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;nnnick/v2.0-dev&amp;#39; into v2.0-dev&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

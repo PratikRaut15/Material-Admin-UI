@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.5.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.5.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.5.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.5.0</title>
+  <updated>2017-02-08T20:25:55Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c867d3f728d595eafc017f4d4136128824d1db25</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c867d3f728d595eafc017f4d4136128824d1db25"/>
+    <title>
+        Release 2.5.0
+    </title>
+    <updated>2017-02-08T20:25:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.5.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/57797a93cdd79ffd0f554c6053cc8d18b1fd98b4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/57797a93cdd79ffd0f554c6053cc8d18b1fd98b4"/>
+    <title>
+        Merge remote-tracking branch &#39;remotes/origin/master&#39; into release
+    </title>
+    <updated>2017-02-08T20:14:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;remotes/origin/master&amp;#39; into release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6ff34a5d4a29afea087f08568e01e2514e9d8b11</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6ff34a5d4a29afea087f08568e01e2514e9d8b11"/>
+    <title>
+        Added Django-Jchart link to docs/notes.md (#3865)
+    </title>
+    <updated>2017-02-03T23:17:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/602837?s=30&amp;v=4"/>
+    <author>
+      <name>matthisk</name>
+      <uri>https://github.com/matthisk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added Django-Jchart link to docs/notes.md (#3865)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9a3af51618b2627a328bdb66f0e3030522cd756e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9a3af51618b2627a328bdb66f0e3030522cd756e"/>
+    <title>
+        bump version number
+    </title>
+    <updated>2017-01-28T16:33:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bump version number&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7205ff5e2aa4515bae0c62bb9d8355745837270e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7205ff5e2aa4515bae0c62bb9d8355745837270e"/>
+    <title>
+        Replace `onEvent` by `before/afterEvent`
+    </title>
+    <updated>2017-01-28T00:32:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Replace `onEvent` by `before/afterEvent`&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1e9224d49c66507d9c7e8b745416a446a08401e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1e9224d49c66507d9c7e8b745416a446a08401e2"/>
+    <title>
+        Make `beforeDraw` cancellable and fix easing value
+    </title>
+    <updated>2017-01-28T00:32:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make `beforeDraw` cancellable and fix easing value&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/979341ecb094d9c6a95de8a47e7836f01587e7d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/979341ecb094d9c6a95de8a47e7836f01587e7d2"/>
+    <title>
+        Plugin hooks and jsdoc enhancements
+    </title>
+    <updated>2017-01-28T00:32:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Plugin hooks and jsdoc enhancements
+
+Make all `before` hooks cancellable (except `beforeInit`), meaning that if any plugin return explicitly `false`, the current action is not performed. Ensure that `init` hooks are called before `update` hooks and add associated calling order unit tests. Deprecate `Chart.PluginBase` in favor of `IPlugin` (no more an inheritable class) and document plugin hooks (also rename `extension` by `hook`).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c6fa4e55822e20b2bdd31d39bc18e19d53cd8966</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c6fa4e55822e20b2bdd31d39bc18e19d53cd8966"/>
+    <title>
+        📝 Add vue-chartjs to docs
+    </title>
+    <updated>2017-01-27T13:05:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/4975917?s=30&amp;v=4"/>
+    <author>
+      <name>apertureless</name>
+      <uri>https://github.com/apertureless</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;📝 Add vue-chartjs to docs
+
+vue-chartjs is a wrapper written in vue for chartjs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1ef9fbf7a65763c13fa4bdf42bf4c68da852b1db</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1ef9fbf7a65763c13fa4bdf42bf4c68da852b1db"/>
+    <title>
+        inner radius could be slightly negative due to numerical errors
+    </title>
+    <updated>2017-01-25T13:59:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;inner radius could be slightly negative due to numerical errors&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1934358663ad16773082a44974da91f0be78b4e3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1934358663ad16773082a44974da91f0be78b4e3"/>
+    <title>
+        remove unnecessary extra init steps
+    </title>
+    <updated>2017-01-22T20:16:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove unnecessary extra init steps&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/696f8d3a391ca8db6cbd1a1291cf8f3170fc0f1c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/696f8d3a391ca8db6cbd1a1291cf8f3170fc0f1c"/>
+    <title>
+        Documentation update on requiring Chart.js using CommonJS and es6 (#3…
+    </title>
+    <updated>2017-01-22T15:31:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/9851316?s=30&amp;v=4"/>
+    <author>
+      <name>Jareechang</name>
+      <uri>https://github.com/Jareechang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Documentation update on requiring Chart.js using CommonJS and es6 (#3788)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ceec907bee33d39da68cb7af111400622aefee23</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ceec907bee33d39da68cb7af111400622aefee23"/>
+    <title>
+        Ignore .gitignore (and more) from Bower packages
+    </title>
+    <updated>2017-01-22T15:31:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ignore .gitignore (and more) from Bower packages&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c20e57bc8ae86f2881b1f894b1767d95194bada1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c20e57bc8ae86f2881b1f894b1767d95194bada1"/>
+    <title>
+        Only generate ticks we care about
+    </title>
+    <updated>2017-01-18T02:13:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/15214161?s=30&amp;v=4"/>
+    <author>
+      <name>tredston</name>
+      <uri>https://github.com/tredston</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Only generate ticks we care about
+
+Instead of cloning `me.scaleSizeInUnits` moments and probably throwing the vast majority away, only clone what we need.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/312773ba7b7e2acf6cd1273c92017d3c197a992b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/312773ba7b7e2acf6cd1273c92017d3c197a992b"/>
+    <title>
+        Platform event API abstraction
+    </title>
+    <updated>2017-01-15T19:25:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Platform event API abstraction
+
+Move base platform definition and logic in src/platform/platform.js and simplify the browser -&amp;gt; Chart.js event mapping by listing only different naming then fallback to the native type.
+
+Replace `createEvent` by `add/removeEventListener` methods which dispatch Chart.js IEvent objects instead of native events. Move `add/removeResizeListener` implementation into the DOM platform which is now accessible via `platform.add/removeEventListener(chart, &amp;#39;resize&amp;#39;, listener)`.
+
+Finally, remove `bindEvent` and `unbindEvent` from the helpers since the implementation is specific to the chart controller (and should be private).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9e9b9cf46d452dfbfb2fa19a9cd362d4405abfdc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9e9b9cf46d452dfbfb2fa19a9cd362d4405abfdc"/>
+    <title>
+        when the cutoutPercentage is 0, the inner radius should be 0
+    </title>
+    <updated>2017-01-15T17:46:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;when the cutoutPercentage is 0, the inner radius should be 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/27b2e332c686e76cfe373a2d5377d53d01a7a84a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/27b2e332c686e76cfe373a2d5377d53d01a7a84a"/>
+    <title>
+        Correct anchor link (#3772)
+    </title>
+    <updated>2017-01-08T13:54:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/12495386?s=30&amp;v=4"/>
+    <author>
+      <name>mdewilde</name>
+      <uri>https://github.com/mdewilde</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Correct anchor link (#3772)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/83c54194aeba03c07210188d4084f123d0df66a7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/83c54194aeba03c07210188d4084f123d0df66a7"/>
+    <title>
+        Fix : Scale label display at top and right. (#3741)
+    </title>
+    <updated>2017-01-05T14:00:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/22541770?s=30&amp;v=4"/>
+    <author>
+      <name>KoyoSE</name>
+      <uri>https://github.com/KoyoSE</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix : Scale label display at top and right. (#3741)
+
+Fix Scale position at rotation when scale is top.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7c3e71d58b6cb4b169ef03ca22f7bf2cfd09b912</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7c3e71d58b6cb4b169ef03ca22f7bf2cfd09b912"/>
+    <title>
+        update copyright date
+    </title>
+    <updated>2017-01-02T18:26:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/6392429?s=30&amp;v=4"/>
+    <author>
+      <name>jakesyl</name>
+      <uri>https://github.com/jakesyl</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update copyright date&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eebaa84e72d82fb2ddf6075a7f21e0d1b9aa7b24</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/eebaa84e72d82fb2ddf6075a7f21e0d1b9aa7b24"/>
+    <title>
+        Group stacked bar charts (#2643) (#3563)
+    </title>
+    <updated>2017-01-01T14:36:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/300494?s=30&amp;v=4"/>
+    <author>
+      <name>potatopeelings</name>
+      <uri>https://github.com/potatopeelings</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Group stacked bar charts (#2643) (#3563)
+
+Group stacked bar charts (#2643)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf61b2c2973693164f7e2f784c36b38abe8fc9a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bf61b2c2973693164f7e2f784c36b38abe8fc9a6"/>
+    <title>
+        Happy new year!
+    </title>
+    <updated>2016-12-31T22:25:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Happy new year!
+Updated copyright date to 2017&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

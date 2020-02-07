@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a.atom"/>
+  <title>Recent Commits to morris.js:f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a</title>
+  <updated>2014-10-25T15:44:21Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f17d78fd2e2d690dfc38ea854a9ebfb0c5dcca9a"/>
+    <title>
+        Rebuild to fix a serious bug.
+    </title>
+    <updated>2014-10-25T15:44:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rebuild to fix a serious bug.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/77011bbae47ec7d589a2ef736c2c53f1b36b92a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/77011bbae47ec7d589a2ef736c2c53f1b36b92a6"/>
+    <title>
+        Merge pull request #517 from JelteF/off-by-one-bar
+    </title>
+    <updated>2014-10-25T15:42:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #517 from JelteF/off-by-one-bar
+
+Fix off by one error when shown was not given&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5f1ea081a5e9ca31134772a115edbcece11f15e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5f1ea081a5e9ca31134772a115edbcece11f15e0"/>
+    <title>
+        Fix off by one error when shown was not given
+    </title>
+    <updated>2014-10-25T15:40:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix off by one error when shown was not given&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/75cdb5bd9713bda681ccee5f40a7c857c78bc039</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/75cdb5bd9713bda681ccee5f40a7c857c78bc039"/>
+    <title>
+        Merge pull request #498 from fran6co/events
+    </title>
+    <updated>2014-10-15T12:01:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #498 from fran6co/events
+
+Adds events range&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1c66cfc4ac7b23d324f131bec7739265887e30fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1c66cfc4ac7b23d324f131bec7739265887e30fc"/>
+    <title>
+        Merge pull request #464 from JelteF/escape-hover
+    </title>
+    <updated>2014-10-15T11:58:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #464 from JelteF/escape-hover
+
+Escape labels in hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a158fb7677b5891fa0fcac1235a4a2c24c043935</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a158fb7677b5891fa0fcac1235a4a2c24c043935"/>
+    <title>
+        Merge pull request #484 from JelteF/master
+    </title>
+    <updated>2014-10-08T14:33:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #484 from JelteF/master
+
+Rebuild files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5705894fa5d66df2ead35d5fbc95d6f7a16a70c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a5705894fa5d66df2ead35d5fbc95d6f7a16a70c"/>
+    <title>
+        Adds events range
+    </title>
+    <updated>2014-09-23T11:06:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/726088?s=30&amp;v=4"/>
+    <author>
+      <name>fran6co</name>
+      <uri>https://github.com/fran6co</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adds events range&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/93c7441bbc95ff844398cf4ca0977d785b11e5a1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/93c7441bbc95ff844398cf4ca0977d785b11e5a1"/>
+    <title>
+        Merge pull request #497 from fran6co/patch-1
+    </title>
+    <updated>2014-09-23T10:28:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #497 from fran6co/patch-1
+
+Fixes copy&amp;amp;paste error in event&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab0bad541d8546613e8dc4e6a2500f8dd6debeab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ab0bad541d8546613e8dc4e6a2500f8dd6debeab"/>
+    <title>
+        Fixes copy&amp;paste error in event
+    </title>
+    <updated>2014-09-22T19:17:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/726088?s=30&amp;v=4"/>
+    <author>
+      <name>fran6co</name>
+      <uri>https://github.com/fran6co</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes copy&amp;amp;paste error in event
+
+This was referenced in https://github.com/morrisjs/morris.js/commit/715771431c9b3b8b54a3ebcfc6dc72e7ffa29536&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2356f4977ed86f878c94ebfb87d0f78653fccc4e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2356f4977ed86f878c94ebfb87d0f78653fccc4e"/>
+    <title>
+        Rebuild.
+    </title>
+    <updated>2014-08-14T13:38:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rebuild.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef8b3f327665dc088dfd206f8901e9a3a128a2ee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ef8b3f327665dc088dfd206f8901e9a3a128a2ee"/>
+    <title>
+        Merge pull request #458 from JelteF/non-blurry-lines
+    </title>
+    <updated>2014-08-14T12:48:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #458 from JelteF/non-blurry-lines
+
+Fix blurry lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/025fb4887ae97564e10cab332f0e6be44b196ed3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/025fb4887ae97564e10cab332f0e6be44b196ed3"/>
+    <title>
+        Merge pull request #474 from JelteF/horizontal-bar-click-fix
+    </title>
+    <updated>2014-08-14T12:41:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #474 from JelteF/horizontal-bar-click-fix
+
+A small fix that makes the click handler work for horizontal bar charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d54a0398372ffc2cfdf21f1455d1d911c4441c9f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d54a0398372ffc2cfdf21f1455d1d911c4441c9f"/>
+    <title>
+        Merge pull request #460 from JelteF/horizontal-bar-fixes
+    </title>
+    <updated>2014-08-14T12:32:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #460 from JelteF/horizontal-bar-fixes
+
+Fix transX&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bb86c7861349ecaf1d3d68d4d44c0eb6be2befa3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/bb86c7861349ecaf1d3d68d4d44c0eb6be2befa3"/>
+    <title>
+        Merge pull request #459 from JelteF/better-ylabel-callback
+    </title>
+    <updated>2014-08-14T12:32:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #459 from JelteF/better-ylabel-callback
+
+Pass series index to yLabelFormat&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/127b2bf271e4a777edfb3ed9fee96f1e1f320535</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/127b2bf271e4a777edfb3ed9fee96f1e1f320535"/>
+    <title>
+        A small fix that makes the click handler work for horizontal bar charts
+    </title>
+    <updated>2014-07-29T14:37:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;A small fix that makes the click handler work for horizontal bar charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/77c24f6b70df2b23c7bd5d4d67240850d1b83005</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/77c24f6b70df2b23c7bd5d4d67240850d1b83005"/>
+    <title>
+        Escape labels in hover
+    </title>
+    <updated>2014-07-16T21:24:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Escape labels in hover&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2901f63fba7d29dc806c752166861710e10f78e4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2901f63fba7d29dc806c752166861710e10f78e4"/>
+    <title>
+        Fix transX
+    </title>
+    <updated>2014-07-15T16:24:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix transX&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0192dd0eeed205ace0a8925324b5fe8b40e3529a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0192dd0eeed205ace0a8925324b5fe8b40e3529a"/>
+    <title>
+        Pass series index to yLabelFormat
+    </title>
+    <updated>2014-07-15T15:55:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Pass series index to yLabelFormat&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bc76a22ec39066cbf730f1ee1b4c640469e45302</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/bc76a22ec39066cbf730f1ee1b4c640469e45302"/>
+    <title>
+        Fix blurry lines
+    </title>
+    <updated>2014-07-15T14:02:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix blurry lines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a9076b2cc406494c23f73dd1e4b8d17d03adcdeb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a9076b2cc406494c23f73dd1e4b8d17d03adcdeb"/>
+    <title>
+        Merge pull request #452 from JelteF/feature-noshow
+    </title>
+    <updated>2014-07-15T13:45:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1162278?s=30&amp;v=4"/>
+    <author>
+      <name>JelteF</name>
+      <uri>https://github.com/JelteF</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #452 from JelteF/feature-noshow&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

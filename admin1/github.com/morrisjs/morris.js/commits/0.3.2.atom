@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0.3.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0.3.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0.3.2.atom"/>
+  <title>Recent Commits to morris.js:0.3.2</title>
+  <updated>2012-10-28T21:27:36Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/54c7e3f4c1bac1a119fd2f7cae3aae79e9e74850</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/54c7e3f4c1bac1a119fd2f7cae3aae79e9e74850"/>
+    <title>
+        Update README for v0.3.2.
+    </title>
+    <updated>2012-10-28T21:27:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README for v0.3.2.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5192f678dcccea37c603658cf144dbebdec8615c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5192f678dcccea37c603658cf144dbebdec8615c"/>
+    <title>
+        *really* fix hover placing.
+    </title>
+    <updated>2012-10-28T21:22:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;*really* fix hover placing.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a8d60d03fe7a4c285e0dcd6aeeb0328a69c17b60</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a8d60d03fe7a4c285e0dcd6aeeb0328a69c17b60"/>
+    <title>
+        Fix hover placing when nil values present.
+    </title>
+    <updated>2012-10-28T20:39:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix hover placing when nil values present.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a03926897bf0727faead6f2928ff35cf1f763a48</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a03926897bf0727faead6f2928ff35cf1f763a48"/>
+    <title>
+        Label x-axis from right to left.
+    </title>
+    <updated>2012-10-28T20:30:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Label x-axis from right to left.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/df63f19358012a7c6b534dbb4df8f3ba0abe7f70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/df63f19358012a7c6b534dbb4df8f3ba0abe7f70"/>
+    <title>
+        Reverse hover order for area charts.
+    </title>
+    <updated>2012-10-28T19:50:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reverse hover order for area charts.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f72b14f6197fd3e23289bf3ec49f5a3b8eb1e7c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f72b14f6197fd3e23289bf3ec49f5a3b8eb1e7c7"/>
+    <title>
+        Initial area charts.
+    </title>
+    <updated>2012-10-28T18:55:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Initial area charts.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/16b88ba1de1e4a9b550c1847ce8b7079bb499068</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/16b88ba1de1e4a9b550c1847ce8b7079bb499068"/>
+    <title>
+        Make hover a *teensy* bit clearer.
+    </title>
+    <updated>2012-10-27T17:31:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make hover a *teensy* bit clearer.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e76f6c8e0ad55568a818591b834a4e4ab2d4dd49</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e76f6c8e0ad55568a818591b834a4e4ab2d4dd49"/>
+    <title>
+        Loads more specs.
+    </title>
+    <updated>2012-10-25T17:51:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Loads more specs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5776c44d6021bdee057a3980c5e206bb24fe3b33</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5776c44d6021bdee057a3980c5e206bb24fe3b33"/>
+    <title>
+        Improved support for empty charts.
+    </title>
+    <updated>2012-10-25T08:19:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improved support for empty charts.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ae2dfc478249b182d429e5ec49f50661af462d9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5ae2dfc478249b182d429e5ec49f50661af462d9"/>
+    <title>
+        Start building up the spec coverage.  Fix hover label bug (yay, specs!)
+    </title>
+    <updated>2012-10-25T07:23:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Start building up the spec coverage.  Fix hover label bug (yay, specs!)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/69f949b13214b7f90d8c756e99f27c825c732cac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/69f949b13214b7f90d8c756e99f27c825c732cac"/>
+    <title>
+        Refactor spec runner, update to newer mocha.
+    </title>
+    <updated>2012-10-25T06:51:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Refactor spec runner, update to newer mocha.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1aca09869413fce937a210422e6a3710036bafdb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1aca09869413fce937a210422e6a3710036bafdb"/>
+    <title>
+        MUCH simpler internal code.
+    </title>
+    <updated>2012-10-23T08:15:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;MUCH simpler internal code.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f6b1cfe7a0336fbeb0f0a0a9101b3c0f6d786e79</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f6b1cfe7a0336fbeb0f0a0a9101b3c0f6d786e79"/>
+    <title>
+        Line chart working again.
+    </title>
+    <updated>2012-10-22T06:56:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Line chart working again.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3b5ff1a47e6b9f00baa01d0c7389453b24f15483</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/3b5ff1a47e6b9f00baa01d0c7389453b24f15483"/>
+    <title>
+        Update spec for new exception.
+    </title>
+    <updated>2012-10-22T06:12:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update spec for new exception.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5b8071dbb1fc13697121a227210484a5b305eb7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d5b8071dbb1fc13697121a227210484a5b305eb7"/>
+    <title>
+        WIP Refactor grid drawing into a base class.
+    </title>
+    <updated>2012-10-21T21:33:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;WIP Refactor grid drawing into a base class.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/67fbc481aaa08c48e4d5e4bc5b84c22c72ae17c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/67fbc481aaa08c48e4d5e4bc5b84c22c72ae17c2"/>
+    <title>
+        Simplify!
+    </title>
+    <updated>2012-10-20T23:29:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Simplify!&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66461001b7cb9438e690c857d720d355413f8409</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/66461001b7cb9438e690c857d720d355413f8409"/>
+    <title>
+        Merge branch &#39;smooth-per-series&#39; of https://github.com/tiraeth/morris…
+    </title>
+    <updated>2012-10-20T22:55:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;smooth-per-series&amp;#39; of https://github.com/tiraeth/morris.js into tiraeth-smooth-per-series
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1d4c7f0d6545b28f6200b413dec4f8c0fb9860ea</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1d4c7f0d6545b28f6200b413dec4f8c0fb9860ea"/>
+    <title>
+        Custom dateFormat for string x-values. #90
+    </title>
+    <updated>2012-10-19T09:20:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Custom dateFormat for string x-values. #90&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42099ea26bed8e004c752d1e6a6f098014eb020c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/42099ea26bed8e004c752d1e6a6f098014eb020c"/>
+    <title>
+        Add watch task back to grunt.js.
+    </title>
+    <updated>2012-10-19T08:07:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add watch task back to grunt.js.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b8674f38699c19fa1dafa8c70d2e9ab725131337</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b8674f38699c19fa1dafa8c70d2e9ab725131337"/>
+    <title>
+        fixed the code to use ykeys for smooth instead of seriesLabels
+    </title>
+    <updated>2012-10-15T21:16:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/883a81ab829cbe637de0fa335c7936d5?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>tiraeth@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed the code to use ykeys for smooth instead of seriesLabels&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

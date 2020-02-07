@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.0-alpha3</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.0-alpha3"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.0-alpha3.atom"/>
+  <title>Recent Commits to Chart.js:2.0.0-alpha3</title>
+  <updated>2015-06-16T19:19:01Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d1f2807717c8e19cf2c35824076d48e9c6712ed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8d1f2807717c8e19cf2c35824076d48e9c6712ed"/>
+    <title>
+        Even better responsive sizing
+    </title>
+    <updated>2015-06-16T19:19:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Even better responsive sizing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/63530ba66d8ccd7cfbc6c141c538f724754aceb5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/63530ba66d8ccd7cfbc6c141c538f724754aceb5"/>
+    <title>
+        Better responsive sizing
+    </title>
+    <updated>2015-06-16T19:06:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better responsive sizing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/088b4fcc556d413eb3fba14f4568982ee0c1f1b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/088b4fcc556d413eb3fba14f4568982ee0c1f1b6"/>
+    <title>
+        Fixed: scale.linear range min==max resulted in no scale
+    </title>
+    <updated>2015-06-16T18:04:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed: scale.linear range min==max resulted in no scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3ffbb155f3ed9cc9b754ada0a613efad4418247</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e3ffbb155f3ed9cc9b754ada0a613efad4418247"/>
+    <title>
+        Deprecate animationLoop function
+    </title>
+    <updated>2015-06-16T17:57:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Deprecate animationLoop function&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/48b8a3a2c52e7cf7435185324c94ca51c96607ff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/48b8a3a2c52e7cf7435185324c94ca51c96607ff"/>
+    <title>
+        Fixed issue where arc.inRange was sometimes over π threshold
+    </title>
+    <updated>2015-06-16T17:46:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed issue where arc.inRange was sometimes over π threshold&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/34f8bc99c6d3c63afb2921d048a986842c0a7e61</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/34f8bc99c6d3c63afb2921d048a986842c0a7e61"/>
+    <title>
+        Better demo for combo
+    </title>
+    <updated>2015-06-16T17:37:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Better demo for combo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5e4b38252fdea49a67a0ddff4d50f56ccb5536f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a5e4b38252fdea49a67a0ddff4d50f56ccb5536f"/>
+    <title>
+        Draw controllers in reverse (for proper line stacking)
+    </title>
+    <updated>2015-06-16T17:37:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Draw controllers in reverse (for proper line stacking)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6065e8c801c06c21accb1e8f9bc5c537704ff298</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6065e8c801c06c21accb1e8f9bc5c537704ff298"/>
+    <title>
+        helpers.each is now reversible
+    </title>
+    <updated>2015-06-16T17:31:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;helpers.each is now reversible&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cd5a8d1a50a9e879c23d344497d606e10c6f8093</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cd5a8d1a50a9e879c23d344497d606e10c6f8093"/>
+    <title>
+        Fix getMaximumHeight function to use helpers
+    </title>
+    <updated>2015-06-16T17:24:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix getMaximumHeight function to use helpers&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/37b13265c96b19c7501d3832c43592c180fa6f7f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/37b13265c96b19c7501d3832c43592c180fa6f7f"/>
+    <title>
+        Build
+    </title>
+    <updated>2015-06-16T17:22:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0d5f282349ea722fc63a05cdd3dbe21947c885f3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0d5f282349ea722fc63a05cdd3dbe21947c885f3"/>
+    <title>
+        Merge pull request #1219 from etimberg/feature/controllers
+    </title>
+    <updated>2015-06-16T16:50:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3588778?s=30&amp;v=4"/>
+    <author>
+      <name>derekperkins</name>
+      <uri>https://github.com/derekperkins</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1219 from etimberg/feature/controllers
+
+Controller Driven Charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/db981807bb48ed0853de6a28bec83fc424b95ad9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/db981807bb48ed0853de6a28bec83fc424b95ad9"/>
+    <title>
+        Polar Area Draws, but has scale resizing issues
+    </title>
+    <updated>2015-06-16T06:39:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Polar Area Draws, but has scale resizing issues&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1f302f09bb9c6552df67062d9749deba48f5a8c6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1f302f09bb9c6552df67062d9749deba48f5a8c6"/>
+    <title>
+        Fixed polar-area sample
+    </title>
+    <updated>2015-06-16T06:20:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed polar-area sample&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c0ccae1031e90b255f30018ab150e50672b5c4c1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c0ccae1031e90b255f30018ab150e50672b5c4c1"/>
+    <title>
+        No logging
+    </title>
+    <updated>2015-06-16T06:20:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;No logging&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/902305790679ce3b01e64c5cdf44921906ce8c40</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/902305790679ce3b01e64c5cdf44921906ce8c40"/>
+    <title>
+        Old doughnuts are no good.
+    </title>
+    <updated>2015-06-16T06:20:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Old doughnuts are no good.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d5eb6d57e97f9434c8483f6ef23f2bea6f1a969</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2d5eb6d57e97f9434c8483f6ef23f2bea6f1a969"/>
+    <title>
+        Radar chart and radialLinear scale
+    </title>
+    <updated>2015-06-16T06:17:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Radar chart and radialLinear scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/42648d0a83507830b70cf1865fb657cf5ba7bf24</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/42648d0a83507830b70cf1865fb657cf5ba7bf24"/>
+    <title>
+        Build radial scale details inside itself
+    </title>
+    <updated>2015-06-16T05:59:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build radial scale details inside itself&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4c749e78b2a72e024c386cdc44ecb1e92d158239</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4c749e78b2a72e024c386cdc44ecb1e92d158239"/>
+    <title>
+        Single scale again.
+    </title>
+    <updated>2015-06-16T05:58:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Single scale again.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef1acfa0e85f5b2d5aca473eb5027b91f89d6fb1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ef1acfa0e85f5b2d5aca473eb5027b91f89d6fb1"/>
+    <title>
+        Build single scales in core
+    </title>
+    <updated>2015-06-16T05:54:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build single scales in core&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5759f419c06b0882bfe28579c73aa745de43014b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5759f419c06b0882bfe28579c73aa745de43014b"/>
+    <title>
+        Pie used new doughnut controller
+    </title>
+    <updated>2015-06-16T04:47:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Pie used new doughnut controller&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

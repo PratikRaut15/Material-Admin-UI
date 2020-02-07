@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/b192a00d685ebe4275ba6c00c1c98aa13a0975e2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/b192a00d685ebe4275ba6c00c1c98aa13a0975e2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/b192a00d685ebe4275ba6c00c1c98aa13a0975e2.atom"/>
+  <title>Recent Commits to morris.js:b192a00d685ebe4275ba6c00c1c98aa13a0975e2</title>
+  <updated>2013-06-04T19:38:35Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b192a00d685ebe4275ba6c00c1c98aa13a0975e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b192a00d685ebe4275ba6c00c1c98aa13a0975e2"/>
+    <title>
+        Add week in label_specs
+    </title>
+    <updated>2013-06-04T19:38:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/a1886f3042a8730f5f9a85e9505515b6?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>aurelien@procheo.fr</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add week in label_specs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b98ae8ab1de39be185fe092c4f7f0821088abafb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b98ae8ab1de39be185fe092c4f7f0821088abafb"/>
+    <title>
+        v0.4.3
+    </title>
+    <updated>2013-05-12T16:20:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v0.4.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8493b6ec25affc378b7907fd8a3dd4711c40ba45</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8493b6ec25affc378b7907fd8a3dd4711c40ba45"/>
+    <title>
+        Fix hideHover (fixes #236).
+    </title>
+    <updated>2013-05-12T16:12:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix hideHover (fixes #236).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8bc716f82082e291fa2b92d2ae5ca8353c235562</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8bc716f82082e291fa2b92d2ae5ca8353c235562"/>
+    <title>
+        Update internal data array when using setData (fixes #213).
+    </title>
+    <updated>2013-05-12T15:56:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update internal data array when using setData (fixes #213).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6220c4021745bb5de8142529e49995882cc7d39f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/6220c4021745bb5de8142529e49995882cc7d39f"/>
+    <title>
+        Add gridTextFamily and gridTextWeight options.
+    </title>
+    <updated>2013-05-12T15:25:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add gridTextFamily and gridTextWeight options.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/feca1ecaeb580cf796266232b6bf06d5e17599e6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/feca1ecaeb580cf796266232b6bf06d5e17599e6"/>
+    <title>
+        Make event handlers chainable.
+    </title>
+    <updated>2013-05-10T06:41:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make event handlers chainable.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5c856fb105ee69ab88eec75d365e18af0775c3d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e5c856fb105ee69ab88eec75d365e18af0775c3d"/>
+    <title>
+        Fix area chart fill colors for very light lines (fixes #190).
+    </title>
+    <updated>2013-05-10T06:40:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix area chart fill colors for very light lines (fixes #190).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b7229379203cddc8ba5dcff472f52b463628953c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b7229379203cddc8ba5dcff472f52b463628953c"/>
+    <title>
+        Merge pull request #239 from oesmith/diagonal-series
+    </title>
+    <updated>2013-05-09T21:22:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #239 from oesmith/diagonal-series
+
+Diagonal series&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05cdc7f3e41113126e04fcbdd40c4723fe435f61</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/05cdc7f3e41113126e04fcbdd40c4723fe435f61"/>
+    <title>
+        Angled labels.
+    </title>
+    <updated>2013-05-09T21:15:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Angled labels.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c170062eae804285596523b74afd5f5ebd043feb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c170062eae804285596523b74afd5f5ebd043feb"/>
+    <title>
+        removed unnecessary object property set
+    </title>
+    <updated>2013-05-09T19:24:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/883a81ab829cbe637de0fa335c7936d5?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>tiraeth@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;removed unnecessary object property set&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3960ecfcdbedfdfa897bc2c9e98020122a8fad27</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/3960ecfcdbedfdfa897bc2c9e98020122a8fad27"/>
+    <title>
+        adds xLabelsDiagonal options, as asked in #235
+    </title>
+    <updated>2013-05-09T19:21:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/883a81ab829cbe637de0fa335c7936d5?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>tiraeth@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;adds xLabelsDiagonal options, as asked in #235&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f8577976848ce9cc8cf378f45ab7d02f0928af6f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/f8577976848ce9cc8cf378f45ab7d02f0928af6f"/>
+    <title>
+        Build
+    </title>
+    <updated>2013-04-25T06:31:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8ae673e76660a372f7161b9148ee17309bffc170</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8ae673e76660a372f7161b9148ee17309bffc170"/>
+    <title>
+        Merge pull request #224 from GranData/master
+    </title>
+    <updated>2013-04-25T06:17:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #224 from GranData/master
+
+Format X Label values&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/80c63ab1640d3bafca3ce8b91a160a8053f09d56</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/80c63ab1640d3bafca3ce8b91a160a8053f09d56"/>
+    <title>
+        Merge pull request #229 from wbond/hover-wiggle
+    </title>
+    <updated>2013-04-25T06:11:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #229 from wbond/hover-wiggle
+
+Fixes #186 - changed CSS top value for hover to be an int&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a1c74d6a8267b0f9715c973687a6d569863d23b7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a1c74d6a8267b0f9715c973687a6d569863d23b7"/>
+    <title>
+        Fixes #186 - changed CSS top value for hover to be an int
+    </title>
+    <updated>2013-04-25T03:22:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/41734?s=30&amp;v=4"/>
+    <author>
+      <name>wbond</name>
+      <uri>https://github.com/wbond</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes #186 - changed CSS top value for hover to be an int&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/143a9dbb77c7194ba5c65ec69c441e9c4c6f9b01</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/143a9dbb77c7194ba5c65ec69c441e9c4c6f9b01"/>
+    <title>
+        Fomatted integer values
+    </title>
+    <updated>2013-04-17T18:53:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/614799?s=30&amp;v=4"/>
+    <author>
+      <name>tzulberti</name>
+      <uri>https://github.com/tzulberti</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fomatted integer values
+
+Solved issue #29&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d8667c72dd772cb8a6f871f4c76d72e4f872c313</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d8667c72dd772cb8a6f871f4c76d72e4f872c313"/>
+    <title>
+        Changelog for v0.4.2
+    </title>
+    <updated>2013-04-14T09:40:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Changelog for v0.4.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/67caadb600b8b836683f4dc4aa09ba69b98626b0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/67caadb600b8b836683f4dc4aa09ba69b98626b0"/>
+    <title>
+        Customizing hover content using default content (fixes #179).
+    </title>
+    <updated>2013-04-14T09:25:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Customizing hover content using default content (fixes #179).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b9f53a8fdb4b0cf6c032786f1c1e1cea59c0984d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/b9f53a8fdb4b0cf6c032786f1c1e1cea59c0984d"/>
+    <title>
+        Merge branch &#39;master&#39; of github.com:oesmith/morris.js
+    </title>
+    <updated>2013-04-14T08:18:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of github.com:oesmith/morris.js
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/96530d75763c108a58d23c510a1f0c331d9f7023</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/96530d75763c108a58d23c510a1f0c331d9f7023"/>
+    <title>
+        Fix Y label sizing.
+    </title>
+    <updated>2013-04-14T08:13:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix Y label sizing.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

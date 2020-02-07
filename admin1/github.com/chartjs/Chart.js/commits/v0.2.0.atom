@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v0.2.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v0.2.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v0.2.0.atom"/>
+  <title>Recent Commits to Chart.js:v0.2.0</title>
+  <updated>2013-10-16T22:28:41Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8f025f33c08c66991a12f02f908bab156a963aef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8f025f33c08c66991a12f02f908bab156a963aef"/>
+    <title>
+        Updated ETA
+    </title>
+    <updated>2013-10-16T22:28:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated ETA&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dffb2cd6ee13e9778240e320245c2d338c5e6f8f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/dffb2cd6ee13e9778240e320245c2d338c5e6f8f"/>
+    <title>
+        Update on refactor progress
+    </title>
+    <updated>2013-09-08T23:29:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update on refactor progress&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/58657d65cb139299786072df1692992bcf3610e9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/58657d65cb139299786072df1692992bcf3610e9"/>
+    <title>
+        Quick note about upcoming refactor
+    </title>
+    <updated>2013-07-18T22:58:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Quick note about upcoming refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d587de9706a07546fb4cc898c9123e347ea6462</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8d587de9706a07546fb4cc898c9123e347ea6462"/>
+    <title>
+        Quick note about upcoming refactor
+    </title>
+    <updated>2013-07-18T22:57:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Quick note about upcoming refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf2489425b5588447587696aa265a76737125ed0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bf2489425b5588447587696aa265a76737125ed0"/>
+    <title>
+        Merge pull request #139 from ilyakatz/patch-1
+    </title>
+    <updated>2013-06-14T23:21:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #139 from ilyakatz/patch-1
+
+spelling changed for competition&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/72c0131d498c50950ceaa55c1085e277e08dc5f6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/72c0131d498c50950ceaa55c1085e277e08dc5f6"/>
+    <title>
+        spelling changed for competition
+    </title>
+    <updated>2013-06-13T03:18:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/282514?s=30&amp;v=4"/>
+    <author>
+      <name>ilyakatz</name>
+      <uri>https://github.com/ilyakatz</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;spelling changed for competition&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/abb3c14c00ba603da9513ccc33bc8b2c85d208de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/abb3c14c00ba603da9513ccc33bc8b2c85d208de"/>
+    <title>
+        Competition details
+    </title>
+    <updated>2013-06-11T21:41:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Competition details
+
+Challenge post are running a competition and offering some great
+prizes. Details are in the readme.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ac55046c313317177834710af0bae647d2e72a8f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ac55046c313317177834710af0bae647d2e72a8f"/>
+    <title>
+        Merge pull request #126 from Ider/master
+    </title>
+    <updated>2013-06-05T22:16:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #126 from Ider/master
+
+Correct default scaleShowLabels value in document&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0638674145526b5b385212a8486be79947ee5c1f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0638674145526b5b385212a8486be79947ee5c1f"/>
+    <title>
+        Correct default scaleShowLabels value to match js file setting
+    </title>
+    <updated>2013-05-31T02:58:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/0485e649aca5a26d93a85faf06406b15?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>ider@storm8.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Correct default scaleShowLabels value to match js file setting
+
+default scaleShowLabels value for Line and Bar is true in js file, but
+it is false in document page.
+Correct document page to match the value to reduce the confuse&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2e083962556ce901cc80028fe2814ec10dc317fa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2e083962556ce901cc80028fe2814ec10dc317fa"/>
+    <title>
+        Merge pull request #75 from epeli/patch-1
+    </title>
+    <updated>2013-04-15T17:20:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #75 from epeli/patch-1
+
+Explicit global definition&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/624fbfd474ae3a2d1ceb29fe041f9045a8ccbcb3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/624fbfd474ae3a2d1ceb29fe041f9045a8ccbcb3"/>
+    <title>
+        Explicit global definition
+    </title>
+    <updated>2013-04-13T08:55:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/225712?s=30&amp;v=4"/>
+    <author>
+      <name>epeli</name>
+      <uri>https://github.com/epeli</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Explicit global definition
+
+Some script bundlers such as Browserify compile a wrapper function over the modules. If var-statement is used to define the global it will be hidden inside it. Use window-global to define Chart global explicitly.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4a94b44a77d64a7431b39d2c3c980ab28bf7b1db</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4a94b44a77d64a7431b39d2c3c980ab28bf7b1db"/>
+    <title>
+        Version bump
+    </title>
+    <updated>2013-04-12T20:26:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version bump&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a55a1614c6f79f9b15ec13da52d56e8bd0044d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7a55a1614c6f79f9b15ec13da52d56e8bd0044d8"/>
+    <title>
+        0.2 Update
+    </title>
+    <updated>2013-04-12T20:20:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;0.2 Update
+
+- Fixes hard coded scales now longer not one step out of sync&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/75f4d21968c53cf6ebae0607f7fb2949d28ca356</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/75f4d21968c53cf6ebae0607f7fb2949d28ca356"/>
+    <title>
+        There are too many versions of Chart.js
+    </title>
+    <updated>2013-03-25T19:50:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;There are too many versions of Chart.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/19e32556e88175125b72599ce1db34da2790a97d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/19e32556e88175125b72599ce1db34da2790a97d"/>
+    <title>
+        Fix for broken radar rotation
+    </title>
+    <updated>2013-03-25T19:38:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix for broken radar rotation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d30edc1b8dc5b974c5880fcf81c43a0db3c1b4c3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d30edc1b8dc5b974c5880fcf81c43a0db3c1b4c3"/>
+    <title>
+        Cleared up folder structure
+    </title>
+    <updated>2013-03-25T19:25:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cleared up folder structure&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7033042fae7cf87960894b38912427e1197a6124</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7033042fae7cf87960894b38912427e1197a6124"/>
+    <title>
+        Added index site as well
+    </title>
+    <updated>2013-03-25T19:18:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added index site as well&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2acdfbfca83d345bae1f389d5fd89a7f51f1be2f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2acdfbfca83d345bae1f389d5fd89a7f51f1be2f"/>
+    <title>
+        Merge pull request #33 from robocoder/license-patch
+    </title>
+    <updated>2013-03-25T19:03:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #33 from robocoder/license-patch
+
+add license text and header&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/552de1f21ced57fb5af48721e90f4fe112b85503</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/552de1f21ced57fb5af48721e90f4fe112b85503"/>
+    <title>
+        Added docs site to the project
+    </title>
+    <updated>2013-03-25T19:01:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added docs site to the project
+
+Font&amp;#39;s probably won&amp;#39;t be server from typekit.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9453a670cd4d082895b2fe8d7af22177cf92dd90</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9453a670cd4d082895b2fe8d7af22177cf92dd90"/>
+    <title>
+        add license text and header
+    </title>
+    <updated>2013-03-20T04:09:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/922051?s=30&amp;v=4"/>
+    <author>
+      <name>robocoder</name>
+      <uri>https://github.com/robocoder</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add license text and header&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

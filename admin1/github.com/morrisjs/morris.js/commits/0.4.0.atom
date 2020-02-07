@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0.4.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0.4.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0.4.0.atom"/>
+  <title>Recent Commits to morris.js:0.4.0</title>
+  <updated>2013-01-26T09:54:10Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4c4b7f73aa5e4a052937a564814d2b58aced2881</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4c4b7f73aa5e4a052937a564814d2b58aced2881"/>
+    <title>
+        v0.4.0 Changelog
+    </title>
+    <updated>2013-01-26T09:54:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;v0.4.0 Changelog&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/541874b2cebb0db1ddeaf3b3df4427fc6e68edd5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/541874b2cebb0db1ddeaf3b3df4427fc6e68edd5"/>
+    <title>
+        Rebuild.
+    </title>
+    <updated>2013-01-25T00:28:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rebuild.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/24306b8b00c72d4fa0f42c95ddf55c3059920407</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/24306b8b00c72d4fa0f42c95ddf55c3059920407"/>
+    <title>
+        Merge pull request #144 from chriserin/refactor_ybounds
+    </title>
+    <updated>2013-01-24T23:56:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #144 from chriserin/refactor_ybounds
+
+break the ymin/ymax logic out into one method&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5cbc34d9126c85aecd12518a895d97730e5e7625</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/5cbc34d9126c85aecd12518a895d97730e5e7625"/>
+    <title>
+        Remove reference to old SVG file.
+    </title>
+    <updated>2013-01-24T23:49:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove reference to old SVG file.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cd5129c4895c1a8c18f5c142fc5375c425514648</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/cd5129c4895c1a8c18f5c142fc5375c425514648"/>
+    <title>
+        Merge branch &#39;wrap_raphael_add_classes&#39; of https://github.com/chriser…
+    </title>
+    <updated>2013-01-24T23:48:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;wrap_raphael_add_classes&amp;#39; of https://github.com/chriserin/morris.js into chriserin-wrap_raphael_add_classes
+
+Conflicts:
+	lib/morris.donut.coffee&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d87c0ef8ae460ac185a2b7970e18c78edcee011e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d87c0ef8ae460ac185a2b7970e18c78edcee011e"/>
+    <title>
+        Rename strokeColor -&gt; backgroundColor.
+    </title>
+    <updated>2013-01-24T23:38:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rename strokeColor -&amp;gt; backgroundColor.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2cce7c43dea5ff1211dff508248444ae51aff17c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2cce7c43dea5ff1211dff508248444ae51aff17c"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/peteralaoui/morris.js int…
+    </title>
+    <updated>2013-01-24T23:34:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/peteralaoui/morris.js into peteralaoui-master
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1ecd8f95c9a5b13cc586e1dd2b5e6b575775193b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1ecd8f95c9a5b13cc586e1dd2b5e6b575775193b"/>
+    <title>
+        Merge pull request #153 from tiraeth/fix-hide-hover
+    </title>
+    <updated>2013-01-24T21:04:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #153 from tiraeth/fix-hide-hover
+
+Fixed hideHover=auto for line/area chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/18a4e8923a4c005ffe97e3e756047e67d3272905</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/18a4e8923a4c005ffe97e3e756047e67d3272905"/>
+    <title>
+        Merge pull request #166 from Radagaisus/patch-1
+    </title>
+    <updated>2013-01-24T21:03:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #166 from Radagaisus/patch-1
+
+Morris Fails to Compile with the Closure Compiler&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/928e1a5b342b87a4374693f098f1062f056f57a2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/928e1a5b342b87a4374693f098f1062f056f57a2"/>
+    <title>
+        Morris Fails to Compile with the Closure Compiler
+    </title>
+    <updated>2013-01-18T15:29:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/550061?s=30&amp;v=4"/>
+    <author>
+      <name>Radagaisus</name>
+      <uri>https://github.com/Radagaisus</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Morris Fails to Compile with the Closure Compiler
+
+So closure-compiler decided that `long` is a reserved JS keyword, even when
+it&amp;#39;s a property of an object (`this.long`). The fault is on
+closure-compiler - it&amp;#39;s not compliant with the specification,
+- but it means that Morris will fail to build on every asset
+system that uses the closure compiler.
+
+
+To fix this I just changed `@long` inside Donut to `@is_long`.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1703eb54a9c83fbc3bf4e0b99e16759b353f621f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1703eb54a9c83fbc3bf4e0b99e16759b353f621f"/>
+    <title>
+        Add a strokeColor options to the Donut class
+    </title>
+    <updated>2013-01-18T00:11:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/328718?s=30&amp;v=4"/>
+    <author>
+      <name>dulacp</name>
+      <uri>https://github.com/dulacp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a strokeColor options to the Donut class
+
+to be able to present the donut over another background than a white
+one.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1c81906dcdbdd2587684eedb011192e46390c29f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/1c81906dcdbdd2587684eedb011192e46390c29f"/>
+    <title>
+        Update package grunt-less deprecated for the new grunt-contrib-less
+    </title>
+    <updated>2013-01-17T23:52:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/328718?s=30&amp;v=4"/>
+    <author>
+      <name>dulacp</name>
+      <uri>https://github.com/dulacp</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update package grunt-less deprecated for the new grunt-contrib-less
+
+as suggested in the README
+https://github.com/jharding/grunt-less/blob/master/README.md#grunt-less-deprecated&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2489c1a43051d41ac81ad1606498d5bc3b096729</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2489c1a43051d41ac81ad1606498d5bc3b096729"/>
+    <title>
+        fixed hideHover=auto for line/area chart
+    </title>
+    <updated>2013-01-02T11:19:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/883a81ab829cbe637de0fa335c7936d5?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>tiraeth@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixed hideHover=auto for line/area chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/32b06226c2269aafe3b7cf9eb15940063524d3fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/32b06226c2269aafe3b7cf9eb15940063524d3fc"/>
+    <title>
+        draw functionality broken out into methods on each class
+    </title>
+    <updated>2012-12-31T18:09:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;draw functionality broken out into methods on each class&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/14c56165c64297974fc55763d07056c9da463356</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/14c56165c64297974fc55763d07056c9da463356"/>
+    <title>
+        encapsulate all interaction with raphael.  Reuse some methods. Write …
+    </title>
+    <updated>2012-12-30T19:29:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;encapsulate all interaction with raphael.  Reuse some methods. Write tests for all svg structural elements and attributes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7848b494797058faae16acd4e5314f8ffad3bf8d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7848b494797058faae16acd4e5314f8ffad3bf8d"/>
+    <title>
+        differentiate the r variable that stands for radius from the r variab…
+    </title>
+    <updated>2012-12-30T18:00:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;differentiate the r variable that stands for radius from the r variable that stands for raphael&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/80e81894be5bc06cfd53e2c368e499c5e6c4f174</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/80e81894be5bc06cfd53e2c368e499c5e6c4f174"/>
+    <title>
+        add tests for svg output
+    </title>
+    <updated>2012-12-30T17:58:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add tests for svg output&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f70a38f1ad75fe7da31fd975d6a917aec2792f3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4f70a38f1ad75fe7da31fd975d6a917aec2792f3"/>
+    <title>
+        break the ymin/ymax logic out into one method
+    </title>
+    <updated>2012-12-27T22:11:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/597909?s=30&amp;v=4"/>
+    <author>
+      <name>chriserin</name>
+      <uri>https://github.com/chriserin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;break the ymin/ymax logic out into one method&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f53479cf0d11a79d762460f88046cdb0ba81386</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4f53479cf0d11a79d762460f88046cdb0ba81386"/>
+    <title>
+        xLabelMargin optionx.
+    </title>
+    <updated>2012-12-20T19:15:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;xLabelMargin optionx.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0662095c29f83d2fbb8ab88d3dbc7af9614e438d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0662095c29f83d2fbb8ab88d3dbc7af9614e438d"/>
+    <title>
+        Reduce number of options on yLabelFormatter.
+    </title>
+    <updated>2012-12-20T08:05:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reduce number of options on yLabelFormatter.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

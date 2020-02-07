@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.0-beta2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.0-beta2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.0-beta2.atom"/>
+  <title>Recent Commits to Chart.js:2.0.0-beta2</title>
+  <updated>2015-12-28T13:29:54Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a5d698b11ac7915ab640fd01e7a001f6a7b25e7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a5d698b11ac7915ab640fd01e7a001f6a7b25e7"/>
+    <title>
+        Fix some errors with docs that were noticed when building
+    </title>
+    <updated>2015-12-28T13:29:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix some errors with docs that were noticed when building&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e2206ab2696392c11dc495d669be70ebc1a576d3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e2206ab2696392c11dc495d669be70ebc1a576d3"/>
+    <title>
+        Merge pull request #1835 from nnnick/fix/release-v2-beta2
+    </title>
+    <updated>2015-12-27T16:50:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1835 from nnnick/fix/release-v2-beta2
+
+Update build &amp;amp; bump version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ff119756484cf9bfe411133d2d398d3d27a0e007</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ff119756484cf9bfe411133d2d398d3d27a0e007"/>
+    <title>
+        Fix issues identified in PR
+    </title>
+    <updated>2015-12-27T16:48:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix issues identified in PR&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/421e6101501e866959e134ee2e9feca51d049586</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/421e6101501e866959e134ee2e9feca51d049586"/>
+    <title>
+        Update build &amp; bump version
+    </title>
+    <updated>2015-12-27T15:46:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update build &amp;amp; bump version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94a8c9a27f39a020d790a058bcc82b870bdaa6b7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/94a8c9a27f39a020d790a058bcc82b870bdaa6b7"/>
+    <title>
+        Merge pull request #1832 from hallatore/Bug_SuggestedMinVsMin
+    </title>
+    <updated>2015-12-25T15:44:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1832 from hallatore/Bug_SuggestedMinVsMin
+
+min/max should have precedence over suggestedMin/suggestedMax&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a0c359ee8055ca3b26c7eefcd48e937c9a296909</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a0c359ee8055ca3b26c7eefcd48e937c9a296909"/>
+    <title>
+        min/max should have precedence over suggestedMin/suggestedMax
+    </title>
+    <updated>2015-12-25T12:53:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/365605?s=30&amp;v=4"/>
+    <author>
+      <name>hallatore</name>
+      <uri>https://github.com/hallatore</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;min/max should have precedence over suggestedMin/suggestedMax&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/31721a353ce8283b3143844f3eddc63b25e99bb0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/31721a353ce8283b3143844f3eddc63b25e99bb0"/>
+    <title>
+        Merge pull request #1829 from nnnick/fix/1716-1731
+    </title>
+    <updated>2015-12-23T17:22:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1829 from nnnick/fix/1716-1731
+
+Better tooltip positioning&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bbc6f5aa5fdcfd1be9def2787ecddc3003babcba</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bbc6f5aa5fdcfd1be9def2787ecddc3003babcba"/>
+    <title>
+        Fix broken test
+    </title>
+    <updated>2015-12-23T17:00:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix broken test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/968a11a6311a7031c5b03cc2f7724bf3cc190681</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/968a11a6311a7031c5b03cc2f7724bf3cc190681"/>
+    <title>
+        Merge pull request #1826 from hallatore/Bug_BezierCurveAtZero
+    </title>
+    <updated>2015-12-23T14:39:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1826 from hallatore/Bug_BezierCurveAtZero
+
+Fixed bug with bezier still being used with tension set to 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a1940caf913508f0a98f651a4395e0e35ecc842a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a1940caf913508f0a98f651a4395e0e35ecc842a"/>
+    <title>
+        Fixed build error bug with getting tension
+    </title>
+    <updated>2015-12-23T14:29:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/365605?s=30&amp;v=4"/>
+    <author>
+      <name>hallatore</name>
+      <uri>https://github.com/hallatore</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed build error bug with getting tension&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d9e1b2250e6044acfe6ef905e2f5757b48d867c0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d9e1b2250e6044acfe6ef905e2f5757b48d867c0"/>
+    <title>
+        Merge pull request #1827 from hallatore/Bug_AutoSkipCheck
+    </title>
+    <updated>2015-12-23T14:09:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1827 from hallatore/Bug_AutoSkipCheck
+
+Fixed bug with skipRatio check not being triggered correctly.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad67d1ecf85584c7a448fce7cc84c1963cc59bf3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ad67d1ecf85584c7a448fce7cc84c1963cc59bf3"/>
+    <title>
+        Fixed bug with skipRatio check not being triggered correctly.
+    </title>
+    <updated>2015-12-23T12:42:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/365605?s=30&amp;v=4"/>
+    <author>
+      <name>hallatore</name>
+      <uri>https://github.com/hallatore</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed bug with skipRatio check not being triggered correctly.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2c178a5670169a88fd1c2e2cf9931d425e94e25e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2c178a5670169a88fd1c2e2cf9931d425e94e25e"/>
+    <title>
+        Fixed bug with bezier still being used with tension set to 0
+    </title>
+    <updated>2015-12-23T12:36:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/365605?s=30&amp;v=4"/>
+    <author>
+      <name>hallatore</name>
+      <uri>https://github.com/hallatore</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed bug with bezier still being used with tension set to 0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f170fd1b8d73427e8f1762d252101c6f44b0d5f8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f170fd1b8d73427e8f1762d252101c6f44b0d5f8"/>
+    <title>
+        Improvements to tooltip alignment to avoid the canvas edges
+    </title>
+    <updated>2015-12-23T02:35:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improvements to tooltip alignment to avoid the canvas edges&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a4235427756666b4eb96bea71d606a4d18400bb1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a4235427756666b4eb96bea71d606a4d18400bb1"/>
+    <title>
+        Fix tests
+    </title>
+    <updated>2015-12-22T14:13:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d5727d7bc0a91431b067cc678780fb4a9b4d59d6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d5727d7bc0a91431b067cc678780fb4a9b4d59d6"/>
+    <title>
+        Merge pull request #1819 from xriss/v2.0-dev
+    </title>
+    <updated>2015-12-22T13:44:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1819 from xriss/v2.0-dev
+
+gulp-umd&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1221d8311acd5f2f53332ded1a62669e2ab0dcde</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1221d8311acd5f2f53332ded1a62669e2ab0dcde"/>
+    <title>
+        gulp-umd
+    </title>
+    <updated>2015-12-22T13:21:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3142388?s=30&amp;v=4"/>
+    <author>
+      <name>xriss</name>
+      <uri>https://github.com/xriss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;gulp-umd
+
+Explicitly pass root to the factory function.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eb61f5c3fc06174cceacc73fa31f088dfc2fad94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/eb61f5c3fc06174cceacc73fa31f088dfc2fad94"/>
+    <title>
+        Merge pull request #1817 from prashcr/patch-2
+    </title>
+    <updated>2015-12-22T13:19:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1817 from prashcr/patch-2
+
+Add missing comma&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fd668086b2e97c4cdbd63e8a1e25a6ae7270f914</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/fd668086b2e97c4cdbd63e8a1e25a6ae7270f914"/>
+    <title>
+        Merge pull request #1816 from hallatore/Bug_AutoSkip
+    </title>
+    <updated>2015-12-22T13:19:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1816 from hallatore/Bug_AutoSkip
+
+Refactored skipRatio to use the longest label text for calculation.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e7162ca91a704b637852e3a813519a7fcfdbf46</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8e7162ca91a704b637852e3a813519a7fcfdbf46"/>
+    <title>
+        Add missing comma
+    </title>
+    <updated>2015-12-22T09:50:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7514066?s=30&amp;v=4"/>
+    <author>
+      <name>prashcr</name>
+      <uri>https://github.com/prashcr</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add missing comma&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

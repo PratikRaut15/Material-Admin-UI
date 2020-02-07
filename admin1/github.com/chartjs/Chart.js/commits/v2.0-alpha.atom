@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.0-alpha</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.0-alpha"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.0-alpha.atom"/>
+  <title>Recent Commits to Chart.js:v2.0-alpha</title>
+  <updated>2015-06-04T22:17:06Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/669499ef1e722ae9acb210324e616aebf4c46ca3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/669499ef1e722ae9acb210324e616aebf4c46ca3"/>
+    <title>
+        Doughnut/Pie fixes
+    </title>
+    <updated>2015-06-04T22:17:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Doughnut/Pie fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d46a1740801a68664da0885c1a60ccb1dcc77853</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d46a1740801a68664da0885c1a60ccb1dcc77853"/>
+    <title>
+        Gulp Build
+    </title>
+    <updated>2015-06-04T01:45:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Gulp Build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c91bb96e0b03d1dfef3d3f59b8b41101a0301a7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0c91bb96e0b03d1dfef3d3f59b8b41101a0301a7"/>
+    <title>
+        Merge pull request #1159 from etimberg/feature/v2.0dev-nestedConfig
+    </title>
+    <updated>2015-06-04T01:42:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1159 from etimberg/feature/v2.0dev-nestedConfig
+
+Nested configs + major code refactors&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9e9f436454838223f0f540925f064a36b89c0072</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9e9f436454838223f0f540925f064a36b89c0072"/>
+    <title>
+        Bar config cleanup + some initial docs
+    </title>
+    <updated>2015-06-04T00:55:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bar config cleanup + some initial docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cbd2fef80f1cbe516825dee5edbf8eb0e6cf26c9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cbd2fef80f1cbe516825dee5edbf8eb0e6cf26c9"/>
+    <title>
+        Merge branch &#39;feature/v2.0dev-nestedConfig&#39; of https://github.com/eti…
+    </title>
+    <updated>2015-06-04T00:49:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;feature/v2.0dev-nestedConfig&amp;#39; of https://github.com/etimberg/Chart.js into feature/v2.0dev-nestedConfig&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/996e4711717921e3090208549dea28d154646769</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/996e4711717921e3090208549dea28d154646769"/>
+    <title>
+        Missed some commas
+    </title>
+    <updated>2015-06-04T00:49:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Missed some commas&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/70f7dd4c7d00ccc4fbb224412a79d2cdd481c84d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/70f7dd4c7d00ccc4fbb224412a79d2cdd481c84d"/>
+    <title>
+        Default global responsive
+    </title>
+    <updated>2015-06-04T00:47:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Default global responsive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9c106aa8ffdcf73f7db582672858e96363aec692</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9c106aa8ffdcf73f7db582672858e96363aec692"/>
+    <title>
+        Some more line options
+    </title>
+    <updated>2015-06-04T00:46:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Some more line options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7dcee4b40e4ef90dde718dc0f57f4eef98994640</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7dcee4b40e4ef90dde718dc0f57f4eef98994640"/>
+    <title>
+        Additional fixes to line chart docs
+    </title>
+    <updated>2015-06-04T00:33:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Additional fixes to line chart docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f12d1bcb5605887944a19f3f81da3bfa69538a92</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f12d1bcb5605887944a19f3f81da3bfa69538a92"/>
+    <title>
+        Cleaned up line docs a bit and remove unnecessary options
+    </title>
+    <updated>2015-06-04T00:25:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cleaned up line docs a bit and remove unnecessary options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b9ab70f21b2c3ea28b5a8a768e54c393604cdb5b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b9ab70f21b2c3ea28b5a8a768e54c393604cdb5b"/>
+    <title>
+        Cleaned up global config + documentation of global config options
+    </title>
+    <updated>2015-06-03T23:54:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cleaned up global config + documentation of global config options&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c2d6e4c31f027fc2bbba0a594ab41d156523bd71</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c2d6e4c31f027fc2bbba0a594ab41d156523bd71"/>
+    <title>
+        Reset elements for polar area chart
+    </title>
+    <updated>2015-06-03T23:24:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reset elements for polar area chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a6c712323f86ed9d12256f824287202c9d641dd4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a6c712323f86ed9d12256f824287202c9d641dd4"/>
+    <title>
+        Reset elements for donut charts
+    </title>
+    <updated>2015-06-03T23:16:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reset elements for donut charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b93306788b5944554e0b5c93ddcc91f8fdcfb41b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b93306788b5944554e0b5c93ddcc91f8fdcfb41b"/>
+    <title>
+        Merge branch &#39;feature/v2.0dev-nestedConfig&#39; of https://github.com/eti…
+    </title>
+    <updated>2015-06-03T22:36:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;feature/v2.0dev-nestedConfig&amp;#39; of https://github.com/etimberg/Chart.js into feature/v2.0dev-nestedConfig&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2a62e0e04de5cda4caf6fd0dd825ae1e536eb95b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2a62e0e04de5cda4caf6fd0dd825ae1e536eb95b"/>
+    <title>
+        Reset elements for bar charts. Bar multi axis demo also shows differe…
+    </title>
+    <updated>2015-06-03T22:35:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reset elements for bar charts. Bar multi axis demo also shows different colours for each bar.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e5d8b88615f77685c3f44e6fbaf76f5120ea82d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8e5d8b88615f77685c3f44e6fbaf76f5120ea82d"/>
+    <title>
+        Doughnut and polar hovering/clicking
+    </title>
+    <updated>2015-06-03T22:31:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Doughnut and polar hovering/clicking&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b0b6194b2c042fae70206418865859b0074d947</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8b0b6194b2c042fae70206418865859b0074d947"/>
+    <title>
+        No playground
+    </title>
+    <updated>2015-06-03T21:25:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;No playground&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/675a9f827e6fbb94a855602fee2144fbf5b3d28f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/675a9f827e6fbb94a855602fee2144fbf5b3d28f"/>
+    <title>
+        Version bump 2.0.0-alpha
+    </title>
+    <updated>2015-06-03T21:25:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Version bump 2.0.0-alpha&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/235247eb126ead4cad2a4b79070f26a87993576f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/235247eb126ead4cad2a4b79070f26a87993576f"/>
+    <title>
+        example fixes
+    </title>
+    <updated>2015-06-03T21:18:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;example fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b3b58963298d0dfe0b8c6ac19fb12c47b4fd1df1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b3b58963298d0dfe0b8c6ac19fb12c47b4fd1df1"/>
+    <title>
+        Polar Area
+    </title>
+    <updated>2015-06-03T20:45:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Polar Area&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

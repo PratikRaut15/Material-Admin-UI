@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v1.0.1-beta.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.2.atom"/>
+  <title>Recent Commits to Chart.js:v1.0.1-beta.2</title>
+  <updated>2014-07-02T20:51:31Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/02e535cdad4e7ae64f0ea9c89fbb98777496c14b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/02e535cdad4e7ae64f0ea9c89fbb98777496c14b"/>
+    <title>
+        Update bower &amp; package.json with version bump
+    </title>
+    <updated>2014-07-02T20:51:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update bower &amp;amp; package.json with version bump
+
+Forget this literally every time…&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3e1b120cbeff4caa90ff15880a9e0075e70b50f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3e1b120cbeff4caa90ff15880a9e0075e70b50f2"/>
+    <title>
+        Build latest output files for new version
+    </title>
+    <updated>2014-07-02T20:42:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Build latest output files for new version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/95844701bd235a42dd99180a6543e0166f5d8d70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/95844701bd235a42dd99180a6543e0166f5d8d70"/>
+    <title>
+        Mention not committing built files in README.md
+    </title>
+    <updated>2014-07-02T20:39:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Mention not committing built files in README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/403b6751ab399683db269b6b1e73c7b3e2f79cdc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/403b6751ab399683db269b6b1e73c7b3e2f79cdc"/>
+    <title>
+        Change case of README file
+    </title>
+    <updated>2014-07-02T20:38:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change case of README file&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2b81ac832a436854c73095d2b7c1e2513768a5da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2b81ac832a436854c73095d2b7c1e2513768a5da"/>
+    <title>
+        Merge pull request #415 from nnnick/fix/radar-chart-scale-updates
+    </title>
+    <updated>2014-07-02T20:36:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #415 from nnnick/fix/radar-chart-scale-updates
+
+Reflow the Radar before updating to update scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3f9e5ab7a24f0804be1756593d68b70c0e285cf9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3f9e5ab7a24f0804be1756593d68b70c0e285cf9"/>
+    <title>
+        Merge pull request #414 from nnnick/feature/dataset-label-tooltip
+    </title>
+    <updated>2014-07-02T20:36:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #414 from nnnick/feature/dataset-label-tooltip
+
+Add datasetLabel to elements for tooltip templates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/23deaa930703e2e027bee2817bc784ba0f65dfb4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/23deaa930703e2e027bee2817bc784ba0f65dfb4"/>
+    <title>
+        Merge pull request #413 from nnnick/fix/sparse-dataset-tooltip
+    </title>
+    <updated>2014-07-02T20:36:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #413 from nnnick/fix/sparse-dataset-tooltip
+
+Prevent spare datasets from breaking MultiTooltips&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2183d09b58eb04e647c7f9aad3024c6203142968</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2183d09b58eb04e647c7f9aad3024c6203142968"/>
+    <title>
+        Merge pull request #409 from BrettBukowski/commonjs
+    </title>
+    <updated>2014-07-02T20:36:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #409 from BrettBukowski/commonjs
+
+Add support for CommonJS module definition&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea9d144c71819cbb3499d0640102689e10e25a02</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ea9d144c71819cbb3499d0640102689e10e25a02"/>
+    <title>
+        Reflow the Radar before updating to update scale
+    </title>
+    <updated>2014-07-02T20:28:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reflow the Radar before updating to update scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a231313668f3b3dfe949dabd2c8da69f9088c55</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7a231313668f3b3dfe949dabd2c8da69f9088c55"/>
+    <title>
+        Add datasetLabel to elements for tooltip templates
+    </title>
+    <updated>2014-07-02T20:27:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add datasetLabel to elements for tooltip templates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7632efe65dde5deb2a19c01aa3d01d91458ef56</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d7632efe65dde5deb2a19c01aa3d01d91458ef56"/>
+    <title>
+        Prevent spare datasets from breaking MultiTooltips
+    </title>
+    <updated>2014-07-02T20:09:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Prevent spare datasets from breaking MultiTooltips&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/477e09f1d406b71f0c3f8990da7d0037c427125f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/477e09f1d406b71f0c3f8990da7d0037c427125f"/>
+    <title>
+        Add support for CommonJS module definition
+    </title>
+    <updated>2014-07-01T21:39:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/224622?s=30&amp;v=4"/>
+    <author>
+      <name>BrettBukowski</name>
+      <uri>https://github.com/BrettBukowski</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add support for CommonJS module definition&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/641fc022125d1430a738198564d391d35365a597</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/641fc022125d1430a738198564d391d35365a597"/>
+    <title>
+        1.0.1-beta Update for bower/package.json
+    </title>
+    <updated>2014-07-01T10:02:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.0.1-beta Update for bower/package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a55fdaad57644a66f9b046b299adcce55dcc265c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a55fdaad57644a66f9b046b299adcce55dcc265c"/>
+    <title>
+        Merge pull request #402 from nnnick/fix/point-dot-option
+    </title>
+    <updated>2014-06-30T21:12:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #402 from nnnick/fix/point-dot-option
+
+Fix option for pointDot not being obeyed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d006558e69c5d04908636ed6ae4710bd4cfb38d4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d006558e69c5d04908636ed6ae4710bd4cfb38d4"/>
+    <title>
+        Merge pull request #392 from jbrooksuk/doc-update
+    </title>
+    <updated>2014-06-30T21:02:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #392 from jbrooksuk/doc-update
+
+Make javascript JavaScript and Github GitHub&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29ae3200a75aeec32c3520a85d6a52405ad87c3a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/29ae3200a75aeec32c3520a85d6a52405ad87c3a"/>
+    <title>
+        Default display of chart point to true
+    </title>
+    <updated>2014-06-30T20:54:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Default display of chart point to true&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/38d1b87e1cd193a78298abca0701c308af29e5c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/38d1b87e1cd193a78298abca0701c308af29e5c2"/>
+    <title>
+        Adhere to pointDot option in config
+    </title>
+    <updated>2014-06-30T19:24:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adhere to pointDot option in config
+
+- Added `display` property on Point classes, to determine whether the
+draw sequence should run or not.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e139ab85969c92916639f6fa026740e3cc8dc0ff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e139ab85969c92916639f6fa026740e3cc8dc0ff"/>
+    <title>
+        Make javascript JavaScript and Github GitHub
+    </title>
+    <updated>2014-06-30T10:50:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/246103?s=30&amp;v=4"/>
+    <author>
+      <name>jbrooksuk</name>
+      <uri>https://github.com/jbrooksuk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make javascript JavaScript and Github GitHub&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28dd492460ebc9f45cad658a409767e6114373f0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/28dd492460ebc9f45cad658a409767e6114373f0"/>
+    <title>
+        Extending chart types docs typo error
+    </title>
+    <updated>2014-06-30T09:04:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Extending chart types docs typo error&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f13f99b7d71ae77b4d98726d2b8613bc46b8b07d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f13f99b7d71ae77b4d98726d2b8613bc46b8b07d"/>
+    <title>
+        Merge pull request #388 from nnnick/v1-dev
+    </title>
+    <updated>2014-06-29T18:18:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #388 from nnnick/v1-dev
+
+Version 1.0.0-beta release&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

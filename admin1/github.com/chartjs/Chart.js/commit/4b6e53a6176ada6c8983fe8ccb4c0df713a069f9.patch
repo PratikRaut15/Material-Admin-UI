@@ -1,0 +1,109 @@
+From 4b6e53a6176ada6c8983fe8ccb4c0df713a069f9 Mon Sep 17 00:00:00 2001
+From: Jukka Kurkela <jukka.kurkela@gmail.com>
+Date: Fri, 21 Dec 2018 08:56:53 +0200
+Subject: [PATCH] Properly calculate space needed by tick label on autoSkip
+ (#5922)
+
+---
+ src/core/core.scale.js         | 50 +++++++++++++++++++++++++---------
+ test/specs/core.scale.tests.js |  8 ++++--
+ 2 files changed, 43 insertions(+), 15 deletions(-)
+
+diff --git a/src/core/core.scale.js b/src/core/core.scale.js
+index a538b5efa..690491fbc 100644
+--- a/src/core/core.scale.js
++++ b/src/core/core.scale.js
+@@ -415,6 +415,9 @@ module.exports = Element.extend({
+ 			var lineSpace = tickFont.size * 0.5;
+ 			var tickPadding = me.options.ticks.padding;
+ 
++			// Store max number of lines used in labels for _autoSkip
++			me._maxLabelLines = tallestLabelHeightInLines;
++
+ 			if (isHorizontal) {
+ 				// A horizontal axis is more constrained by the height.
+ 				me.longestLabelWidth = largestTextWidth;
+@@ -616,9 +619,32 @@ module.exports = Element.extend({
+ 		var isHorizontal = me.isHorizontal();
+ 		var optionTicks = me.options.ticks.minor;
+ 		var tickCount = ticks.length;
+-		var labelRotationRadians = helpers.toRadians(me.labelRotation);
+-		var cosRotation = Math.cos(labelRotationRadians);
+-		var longestRotatedLabel = me.longestLabelWidth * cosRotation;
++
++		// Calculate space needed by label in axis direction.
++		var rot = helpers.toRadians(me.labelRotation);
++		var cos = Math.abs(Math.cos(rot));
++		var sin = Math.abs(Math.sin(rot));
++
++		var padding = optionTicks.autoSkipPadding;
++		var w = me.longestLabelWidth + padding || 0;
++
++		var tickFont = helpers.options._parseFont(optionTicks);
++		var h = me._maxLabelLines * tickFont.lineHeight + padding;
++
++		// Calculate space needed for 1 tick in axis direction.
++		var tickSize = isHorizontal
++			? h * cos > w * sin ? w / cos : h / sin
++			: h * sin < w * cos ? h / cos : w / sin;
++
++		// Total space needed to display all ticks. First and last ticks are
++		// drawn as their center at end of axis, so tickCount-1
++		var ticksLength = tickSize * (tickCount - 1);
++
++		// Axis length
++		var axisLength = isHorizontal
++			? me.width - (me.paddingLeft + me.paddingRight)
++			: me.height - (me.paddingTop + me.PaddingBottom);
++
+ 		var result = [];
+ 		var i, tick;
+ 
+@@ -628,18 +654,16 @@ module.exports = Element.extend({
+ 			maxTicks = optionTicks.maxTicksLimit;
+ 		}
+ 
+-		if (isHorizontal) {
+-			skipRatio = false;
++		skipRatio = false;
+ 
+-			if ((longestRotatedLabel + optionTicks.autoSkipPadding) * tickCount > (me.width - (me.paddingLeft + me.paddingRight))) {
+-				skipRatio = 1 + Math.floor(((longestRotatedLabel + optionTicks.autoSkipPadding) * tickCount) / (me.width - (me.paddingLeft + me.paddingRight)));
+-			}
++		if (ticksLength > axisLength) {
++			skipRatio = 1 + Math.floor(ticksLength / axisLength);
++		}
+ 
+-			// if they defined a max number of optionTicks,
+-			// increase skipRatio until that number is met
+-			if (maxTicks && tickCount > maxTicks) {
+-				skipRatio = Math.max(skipRatio, Math.floor(tickCount / maxTicks));
+-			}
++		// if they defined a max number of optionTicks,
++		// increase skipRatio until that number is met
++		if (maxTicks && tickCount > maxTicks) {
++			skipRatio = Math.max(skipRatio, 1 + Math.floor(tickCount / maxTicks));
+ 		}
+ 
+ 		for (i = 0; i < tickCount; i++) {
+diff --git a/test/specs/core.scale.tests.js b/test/specs/core.scale.tests.js
+index 175f47403..3cbd0cbe6 100644
+--- a/test/specs/core.scale.tests.js
++++ b/test/specs/core.scale.tests.js
+@@ -60,10 +60,14 @@ describe('Core.scale', function() {
+ 				labels: [
+ 					'January 2018', 'February 2018', 'March 2018', 'April 2018',
+ 					'May 2018', 'June 2018', 'July 2018', 'August 2018',
+-					'September 2018', 'October 2018', 'November 2018', 'December 2018'
++					'September 2018', 'October 2018', 'November 2018', 'December 2018',
++					'January 2019', 'February 2019', 'March 2019', 'April 2019',
++					'May 2019', 'June 2019', 'July 2019', 'August 2019',
++					'September 2019', 'October 2019', 'November 2019', 'December 2019',
++					'January 2020', 'February 2020'
+ 				],
+ 				datasets: [{
+-					data: [12, 19, 3, 5, 2, 3, 7, 8, 9, 10, 11, 12]
++					data: [12, 19, 3, 5, 2, 3, 7, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+ 				}]
+ 			});
+ 

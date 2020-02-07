@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.6.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.6.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.6.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.6.0</title>
+  <updated>2017-05-25T14:00:45Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28cb390c4102fc34391289d955d342281cac0e85</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/28cb390c4102fc34391289d955d342281cac0e85"/>
+    <title>
+        Release 2.6.0
+    </title>
+    <updated>2017-05-25T14:00:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.6.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4d553155af3e40e11422f0ec7b5794e166c98f95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4d553155af3e40e11422f0ec7b5794e166c98f95"/>
+    <title>
+        Attempt to fix the failing deploy step
+    </title>
+    <updated>2017-05-25T13:53:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Attempt to fix the failing deploy step&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2798861cae202006e640bc6801b063b454af9138</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2798861cae202006e640bc6801b063b454af9138"/>
+    <title>
+        Merge pull request #4236 from chartjs/master
+    </title>
+    <updated>2017-05-25T13:34:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4236 from chartjs/master
+
+Version 2.6.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4dda5529b99df739e6af6f209486b47dc34e8e5f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4dda5529b99df739e6af6f209486b47dc34e8e5f"/>
+    <title>
+        Bump version to v2.6.0 (#4237)
+    </title>
+    <updated>2017-05-19T20:08:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to v2.6.0 (#4237)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f67266df3cccf5d7e191b44d515d8a6ddb3e387</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9f67266df3cccf5d7e191b44d515d8a6ddb3e387"/>
+    <title>
+        Deploy to GitHub pages (#4256)
+    </title>
+    <updated>2017-05-19T19:58:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Deploy to GitHub pages (#4256)
+
+Add Travis CI task to deploy the docs, samples and dist files to chartjs.github.io for the `release` and `master` branches. A `latest` symbolic links is also created for each folder to the highest version (or `master` if any).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0075373bec751f681253355ad5237da68f129405</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0075373bec751f681253355ad5237da68f129405"/>
+    <title>
+        Add GA tracking code to docs
+    </title>
+    <updated>2017-05-19T19:44:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add GA tracking code to docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/20452ddb7c7569c87b4379b1940a0efd5e4a5043</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/20452ddb7c7569c87b4379b1940a0efd5e4a5043"/>
+    <title>
+        Fix invalid link in area.md (#4257)
+    </title>
+    <updated>2017-05-13T17:30:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/8369011?s=30&amp;v=4"/>
+    <author>
+      <name>xg-wang</name>
+      <uri>https://github.com/xg-wang</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix invalid link in area.md (#4257)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aa76bc6d7ed1ce6e14fc433ff9d8d1dc60abc00a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/aa76bc6d7ed1ce6e14fc433ff9d8d1dc60abc00a"/>
+    <title>
+        Enable the &#39;search-plus&#39; GitBook plugin
+    </title>
+    <updated>2017-05-13T16:17:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enable the &amp;#39;search-plus&amp;#39; GitBook plugin&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/50e2ba953de8949347bbce55a7c0ff14e5dad09b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/50e2ba953de8949347bbce55a7c0ff14e5dad09b"/>
+    <title>
+        Use https to load scripts from CDN in samples (#4255)
+    </title>
+    <updated>2017-05-13T15:24:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use https to load scripts from CDN in samples (#4255)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0bbc3fa8f3f3031da23923670429aeca0a3e4af1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0bbc3fa8f3f3031da23923670429aeca0a3e4af1"/>
+    <title>
+        Added width + height arguments to ctx.drawImage
+    </title>
+    <updated>2017-05-13T13:26:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/236781?s=30&amp;v=4"/>
+    <author>
+      <name>jgmcelwain</name>
+      <uri>https://github.com/jgmcelwain</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added width + height arguments to ctx.drawImage
+
+Previous functionality meant that images would be drawn at their source file size regardless of whether custom width or height properties were set.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e45ac3c94587457448bd2f466f23bd8e639f9f47</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e45ac3c94587457448bd2f466f23bd8e639f9f47"/>
+    <title>
+        Make &quot;dedicated to the chart canvas&quot; a requirement (#4253)
+    </title>
+    <updated>2017-05-13T12:14:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make &amp;quot;dedicated to the chart canvas&amp;quot; a requirement (#4253)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4c00b58342c5f46c5c54ec3caddd518c45fdf9f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c4c00b58342c5f46c5c54ec3caddd518c45fdf9f"/>
+    <title>
+        Fix RequireJS doc to use UMD file instead (#4252)
+    </title>
+    <updated>2017-05-13T12:14:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix RequireJS doc to use UMD file instead (#4252)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ff5d489c14bbc1cd6b7fab383095cd2c25afe71</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3ff5d489c14bbc1cd6b7fab383095cd2c25afe71"/>
+    <title>
+        Document the new filling modes and options (#4251)
+    </title>
+    <updated>2017-05-13T12:13:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Document the new filling modes and options (#4251)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7335bf1eeec93092b5141dbfc64ca69cdda3e90</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d7335bf1eeec93092b5141dbfc64ca69cdda3e90"/>
+    <title>
+        initial data update docs
+    </title>
+    <updated>2017-05-08T22:44:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;initial data update docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d9542227a8df4e7a4f61e9829666d53533f874b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d9542227a8df4e7a4f61e9829666d53533f874b2"/>
+    <title>
+        Remove executable bit from js files (#4222)
+    </title>
+    <updated>2017-05-07T17:35:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove executable bit from js files (#4222)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f793a715fd9033ae475d5d524733668b7492c91</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9f793a715fd9033ae475d5d524733668b7492c91"/>
+    <title>
+        Remove unnecessary variable
+    </title>
+    <updated>2017-05-02T01:37:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove unnecessary variable&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f0c6b3f8342e2406c250329336037a7f7004284e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f0c6b3f8342e2406c250329336037a7f7004284e"/>
+    <title>
+        Fix legend and title layout options update
+    </title>
+    <updated>2017-04-29T15:38:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix legend and title layout options update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/34292cb3350063eee3ca158b3e44388a591ecdd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/34292cb3350063eee3ca158b3e44388a591ecdd8"/>
+    <title>
+        Add financial chart type to plugin docs
+    </title>
+    <updated>2017-04-29T15:38:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add financial chart type to plugin docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8811759e1c986fff719af3a0cd2cbdfdcef8ae79</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8811759e1c986fff719af3a0cd2cbdfdcef8ae79"/>
+    <title>
+        Remove malformed comment
+    </title>
+    <updated>2017-04-26T22:53:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove malformed comment
+
+Fixes https://github.com/chartjs/Chart.js/issues/4181&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a75ae13b07e8326d7f83b8cd578a53fedff9756f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a75ae13b07e8326d7f83b8cd578a53fedff9756f"/>
+    <title>
+        Make it clear that labels need to be specified when using a category …
+    </title>
+    <updated>2017-04-23T11:28:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make it clear that labels need to be specified when using a category axis on a line chart&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

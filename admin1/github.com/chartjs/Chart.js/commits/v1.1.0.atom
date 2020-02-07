@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v1.1.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v1.1.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v1.1.0.atom"/>
+  <title>Recent Commits to Chart.js:v1.1.0</title>
+  <updated>2016-04-01T16:03:30Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ef923dfe289fc41326be58f3f6e4d991c8eb741f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ef923dfe289fc41326be58f3f6e4d991c8eb741f"/>
+    <title>
+        Update package + built files to 1.1.0 version
+    </title>
+    <updated>2016-04-01T16:03:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update package + built files to 1.1.0 version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3f73433831227e64b563fd0c191ef7ee97269cb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3f73433831227e64b563fd0c191ef7ee97269cb9"/>
+    <title>
+        Fixes #2185
+    </title>
+    <updated>2016-03-29T23:41:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes #2185
+Undoes the merge of #1334&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7117bc79235f23832cec04568cad8a808f82737</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d7117bc79235f23832cec04568cad8a808f82737"/>
+    <title>
+        Add title of license to license file. Fixes #2097
+    </title>
+    <updated>2016-03-13T14:20:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add title of license to license file. Fixes #2097&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cf767f71a24532f63ea7da73fee02bcd65c06a2e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cf767f71a24532f63ea7da73fee02bcd65c06a2e"/>
+    <title>
+        Merge pull request #2093 from aaron-em/angleLineInterval
+    </title>
+    <updated>2016-03-13T14:09:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2093 from aaron-em/angleLineInterval
+
+Add angleLineInterval option&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/668b532fbee9dca9b75a5981aab949e7513a9388</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/668b532fbee9dca9b75a5981aab949e7513a9388"/>
+    <title>
+        Add angleLineInterval option to radar chart
+    </title>
+    <updated>2016-03-13T13:59:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/5650970?s=30&amp;v=4"/>
+    <author>
+      <name>aaron-em</name>
+      <uri>https://github.com/aaron-em</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add angleLineInterval option to radar chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6507f5c0872705c7853dd5a0a6d112ea9d843e7e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6507f5c0872705c7853dd5a0a6d112ea9d843e7e"/>
+    <title>
+        Merge pull request #2118 from davidcochrum/master
+    </title>
+    <updated>2016-03-11T18:29:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2118 from davidcochrum/master
+
+Fix multi-dataset bar highlighting and bar highlight color logic&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/131b18059a095502f14d1da0374a9b9155eac87e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/131b18059a095502f14d1da0374a9b9155eac87e"/>
+    <title>
+        Update Chart.js
+    </title>
+    <updated>2016-03-11T17:21:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/10524697?s=30&amp;v=4"/>
+    <author>
+      <name>davidcochrum</name>
+      <uri>https://github.com/davidcochrum</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Chart.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/48c082b04ae3ab303b6158c7bfa1bbe41cf9adf2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/48c082b04ae3ab303b6158c7bfa1bbe41cf9adf2"/>
+    <title>
+        Fix multi-dataset bar highlighting and bar highlight color logic
+    </title>
+    <updated>2016-03-11T17:19:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/8f38ca7ead5c8fd253dfe1daa4d58bbe?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>dcochrum@sonnysdirect.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix multi-dataset bar highlighting and bar highlight color logic&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cf4754324326e3efca238d4aa4c3d047d8ddf2e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cf4754324326e3efca238d4aa4c3d047d8ddf2e2"/>
+    <title>
+        Fix multi-dataset bar highlighting and bar highlight color logic
+    </title>
+    <updated>2016-03-11T17:16:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/8f38ca7ead5c8fd253dfe1daa4d58bbe?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>dcochrum@sonnysdirect.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix multi-dataset bar highlighting and bar highlight color logic&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3f2119526d929ea22f8c971c47a242b4a958cdda</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3f2119526d929ea22f8c971c47a242b4a958cdda"/>
+    <title>
+        Fix #2102
+    </title>
+    <updated>2016-03-07T00:03:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix #2102&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d17c76ea1a5c393b62f07303cc2f96f11ae73b5b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d17c76ea1a5c393b62f07303cc2f96f11ae73b5b"/>
+    <title>
+        Merge pull request #2090 from aaron-em/patch-1
+    </title>
+    <updated>2016-03-02T21:24:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2090 from aaron-em/patch-1
+
+Mention that 1.x is feature-complete&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/af3bcd5cfee9543c1d0f9fea478eb9c083fed5e7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/af3bcd5cfee9543c1d0f9fea478eb9c083fed5e7"/>
+    <title>
+        Mention that 1.x is feature-complete
+    </title>
+    <updated>2016-03-02T21:20:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/5650970?s=30&amp;v=4"/>
+    <author>
+      <name>aaron-em</name>
+      <uri>https://github.com/aaron-em</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Mention that 1.x is feature-complete
+
+It&amp;#39;ll help would-be contributors (such as myself, see #2058) avoid creating PRs that won&amp;#39;t be accepted.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea0d93c9703faccbde85f7039c556210a6a45124</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ea0d93c9703faccbde85f7039c556210a6a45124"/>
+    <title>
+        Merge pull request #1070 from mackuba/stop_animations
+    </title>
+    <updated>2016-02-27T20:46:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1070 from mackuba/stop_animations
+
+Stop animations when destroying a chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/43606d1faaa108ea91c3329b6a675cf4d8152736</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/43606d1faaa108ea91c3329b6a675cf4d8152736"/>
+    <title>
+        Merge pull request #1334 from thePanz/patch-2
+    </title>
+    <updated>2016-02-20T18:29:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1334 from thePanz/patch-2
+
+Fix error in generateLegend() function&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6009b00f748ecd94401b730e97917b8bf718717f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6009b00f748ecd94401b730e97917b8bf718717f"/>
+    <title>
+        Merge pull request #1886 from coolbombom/patch-4
+    </title>
+    <updated>2016-02-20T18:11:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/382183?s=30&amp;v=4"/>
+    <author>
+      <name>fulldecent</name>
+      <uri>https://github.com/fulldecent</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1886 from coolbombom/patch-4
+
+having differnt colors in one dataset&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d6209271be212718fce28df241c960556a55ab6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8d6209271be212718fce28df241c960556a55ab6"/>
+    <title>
+        Add link to slack invite
+    </title>
+    <updated>2016-02-20T04:21:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3588778?s=30&amp;v=4"/>
+    <author>
+      <name>derekperkins</name>
+      <uri>https://github.com/derekperkins</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add link to slack invite&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/57753b8280b78aaffd7f77dbeeafdb45c4b6f5c6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/57753b8280b78aaffd7f77dbeeafdb45c4b6f5c6"/>
+    <title>
+        update to new gulp and new uglify version.
+    </title>
+    <updated>2016-02-16T00:22:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update to new gulp and new uglify version.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/111ada730cd69452e5c8303c72f4b50063b4474a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/111ada730cd69452e5c8303c72f4b50063b4474a"/>
+    <title>
+        Fix typo in docs. Fixes #1042
+    </title>
+    <updated>2016-02-15T21:42:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix typo in docs. Fixes #1042&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4aa274d5b2c82e28f7a7b2bb78db23b0429255a1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4aa274d5b2c82e28f7a7b2bb78db23b0429255a1"/>
+    <title>
+        Default multiTooltipTemplate now shows the dataset label + updated bu…
+    </title>
+    <updated>2016-02-15T19:43:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Default multiTooltipTemplate now shows the dataset label + updated built files. Fixes #612&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f4f804a7180e8b0a43ee4c551479a540a271c26</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4f4f804a7180e8b0a43ee4c551479a540a271c26"/>
+    <title>
+        Use a named define to fix #768
+    </title>
+    <updated>2016-02-15T19:38:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use a named define to fix #768&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

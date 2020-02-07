@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0.5.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0.5.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0.5.0.atom"/>
+  <title>Recent Commits to morris.js:0.5.0</title>
+  <updated>2014-03-19T20:59:42Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d31c072942bc5bf3f02247737c01b5219a35464c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d31c072942bc5bf3f02247737c01b5219a35464c"/>
+    <title>
+        Update links in README.
+    </title>
+    <updated>2014-03-19T20:59:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update links in README.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3063cf5688d7459e12544a4bce43b9f6ad46759d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/3063cf5688d7459e12544a4bce43b9f6ad46759d"/>
+    <title>
+        Fix specs.
+    </title>
+    <updated>2014-03-19T20:55:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix specs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41c37751565be6ee4539eb220a2d82081000b5c7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/41c37751565be6ee4539eb220a2d82081000b5c7"/>
+    <title>
+        Merge pull request #380 from kara/patch-1
+    </title>
+    <updated>2014-03-19T20:31:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #380 from kara/patch-1
+
+Update copyright year in license to 2014&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/725d50400df6ed221bd1b31192dc09c6bfd52fd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/725d50400df6ed221bd1b31192dc09c6bfd52fd8"/>
+    <title>
+        Update copyright year in license to include 2014
+    </title>
+    <updated>2014-03-09T23:29:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/970b1ef52cf13a8a04527018df211fb7?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>kara.erickson3@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update copyright year in license to include 2014&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a758c20484b6e1a4928051af97520de84ddca5c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a758c20484b6e1a4928051af97520de84ddca5c8"/>
+    <title>
+        Update copyright year in license to 2014
+    </title>
+    <updated>2014-03-09T23:10:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/970b1ef52cf13a8a04527018df211fb7?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>kara.erickson3@gmail.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update copyright year in license to 2014&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d25af9098c808cb2620a57fbac242dc7a727bf8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2d25af9098c808cb2620a57fbac242dc7a727bf8"/>
+    <title>
+        Re-build.
+    </title>
+    <updated>2014-02-23T19:54:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Re-build.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b2f0a7aadea89262de5a4aa56e61540e3c91066</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4b2f0a7aadea89262de5a4aa56e61540e3c91066"/>
+    <title>
+        Merge pull request #365 from morrisjs/multiple-deps
+    </title>
+    <updated>2014-02-05T13:01:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/14304?s=30&amp;v=4"/>
+    <author>
+      <name>simonoff</name>
+      <uri>https://github.com/simonoff</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #365 from morrisjs/multiple-deps
+
+Tests refactoring&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4fe3a644e4969fd1681d5ab11cbbdea504cc98f1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4fe3a644e4969fd1681d5ab11cbbdea504cc98f1"/>
+    <title>
+        Update grunt-mocha package for 1.6.0 compatibility
+    </title>
+    <updated>2014-02-05T12:38:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update grunt-mocha package for 1.6.0 compatibility&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad0615467ec0711bd3c7266028e8ec506be7ba34</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ad0615467ec0711bd3c7266028e8ec506be7ba34"/>
+    <title>
+        Change prettify to be from cdn too
+    </title>
+    <updated>2014-02-05T12:28:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change prettify to be from cdn too&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c7a90c7ed2f539146be44abfcb164f8c6961bb35</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c7a90c7ed2f539146be44abfcb164f8c6961bb35"/>
+    <title>
+        Fix opening examples locally
+    </title>
+    <updated>2014-02-05T05:52:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/14304?s=30&amp;v=4"/>
+    <author>
+      <name>simonoff</name>
+      <uri>https://github.com/simonoff</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix opening examples locally&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c36593d7a3b1bc2b0f4619397f89de726c663263</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c36593d7a3b1bc2b0f4619397f89de726c663263"/>
+    <title>
+        Use only one version of node.js. Fix Raphael.js version strings.
+    </title>
+    <updated>2014-02-02T17:20:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/14304?s=30&amp;v=4"/>
+    <author>
+      <name>simonoff</name>
+      <uri>https://github.com/simonoff</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use only one version of node.js. Fix Raphael.js version strings.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0f602d116be7ee6ea031d7988161431cb8f73528</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0f602d116be7ee6ea031d7988161431cb8f73528"/>
+    <title>
+        Removing third_party folder. Using cdn links in examples. Using bower…
+    </title>
+    <updated>2014-02-02T17:15:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/14304?s=30&amp;v=4"/>
+    <author>
+      <name>simonoff</name>
+      <uri>https://github.com/simonoff</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removing third_party folder. Using cdn links in examples. Using bower.js for deps. Build matrix for Travic-CI.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ecd6fd71552deeed9ef28f66de1538f1223f3645</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ecd6fd71552deeed9ef28f66de1538f1223f3645"/>
+    <title>
+        Merge pull request #359 from sudodoki/feature/#352
+    </title>
+    <updated>2014-01-30T20:57:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #359 from sudodoki/feature/#352
+
+Add license header for coffee &amp;amp; js files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e38ecc593ab0b1c68ab5cfcef02063f46021f2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8e38ecc593ab0b1c68ab5cfcef02063f46021f2b"/>
+    <title>
+        Add license header for coffee &amp; js files
+    </title>
+    <updated>2014-01-30T12:57:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add license header for coffee &amp;amp; js files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/07c740414b2553596b5b7c23197a09af4acd933d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/07c740414b2553596b5b7c23197a09af4acd933d"/>
+    <title>
+        Merge pull request #358 from sudodoki/feature/#311
+    </title>
+    <updated>2014-01-30T07:07:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #358 from sudodoki/feature/#311
+
+Feature - bar max width&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3e50aac93260ae9b5d0f63e0a7979cafcd71a67</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e3e50aac93260ae9b5d0f63e0a7979cafcd71a67"/>
+    <title>
+        Implement #311: feature - bar max width
+    </title>
+    <updated>2014-01-29T23:57:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Implement #311: feature - bar max width&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7bce55890f6642c187810f3e8589e5cfdf368bdb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7bce55890f6642c187810f3e8589e5cfdf368bdb"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2013-12-16T21:33:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/88a14d952a13fa15b07b858ccbc3046d955a1a08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/88a14d952a13fa15b07b858ccbc3046d955a1a08"/>
+    <title>
+        Update docs and metadata.
+    </title>
+    <updated>2013-11-11T21:44:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update docs and metadata.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c1e40c13f416f880fb55b40be2feb28e24a40329</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c1e40c13f416f880fb55b40be2feb28e24a40329"/>
+    <title>
+        Add note on pdiffs.
+    </title>
+    <updated>2013-11-11T21:00:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add note on pdiffs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/85730ec938b9565d3decae3bbf045bbf5bb26c94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/85730ec938b9565d3decae3bbf045bbf5bb26c94"/>
+    <title>
+        Remove perceptualdiff from travis config.
+    </title>
+    <updated>2013-11-11T20:58:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove perceptualdiff from travis config.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

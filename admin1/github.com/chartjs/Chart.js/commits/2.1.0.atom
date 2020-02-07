@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.1.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.1.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.1.0.atom"/>
+  <title>Recent Commits to Chart.js:2.1.0</title>
+  <updated>2016-05-03T21:53:09Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2ee37e12e379ca9b8ad3be7105715bf8c543ead0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2ee37e12e379ca9b8ad3be7105715bf8c543ead0"/>
+    <title>
+        2.1.0 build
+    </title>
+    <updated>2016-05-03T21:53:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;2.1.0 build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c2cc3fbb4c550ae89091a54a00e224524eb479d0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c2cc3fbb4c550ae89091a54a00e224524eb479d0"/>
+    <title>
+        Feature #73 - Horizontal Bar Chart (#2448)
+    </title>
+    <updated>2016-05-03T21:45:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/300494?s=30&amp;v=4"/>
+    <author>
+      <name>potatopeelings</name>
+      <uri>https://github.com/potatopeelings</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Feature #73 - Horizontal Bar Chart (#2448)
+
+* Horizontal bar chart type
+
+* Mentioned horizontal bar chart in bar documentation
+
+* Sample file for horizontal bar chart
+
+* Missing semicolon
+
+* Fix for borderSkipped index&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/60dbf49ef0f82373471ec3c61ba7681846efb5b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/60dbf49ef0f82373471ec3c61ba7681846efb5b2"/>
+    <title>
+        Merge pull request #2433 from vincchan/fix-doc-links-anchors
+    </title>
+    <updated>2016-05-02T14:21:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2433 from vincchan/fix-doc-links-anchors
+
+fixes anchors and links in docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29606ae21f2aa279e9b3fd4cafda0c7be3da3599</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/29606ae21f2aa279e9b3fd4cafda0c7be3da3599"/>
+    <title>
+        changes repo link to chartjs org
+    </title>
+    <updated>2016-05-02T14:01:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/868272?s=30&amp;v=4"/>
+    <author>
+      <name>vincchan</name>
+      <uri>https://github.com/vincchan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;changes repo link to chartjs org&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/adacef8194ecf43464085d02c4232d5d25286d2c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/adacef8194ecf43464085d02c4232d5d25286d2c"/>
+    <title>
+        fixes several anchors
+    </title>
+    <updated>2016-05-02T13:57:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/868272?s=30&amp;v=4"/>
+    <author>
+      <name>vincchan</name>
+      <uri>https://github.com/vincchan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixes several anchors&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/38373300eef9fe31204e8421cae1263a5f3b94d0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/38373300eef9fe31204e8421cae1263a5f3b94d0"/>
+    <title>
+        Improve time scale for zoom and pan
+    </title>
+    <updated>2016-05-01T16:40:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve time scale for zoom and pan
+
+* Improve time scale for zoom and pan
+Improve category scale when zoomed
+
+* Fix CI test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/81a5b4e3c05e74e6ee973c02d780a85f57e1657b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/81a5b4e3c05e74e6ee973c02d780a85f57e1657b"/>
+    <title>
+        Updated build
+    </title>
+    <updated>2016-04-30T15:16:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cb54f30c970672488a239a2d371d55dfe3fb8864</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cb54f30c970672488a239a2d371d55dfe3fb8864"/>
+    <title>
+        Implement getValueForPixel for category scale
+    </title>
+    <updated>2016-04-30T12:39:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Implement getValueForPixel for category scale&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/56411bdcd48e9814c1a2d768e8c4eb0b449bd24a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/56411bdcd48e9814c1a2d768e8c4eb0b449bd24a"/>
+    <title>
+        Increase tolerance for CI
+    </title>
+    <updated>2016-04-30T00:07:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Increase tolerance for CI&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6df9b24ecda2f739192435ac5d4ab9da8b9c716e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6df9b24ecda2f739192435ac5d4ab9da8b9c716e"/>
+    <title>
+        Merge from feature/pan-support
+    </title>
+    <updated>2016-04-30T00:03:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge from feature/pan-support
+All tests are passing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99c2d67813667be5117cb5dc4f23d10cea10847a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/99c2d67813667be5117cb5dc4f23d10cea10847a"/>
+    <title>
+        Merge pull request #2421 from mchateloin/pie-demo-randomize-colors
+    </title>
+    <updated>2016-04-29T22:18:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2421 from mchateloin/pie-demo-randomize-colors
+
+Randomize data button randomizes colors in pie chart demo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3067249376405b77b088128c3eac761f855e85dd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3067249376405b77b088128c3eac761f855e85dd"/>
+    <title>
+        Randomize data button randomizes colors in pie chart demo
+    </title>
+    <updated>2016-04-29T21:47:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1750298?s=30&amp;v=4"/>
+    <author>
+      <name>migsc</name>
+      <uri>https://github.com/migsc</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Randomize data button randomizes colors in pie chart demo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/adc430fc66c7856e048bc26cdedee3f2ced500e0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/adc430fc66c7856e048bc26cdedee3f2ced500e0"/>
+    <title>
+        Include correct script in pie custom tooltips sample
+    </title>
+    <updated>2016-04-29T17:08:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Include correct script in pie custom tooltips sample
+Fixes issue #2369&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7cbc08aed7698e82f041dd4464384a1b1b1ea816</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7cbc08aed7698e82f041dd4464384a1b1b1ea816"/>
+    <title>
+        Add license field to package files
+    </title>
+    <updated>2016-04-29T03:23:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add license field to package files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/516bf6a456374d323d7b15cf74dddbb3ceb940f9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/516bf6a456374d323d7b15cf74dddbb3ceb940f9"/>
+    <title>
+        Merge pull request #2412 from zachpanz88/patch-3
+    </title>
+    <updated>2016-04-29T00:21:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2412 from zachpanz88/patch-3
+
+Enable line tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3506274c02ce5f6efb6f4443dce4c0fd90578715</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3506274c02ce5f6efb6f4443dce4c0fd90578715"/>
+    <title>
+        Merge pull request #2413 from dougmolineux/master
+    </title>
+    <updated>2016-04-29T00:18:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2413 from dougmolineux/master
+
+Added a &amp;lt;br&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2c77f1b065fd10eb6965d6d6716905ab4762cd2f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2c77f1b065fd10eb6965d6d6716905ab4762cd2f"/>
+    <title>
+        Enable line tests
+    </title>
+    <updated>2016-04-28T23:05:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enable line tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4d8def904c31e4ffba34dd1453e9549af3afc4f7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4d8def904c31e4ffba34dd1453e9549af3afc4f7"/>
+    <title>
+        Added a &lt;br&gt;
+    </title>
+    <updated>2016-04-28T22:52:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://2.gravatar.com/avatar/ba9986ac0cfc8562307e11c5d4607544?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>dougmolineux@Dougs-MacBook-Pro.local</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added a &amp;lt;br&amp;gt;
+
+The additional line will make the legend accessible.
+https://github.com/chartjs/Chart.js/issues/2389&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/115358659a453e71e416522395fdb42a26db439f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/115358659a453e71e416522395fdb42a26db439f"/>
+    <title>
+        Merge pull request #2411 from zachpanz88/shared-data
+    </title>
+    <updated>2016-04-28T22:36:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2411 from zachpanz88/shared-data
+
+Update line tests to match new metadata system&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b96acc68550e362f5a896c3b13121f97d34d1bf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4b96acc68550e362f5a896c3b13121f97d34d1bf"/>
+    <title>
+        Change spaces to tabs in line tests
+    </title>
+    <updated>2016-04-28T22:30:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change spaces to tabs in line tests&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0.3.1</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0.3.1"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0.3.1.atom"/>
+  <title>Recent Commits to morris.js:0.3.1</title>
+  <updated>2012-10-13T09:17:23Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/60eae6a697670ed2150354907e6297f83931f305</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/60eae6a697670ed2150354907e6297f83931f305"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2012-10-13T09:17:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2fdf78c716e3d33fb69e7f100d3aed947a22548a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2fdf78c716e3d33fb69e7f100d3aed947a22548a"/>
+    <title>
+        Slight tidy-up.
+    </title>
+    <updated>2012-10-13T09:16:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Slight tidy-up.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/528a20525788170adf9535a3f0816d5be6588501</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/528a20525788170adf9535a3f0816d5be6588501"/>
+    <title>
+        Add ability to customize point fill
+    </title>
+    <updated>2012-10-09T17:06:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/28089?s=30&amp;v=4"/>
+    <author>
+      <name>unimatrixZxero</name>
+      <uri>https://github.com/unimatrixZxero</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add ability to customize point fill&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/05d26c68e92c34bca9f771883992ba55864d9e62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/05d26c68e92c34bca9f771883992ba55864d9e62"/>
+    <title>
+        Remove debug code
+    </title>
+    <updated>2012-10-09T15:29:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/28089?s=30&amp;v=4"/>
+    <author>
+      <name>unimatrixZxero</name>
+      <uri>https://github.com/unimatrixZxero</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove debug code&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0d42a6f02694e2b9f5bc17f209213d0c44126c09</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0d42a6f02694e2b9f5bc17f209213d0c44126c09"/>
+    <title>
+        Add ability to customize points in a series
+    </title>
+    <updated>2012-10-09T15:27:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/28089?s=30&amp;v=4"/>
+    <author>
+      <name>unimatrixZxero</name>
+      <uri>https://github.com/unimatrixZxero</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add ability to customize points in a series&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7775332aebd6cbc41f5fe7b3c88ca9cf90c5bc8a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7775332aebd6cbc41f5fe7b3c88ca9cf90c5bc8a"/>
+    <title>
+        Don&#39;t sort data when parseTime is false.  Fixes #83.
+    </title>
+    <updated>2012-10-03T07:24:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Don&amp;#39;t sort data when parseTime is false.  Fixes #83.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2903d086c60300c9cd1b642a3db79214c25ee52f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/2903d086c60300c9cd1b642a3db79214c25ee52f"/>
+    <title>
+        Morris.Line: separate generation of y-axis labels and hover text
+    </title>
+    <updated>2012-09-28T19:10:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/c4c86421553d7d7acdbb77456af5fc6c?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>brian.sanders@tapjoy.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Morris.Line: separate generation of y-axis labels and hover text&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bd9f9d5580b2ff50011897bc87cf8b4067ca0c54</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/bd9f9d5580b2ff50011897bc87cf8b4067ca0c54"/>
+    <title>
+        Whoops!  Fix the donut hover code.
+    </title>
+    <updated>2012-09-27T09:12:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Whoops!  Fix the donut hover code.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/43019eeeafb854568b346496836da2ee77b032ca</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/43019eeeafb854568b346496836da2ee77b032ca"/>
+    <title>
+        Morris.Donut#select(idx) for selecting donut segments (ref #79).
+    </title>
+    <updated>2012-09-26T20:37:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Morris.Donut#select(idx) for selecting donut segments (ref #79).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9bb723057f855709c99c6c3633d9119f25b3ce53</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/9bb723057f855709c99c6c3633d9119f25b3ce53"/>
+    <title>
+        Merge branch &#39;master&#39; of github.com:oesmith/morris.js
+    </title>
+    <updated>2012-09-26T20:30:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of github.com:oesmith/morris.js
+
+Conflicts:
+	morris.min.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e0b406feee9d93cff240c2dc0328ada550a22ace</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e0b406feee9d93cff240c2dc0328ada550a22ace"/>
+    <title>
+        Don&#39;t go negative on ymin if ymin==ymax==0 (fix #80).
+    </title>
+    <updated>2012-09-26T20:29:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Don&amp;#39;t go negative on ymin if ymin==ymax==0 (fix #80).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a9b0e03b4351bb6048c49aebe32f2f5f515ced70</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a9b0e03b4351bb6048c49aebe32f2f5f515ced70"/>
+    <title>
+        Cycle lineColors (#78)
+    </title>
+    <updated>2012-09-25T20:07:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cycle lineColors (#78)
+
+Fixes crashes when number of series is larger than number of line colors.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/50833b0ebcb0268f438746cfa30f64c56cea8e69</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/50833b0ebcb0268f438746cfa30f64c56cea8e69"/>
+    <title>
+        Another Travis.yml tweak
+    </title>
+    <updated>2012-09-20T07:06:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Another Travis.yml tweak&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/abd26559abac5467ae63323fa564e3d47a7a8541</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/abd26559abac5467ae63323fa564e3d47a7a8541"/>
+    <title>
+        Travis.yml tweak
+    </title>
+    <updated>2012-09-20T07:03:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Travis.yml tweak&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/04e103e5ab33b6817a9512862869fe2ea3b30a67</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/04e103e5ab33b6817a9512862869fe2ea3b30a67"/>
+    <title>
+        Update travis.yml
+    </title>
+    <updated>2012-09-20T06:45:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update travis.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fbe3ce8201290312d91e7d6e62f7d34570cc58e4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/fbe3ce8201290312d91e7d6e62f7d34570cc58e4"/>
+    <title>
+        Formatter option for donut values (#75).
+    </title>
+    <updated>2012-09-20T06:31:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Formatter option for donut values (#75).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/088233d8d275390f5a46822ca7bf06e454207f5b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/088233d8d275390f5a46822ca7bf06e454207f5b"/>
+    <title>
+        Donut charts fix.
+    </title>
+    <updated>2012-09-15T22:18:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Donut charts fix.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/03ed32ef9b52b13367895df44403cb6192b6542d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/03ed32ef9b52b13367895df44403cb6192b6542d"/>
+    <title>
+        Update README for 0.3.0.
+    </title>
+    <updated>2012-09-15T22:11:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README for 0.3.0.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4c045c30ddf9a0db4c060fee8639869e7d8b3865</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/4c045c30ddf9a0db4c060fee8639869e7d8b3865"/>
+    <title>
+        Some documentation tweaks.
+    </title>
+    <updated>2012-09-15T22:05:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Some documentation tweaks.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c1deb0d5caec14fcaf60429e81210a0d6fa95418</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c1deb0d5caec14fcaf60429e81210a0d6fa95418"/>
+    <title>
+        Spec support reshuffle.
+    </title>
+    <updated>2012-09-01T16:14:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Spec support reshuffle.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

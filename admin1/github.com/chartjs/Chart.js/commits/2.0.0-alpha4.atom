@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/2.0.0-alpha4</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/2.0.0-alpha4"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/2.0.0-alpha4.atom"/>
+  <title>Recent Commits to Chart.js:2.0.0-alpha4</title>
+  <updated>2015-09-29T22:32:43Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/82541248a1555103774885bc8373a8b3d7f0a601</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/82541248a1555103774885bc8373a8b3d7f0a601"/>
+    <title>
+        Getting Started.... again.
+    </title>
+    <updated>2015-09-29T22:32:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Getting Started.... again.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/39340fa4126d0ca6856561b6fdca41b252a89deb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/39340fa4126d0ca6856561b6fdca41b252a89deb"/>
+    <title>
+        Update Getting Started and created Scales documentation
+    </title>
+    <updated>2015-09-29T19:29:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update Getting Started and created Scales documentation&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cd4b6815c89a3ba86ff376b4b6e0d8406bbc1792</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/cd4b6815c89a3ba86ff376b4b6e0d8406bbc1792"/>
+    <title>
+        Dis Build
+    </title>
+    <updated>2015-09-29T16:55:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Dis Build&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e24406fc9da96889c83d2d25e76f74bf63abb4ba</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e24406fc9da96889c83d2d25e76f74bf63abb4ba"/>
+    <title>
+        Ensure tickUnit and displayFormat set before format loop
+    </title>
+    <updated>2015-09-29T16:54:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ensure tickUnit and displayFormat set before format loop&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4c79c5756f15e1ec8b6410cabe8df3fae64c8ed1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4c79c5756f15e1ec8b6410cabe8df3fae64c8ed1"/>
+    <title>
+        Time Scale Samples updated to import moment beforehand
+    </title>
+    <updated>2015-09-28T18:46:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Time Scale Samples updated to import moment beforehand&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5543041fcdf89d11be448fd341df37ae9fee1ccb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5543041fcdf89d11be448fd341df37ae9fee1ccb"/>
+    <title>
+        Add Moment.js back into test reps
+    </title>
+    <updated>2015-09-28T18:45:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Moment.js back into test reps&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c13d960df5145f24f12db38a981b8de2cfaa09fa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c13d960df5145f24f12db38a981b8de2cfaa09fa"/>
+    <title>
+        Built Dist Files (reduced lib to 122kb minified)
+    </title>
+    <updated>2015-09-28T17:30:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Built Dist Files (reduced lib to 122kb minified)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a31c50d4d03f721166ba3049d632faf14ba107c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a31c50d4d03f721166ba3049d632faf14ba107c"/>
+    <title>
+        Built Dist Files
+    </title>
+    <updated>2015-09-28T17:28:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Built Dist Files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/39b15b98e64439f4885a8252860dcf40747a6124</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/39b15b98e64439f4885a8252860dcf40747a6124"/>
+    <title>
+        Removed moment from build, import color lib first
+    </title>
+    <updated>2015-09-28T17:28:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed moment from build, import color lib first&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/63a0273591b2943f9ff96262b26f1d5c9f5ca058</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/63a0273591b2943f9ff96262b26f1d5c9f5ca058"/>
+    <title>
+        Remove moment and onecolor as deps
+    </title>
+    <updated>2015-09-28T17:28:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove moment and onecolor as deps&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1bdf5edc2421bdbb8cf64da1771e7108f80919d1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1bdf5edc2421bdbb8cf64da1771e7108f80919d1"/>
+    <title>
+        Time Scale now requires and warns for Moment.js dep
+    </title>
+    <updated>2015-09-28T17:27:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/5580297?s=30&amp;v=4"/>
+    <author>
+      <name>tannerlinsley</name>
+      <uri>https://github.com/tannerlinsley</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Time Scale now requires and warns for Moment.js dep&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e6d15474dff7d58583fc830ead6d7435061d0969</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e6d15474dff7d58583fc830ead6d7435061d0969"/>
+    <title>
+        Commit built files after refactor
+    </title>
+    <updated>2015-09-28T11:45:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Commit built files after refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d09c25c0d5015715416a8450162006618d58ecc0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d09c25c0d5015715416a8450162006618d58ecc0"/>
+    <title>
+        Merge pull request #1488 from nnnick/v2.0-dev-refactor
+    </title>
+    <updated>2015-09-28T01:50:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1488 from nnnick/v2.0-dev-refactor
+
+V2.0 dev refactor&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/77faacb46765ca5cd9a89f0476c98e18d6b2f91f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/77faacb46765ca5cd9a89f0476c98e18d6b2f91f"/>
+    <title>
+        Removed the line scale override file since functionality no longer di…
+    </title>
+    <updated>2015-09-28T01:34:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed the line scale override file since functionality no longer directly exists. Updated the core scale drawing with tighter padding &amp;amp; better drawing when on top. Updated tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/db3b5c1735216fecc6721fc271c6d2dd922adbd7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/db3b5c1735216fecc6721fc271c6d2dd922adbd7"/>
+    <title>
+        Fix broken helper test
+    </title>
+    <updated>2015-09-27T23:40:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix broken helper test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a0803cfd77fc79284f07225b0258f3aac58b5cc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7a0803cfd77fc79284f07225b0258f3aac58b5cc"/>
+    <title>
+        Fix line controller tests
+    </title>
+    <updated>2015-09-27T23:19:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix line controller tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4fd30e0c7531ddfdca178b9669815a93a8708776</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4fd30e0c7531ddfdca178b9669815a93a8708776"/>
+    <title>
+        Last bar controller test fixes
+    </title>
+    <updated>2015-09-27T22:29:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Last bar controller test fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/80b2ffe3ee880536702d54cd3962d9b216cf8263</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/80b2ffe3ee880536702d54cd3962d9b216cf8263"/>
+    <title>
+        Fix bar controller unit tests
+    </title>
+    <updated>2015-09-27T22:28:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix bar controller unit tests&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bc7d1d39fd5f2fdfbe55764136fd4aa3efbe7269</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bc7d1d39fd5f2fdfbe55764136fd4aa3efbe7269"/>
+    <title>
+        Convert the radialLinear scale to derive from Core.scale. Radial line…
+    </title>
+    <updated>2015-09-27T15:58:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Convert the radialLinear scale to derive from Core.scale. Radial linear scale is now fit using the scale service. Added tests for the radialLinear scale.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/be4facdea967e5fb63927db44be7899239d582c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/be4facdea967e5fb63927db44be7899239d582c2"/>
+    <title>
+        Time scale tests.
+    </title>
+    <updated>2015-09-27T13:38:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Time scale tests.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/d900275da582abf88559b849139965b2d6a84b09</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/d900275da582abf88559b849139965b2d6a84b09"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/d900275da582abf88559b849139965b2d6a84b09.atom"/>
+  <title>Recent Commits to Chart.js:d900275da582abf88559b849139965b2d6a84b09</title>
+  <updated>2017-05-13T17:01:33Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d900275da582abf88559b849139965b2d6a84b09</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d900275da582abf88559b849139965b2d6a84b09"/>
+    <title>
+        Deploy to GitHub pages
+    </title>
+    <updated>2017-05-13T17:01:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Deploy to GitHub pages
+
+Add Travis CI task to deploy the docs, samples and dist files to chartjs.github.io for the `release` and `master` branches. A `latest` symbolic links is also created for each folder to the highest version (or `master` if any).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0bbc3fa8f3f3031da23923670429aeca0a3e4af1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0bbc3fa8f3f3031da23923670429aeca0a3e4af1"/>
+    <title>
+        Added width + height arguments to ctx.drawImage
+    </title>
+    <updated>2017-05-13T13:26:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/236781?s=30&amp;v=4"/>
+    <author>
+      <name>jgmcelwain</name>
+      <uri>https://github.com/jgmcelwain</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added width + height arguments to ctx.drawImage
+
+Previous functionality meant that images would be drawn at their source file size regardless of whether custom width or height properties were set.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e45ac3c94587457448bd2f466f23bd8e639f9f47</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e45ac3c94587457448bd2f466f23bd8e639f9f47"/>
+    <title>
+        Make &quot;dedicated to the chart canvas&quot; a requirement (#4253)
+    </title>
+    <updated>2017-05-13T12:14:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make &amp;quot;dedicated to the chart canvas&amp;quot; a requirement (#4253)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4c00b58342c5f46c5c54ec3caddd518c45fdf9f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c4c00b58342c5f46c5c54ec3caddd518c45fdf9f"/>
+    <title>
+        Fix RequireJS doc to use UMD file instead (#4252)
+    </title>
+    <updated>2017-05-13T12:14:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix RequireJS doc to use UMD file instead (#4252)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ff5d489c14bbc1cd6b7fab383095cd2c25afe71</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3ff5d489c14bbc1cd6b7fab383095cd2c25afe71"/>
+    <title>
+        Document the new filling modes and options (#4251)
+    </title>
+    <updated>2017-05-13T12:13:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Document the new filling modes and options (#4251)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7335bf1eeec93092b5141dbfc64ca69cdda3e90</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d7335bf1eeec93092b5141dbfc64ca69cdda3e90"/>
+    <title>
+        initial data update docs
+    </title>
+    <updated>2017-05-08T22:44:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;initial data update docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d9542227a8df4e7a4f61e9829666d53533f874b2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d9542227a8df4e7a4f61e9829666d53533f874b2"/>
+    <title>
+        Remove executable bit from js files (#4222)
+    </title>
+    <updated>2017-05-07T17:35:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove executable bit from js files (#4222)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f793a715fd9033ae475d5d524733668b7492c91</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9f793a715fd9033ae475d5d524733668b7492c91"/>
+    <title>
+        Remove unnecessary variable
+    </title>
+    <updated>2017-05-02T01:37:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove unnecessary variable&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f0c6b3f8342e2406c250329336037a7f7004284e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f0c6b3f8342e2406c250329336037a7f7004284e"/>
+    <title>
+        Fix legend and title layout options update
+    </title>
+    <updated>2017-04-29T15:38:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix legend and title layout options update&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/34292cb3350063eee3ca158b3e44388a591ecdd8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/34292cb3350063eee3ca158b3e44388a591ecdd8"/>
+    <title>
+        Add financial chart type to plugin docs
+    </title>
+    <updated>2017-04-29T15:38:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add financial chart type to plugin docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8811759e1c986fff719af3a0cd2cbdfdcef8ae79</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8811759e1c986fff719af3a0cd2cbdfdcef8ae79"/>
+    <title>
+        Remove malformed comment
+    </title>
+    <updated>2017-04-26T22:53:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove malformed comment
+
+Fixes https://github.com/chartjs/Chart.js/issues/4181&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a75ae13b07e8326d7f83b8cd578a53fedff9756f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a75ae13b07e8326d7f83b8cd578a53fedff9756f"/>
+    <title>
+        Make it clear that labels need to be specified when using a category …
+    </title>
+    <updated>2017-04-23T11:28:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make it clear that labels need to be specified when using a category axis on a line chart&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f7d2d7536a03b58b99c3a67cd93b58d24f811425</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f7d2d7536a03b58b99c3a67cd93b58d24f811425"/>
+    <title>
+        Fix failing instanceof when reading context
+    </title>
+    <updated>2017-04-22T17:14:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix failing instanceof when reading context
+
+`instanceof HTMLCanvasElement/CanvasRenderingContext2D` fails when the item is inside an iframe or when running in a protected environment. We could guess the types from their toString() value but let&amp;#39;s keep things flexible and assume it&amp;#39;s a sufficient condition if the item has a context2D which has item as `canvas`.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f2c569ef25320f26c442cfde4238a2fb536d4888</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f2c569ef25320f26c442cfde4238a2fb536d4888"/>
+    <title>
+        Enhance the responsive documentation
+    </title>
+    <updated>2017-04-22T17:13:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enhance the responsive documentation
+
+Make sure to explain responsiveness limitations with CANVAS elements and how to correctly setup a responsive chart using a dedicated and relatively positioned div wrapper.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ec6377f11a97310ea23ca7725a08c5c70eb35df</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3ec6377f11a97310ea23ca7725a08c5c70eb35df"/>
+    <title>
+        Fix hidden charts hanging the browser
+    </title>
+    <updated>2017-04-22T15:25:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/15214161?s=30&amp;v=4"/>
+    <author>
+      <name>tredston</name>
+      <uri>https://github.com/tredston</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix hidden charts hanging the browser
+
+Ensure width cannot be greater than maxWidth. Similar to `minSize.height` calculation.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/86fb98eb3720a7256764ff0bd8b34a23c0946ade</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/86fb98eb3720a7256764ff0bd8b34a23c0946ade"/>
+    <title>
+        Remove extraneous period
+    </title>
+    <updated>2017-04-18T00:10:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove extraneous period&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d8385bd358e1c8cdbd8d41d73d9e34a09d6971da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d8385bd358e1c8cdbd8d41d73d9e34a09d6971da"/>
+    <title>
+        Combine the two contributing docs
+    </title>
+    <updated>2017-04-17T11:27:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Combine the two contributing docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/205cedc0efb5f1aa168f6236bc8a8f0f16529e67</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/205cedc0efb5f1aa168f6236bc8a8f0f16529e67"/>
+    <title>
+        Enhancement: adds step-after functionality, true defaults to step-bef…
+    </title>
+    <updated>2017-04-16T20:13:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/91019?s=30&amp;v=4"/>
+    <author>
+      <name>ericnkatz</name>
+      <uri>https://github.com/ericnkatz</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Enhancement: adds step-after functionality, true defaults to step-before (#4065)
+
+* Adds step-after functionality, true defaults to step-before
+
+* Update stepped line sample to include all variations of steppedLine configurations
+
+* Update documentation on steppedLine values
+
+* Add tests for new steppedLine values &amp;#39;before&amp;#39; and &amp;#39;after&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/19d6df21e3de31bf79d6f584209d8a5fa1adb30b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/19d6df21e3de31bf79d6f584209d8a5fa1adb30b"/>
+    <title>
+        Fix pointRadius and pointHitRadius settings for radar charts
+    </title>
+    <updated>2017-04-16T20:12:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix pointRadius and pointHitRadius settings for radar charts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/254bd4bf86ab8dc9801c61844cd3e668e3e2090f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/254bd4bf86ab8dc9801c61844cd3e668e3e2090f"/>
+    <title>
+        Fixed calculation of scale min and max when dataset contains no value…
+    </title>
+    <updated>2017-04-15T16:37:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/12762648?s=30&amp;v=4"/>
+    <author>
+      <name>GabrielMancik</name>
+      <uri>https://github.com/GabrielMancik</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed calculation of scale min and max when dataset contains no values (#4064)
+
+* Fixed different calculation of scale min and max when dataset contains no values
+* Removed trailing spaces
+* Added test for correct min/max calculation
+* Removed trailing spaces&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

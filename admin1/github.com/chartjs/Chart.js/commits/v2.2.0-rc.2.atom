@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.2.0-rc.2</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.2.0-rc.2"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.2.0-rc.2.atom"/>
+  <title>Recent Commits to Chart.js:v2.2.0-rc.2</title>
+  <updated>2016-07-19T22:56:09Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e94d3c0730b86f9b2059d5077e6b1544295ec61a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e94d3c0730b86f9b2059d5077e6b1544295ec61a"/>
+    <title>
+        Merge pull request #2947 from chartjs/fix/524
+    </title>
+    <updated>2016-07-19T22:56:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2947 from chartjs/fix/524
+
+Add polar area start angle setting&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a2321d2df0d3f0dddc54532114244ead07bb3756</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a2321d2df0d3f0dddc54532114244ead07bb3756"/>
+    <title>
+        Merge pull request #2998 from chartjs/v2.2.0-rc.2-release
+    </title>
+    <updated>2016-07-19T22:52:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2998 from chartjs/v2.2.0-rc.2-release
+
+Bump version to v2.2.0-rc.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4334ab86119796509da404fc98c3a33c285de75c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4334ab86119796509da404fc98c3a33c285de75c"/>
+    <title>
+        Bump version to v2.2.0-rc.2
+    </title>
+    <updated>2016-07-19T22:47:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to v2.2.0-rc.2&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c07b1eeda07c9fc648c5012dbd2c4ad510bf0fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0c07b1eeda07c9fc648c5012dbd2c4ad510bf0fc"/>
+    <title>
+        Fix missing comma syntax error in js block
+    </title>
+    <updated>2016-07-19T21:01:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix missing comma syntax error in js block&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/88d939898298c2061b512e6d7019b6d407dda06f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/88d939898298c2061b512e6d7019b6d407dda06f"/>
+    <title>
+        Merge pull request #2984 from slinhart/master
+    </title>
+    <updated>2016-07-19T02:25:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2984 from slinhart/master
+
+Issue #1012. Added offsetAngle option for radar charts.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3194bea5faebedf22e4097c90780b5a32b5564f5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3194bea5faebedf22e4097c90780b5a32b5564f5"/>
+    <title>
+        Merge pull request #2986 from sibennayak/master
+    </title>
+    <updated>2016-07-18T22:18:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2986 from sibennayak/master
+
+Fix the Pie Chart hover issue (#2983)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41ec60ff1a74334f7a8f20656c3b0617ffc40a2f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/41ec60ff1a74334f7a8f20656c3b0617ffc40a2f"/>
+    <title>
+        Merge pull request #2991 from tiagoroldao/issue-2990
+    </title>
+    <updated>2016-07-18T22:18:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2991 from tiagoroldao/issue-2990
+
+Check for existence of data element before accessing property&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9df06e8c2e38ccdebee27e77c833b9f813078685</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9df06e8c2e38ccdebee27e77c833b9f813078685"/>
+    <title>
+        Check for existence of data element before accessing property
+    </title>
+    <updated>2016-07-18T21:05:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1634026?s=30&amp;v=4"/>
+    <author>
+      <name>tiagoroldao</name>
+      <uri>https://github.com/tiagoroldao</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Check for existence of data element before accessing property&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1a63113bc0733f95db324b5498b6159256abbd34</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/1a63113bc0733f95db324b5498b6159256abbd34"/>
+    <title>
+        changed option name for radar chart from offsetAngle to startAngle. A…
+    </title>
+    <updated>2016-07-18T05:11:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8146903?s=30&amp;v=4"/>
+    <author>
+      <name>slinhart</name>
+      <uri>https://github.com/slinhart</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;changed option name for radar chart from offsetAngle to startAngle. Added test to make sure correct angles are computed for all points in the radar chart (with and without startAngle option set).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ca83f3da0b8a1f0a78aea7f57ea77747becb9e6b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ca83f3da0b8a1f0a78aea7f57ea77747becb9e6b"/>
+    <title>
+        Merge branch &#39;master&#39; of https://github.com/sibennayak/Chart.js
+    </title>
+    <updated>2016-07-17T13:35:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/10061146?s=30&amp;v=4"/>
+    <author>
+      <name>theawesomenayak</name>
+      <uri>https://github.com/theawesomenayak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; of https://github.com/sibennayak/Chart.js&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d50cdfe6ad67fb84c06e1f238e2d0ea431def19c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d50cdfe6ad67fb84c06e1f238e2d0ea431def19c"/>
+    <title>
+        FIx the Pie Chart hover issue (#2983)
+    </title>
+    <updated>2016-07-17T13:34:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/10061146?s=30&amp;v=4"/>
+    <author>
+      <name>theawesomenayak</name>
+      <uri>https://github.com/theawesomenayak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;FIx the Pie Chart hover issue (#2983)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7c41c2e25359d461971eea7a3df7bba03a878841</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7c41c2e25359d461971eea7a3df7bba03a878841"/>
+    <title>
+        FIx the Pie Chart hover issue (#2983)
+    </title>
+    <updated>2016-07-17T13:31:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/10061146?s=30&amp;v=4"/>
+    <author>
+      <name>theawesomenayak</name>
+      <uri>https://github.com/theawesomenayak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;FIx the Pie Chart hover issue (#2983)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7733b222158004b1be314fc1f2f672e4cd8099e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d7733b222158004b1be314fc1f2f672e4cd8099e"/>
+    <title>
+        Merge remote-tracking branch &#39;chartjs-origin/master&#39;
+    </title>
+    <updated>2016-07-17T00:59:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8146903?s=30&amp;v=4"/>
+    <author>
+      <name>slinhart</name>
+      <uri>https://github.com/slinhart</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge remote-tracking branch &amp;#39;chartjs-origin/master&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad7ed249af2faa0d4ae4b2607e3f788417d22cf9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ad7ed249af2faa0d4ae4b2607e3f788417d22cf9"/>
+    <title>
+        Add an option for radar chart to have offsetAngle. Issue #1012
+    </title>
+    <updated>2016-07-17T00:58:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/8146903?s=30&amp;v=4"/>
+    <author>
+      <name>slinhart</name>
+      <uri>https://github.com/slinhart</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add an option for radar chart to have offsetAngle. Issue #1012&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7930137afa46eadc6f07f85415d622f51768f8a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7930137afa46eadc6f07f85415d622f51768f8a5"/>
+    <title>
+        Merge pull request #2925 from Joshuabaker2/master
+    </title>
+    <updated>2016-07-16T18:46:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2925 from Joshuabaker2/master
+
+Ability to manually set bar chart bar width&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6572c94bd611a120dd13221da13c747bec02e7c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6572c94bd611a120dd13221da13c747bec02e7c2"/>
+    <title>
+        Fix missing Chart.js.zip file for Travis release
+    </title>
+    <updated>2016-07-15T11:01:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix missing Chart.js.zip file for Travis release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f22754874cce74c542d229ae61f1753be2ca3f95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f22754874cce74c542d229ae61f1753be2ca3f95"/>
+    <title>
+        Merge pull request #2971 from moberwasserlechner/patch-2
+    </title>
+    <updated>2016-07-14T13:42:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2971 from moberwasserlechner/patch-2
+
+Docs for Title and Legend position incomplete&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0b0a3c9ccd5509b35d734a2c7388cd90b2de581e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0b0a3c9ccd5509b35d734a2c7388cd90b2de581e"/>
+    <title>
+        Docs for Title and Legend position incomplete
+    </title>
+    <updated>2016-07-14T10:30:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1049938?s=30&amp;v=4"/>
+    <author>
+      <name>moberwasserlechner</name>
+      <uri>https://github.com/moberwasserlechner</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Docs for Title and Legend position incomplete
+
+Positioning of title and legend to the left or to the right works.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5804f1e3c9b8875fb811fc0caf192a28c405255b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5804f1e3c9b8875fb811fc0caf192a28c405255b"/>
+    <title>
+        Package.json for v.2.2.0-rc.1 and fixed travis deploy
+    </title>
+    <updated>2016-07-14T00:00:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Package.json for v.2.2.0-rc.1 and fixed travis deploy&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bfa37e7d68da7245d4f4da417173917791b88e62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bfa37e7d68da7245d4f4da417173917791b88e62"/>
+    <title>
+        Merge pull request #2926 from chartjs/fix/2915
+    </title>
+    <updated>2016-07-13T22:22:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2926 from chartjs/fix/2915
+
+Fix bar and line controllers to convert strings to numbers when stacking&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

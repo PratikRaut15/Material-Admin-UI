@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/morrisjs/morris.js/commits/0f602d116be7ee6ea031d7988161431cb8f73528</id>
+  <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commits/0f602d116be7ee6ea031d7988161431cb8f73528"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/morrisjs/morris.js/commits/0f602d116be7ee6ea031d7988161431cb8f73528.atom"/>
+  <title>Recent Commits to morris.js:0f602d116be7ee6ea031d7988161431cb8f73528</title>
+  <updated>2014-02-02T17:15:26Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0f602d116be7ee6ea031d7988161431cb8f73528</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/0f602d116be7ee6ea031d7988161431cb8f73528"/>
+    <title>
+        Removing third_party folder. Using cdn links in examples. Using bower…
+    </title>
+    <updated>2014-02-02T17:15:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/14304?s=30&amp;v=4"/>
+    <author>
+      <name>simonoff</name>
+      <uri>https://github.com/simonoff</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removing third_party folder. Using cdn links in examples. Using bower.js for deps. Build matrix for Travic-CI.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ecd6fd71552deeed9ef28f66de1538f1223f3645</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/ecd6fd71552deeed9ef28f66de1538f1223f3645"/>
+    <title>
+        Merge pull request #359 from sudodoki/feature/#352
+    </title>
+    <updated>2014-01-30T20:57:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #359 from sudodoki/feature/#352
+
+Add license header for coffee &amp;amp; js files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e38ecc593ab0b1c68ab5cfcef02063f46021f2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/8e38ecc593ab0b1c68ab5cfcef02063f46021f2b"/>
+    <title>
+        Add license header for coffee &amp; js files
+    </title>
+    <updated>2014-01-30T12:57:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add license header for coffee &amp;amp; js files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/07c740414b2553596b5b7c23197a09af4acd933d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/07c740414b2553596b5b7c23197a09af4acd933d"/>
+    <title>
+        Merge pull request #358 from sudodoki/feature/#311
+    </title>
+    <updated>2014-01-30T07:07:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #358 from sudodoki/feature/#311
+
+Feature - bar max width&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3e50aac93260ae9b5d0f63e0a7979cafcd71a67</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/e3e50aac93260ae9b5d0f63e0a7979cafcd71a67"/>
+    <title>
+        Implement #311: feature - bar max width
+    </title>
+    <updated>2014-01-29T23:57:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1506905?s=30&amp;v=4"/>
+    <author>
+      <name>sudodoki</name>
+      <uri>https://github.com/sudodoki</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Implement #311: feature - bar max width&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7bce55890f6642c187810f3e8589e5cfdf368bdb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/7bce55890f6642c187810f3e8589e5cfdf368bdb"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2013-12-16T21:33:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/88a14d952a13fa15b07b858ccbc3046d955a1a08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/88a14d952a13fa15b07b858ccbc3046d955a1a08"/>
+    <title>
+        Update docs and metadata.
+    </title>
+    <updated>2013-11-11T21:44:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update docs and metadata.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c1e40c13f416f880fb55b40be2feb28e24a40329</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c1e40c13f416f880fb55b40be2feb28e24a40329"/>
+    <title>
+        Add note on pdiffs.
+    </title>
+    <updated>2013-11-11T21:00:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add note on pdiffs.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/85730ec938b9565d3decae3bbf045bbf5bb26c94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/85730ec938b9565d3decae3bbf045bbf5bb26c94"/>
+    <title>
+        Remove perceptualdiff from travis config.
+    </title>
+    <updated>2013-11-11T20:58:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove perceptualdiff from travis config.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/863d4289a9f802e47ff43eb0b9ae489fe5e0ea8c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/863d4289a9f802e47ff43eb0b9ae489fe5e0ea8c"/>
+    <title>
+        Revert &quot;Add pdiffs to npm test.&quot;
+    </title>
+    <updated>2013-11-11T20:57:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Revert &amp;quot;Add pdiffs to npm test.&amp;quot;
+
+This reverts commit a3566f0ccfc5ff6d56ecf6c0da9be29016da9d62.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2df6ef2336071b509f7047813910e1f33f8bdb1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/d2df6ef2336071b509f7047813910e1f33f8bdb1"/>
+    <title>
+        More perceptualdiff testing tweaks.
+    </title>
+    <updated>2013-11-11T07:02:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;More perceptualdiff testing tweaks.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a3566f0ccfc5ff6d56ecf6c0da9be29016da9d62</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/a3566f0ccfc5ff6d56ecf6c0da9be29016da9d62"/>
+    <title>
+        Add pdiffs to npm test.
+    </title>
+    <updated>2013-11-10T22:12:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add pdiffs to npm test.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/063957657cfd2d1eb6ba8881dd983be0ce7746d2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/063957657cfd2d1eb6ba8881dd983be0ce7746d2"/>
+    <title>
+        Add perceptual diffs.
+    </title>
+    <updated>2013-11-10T22:09:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add perceptual diffs.
+
+Uses perceptualdiff to catch regressions / changes in charts as they are
+displayed by a browser (in this case, phantomjs).
+
+Currently has exemplaries for basic line, area, bar and stacked bar
+charts.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/68aa4c36f2b25aa0329ca82f95acaf79be5188ca</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/68aa4c36f2b25aa0329ca82f95acaf79be5188ca"/>
+    <title>
+        Add original data to custom hover callback.
+    </title>
+    <updated>2013-11-09T20:36:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add original data to custom hover callback.
+
+Chart data points are sorted when using parseTime, so indices will not
+always match the original data ordering.
+
+Also fixes a couple of event triggers.
+
+Ref: #264.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c07222445cd587f842161865b8b16c2dd292a7dd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/c07222445cd587f842161865b8b16c2dd292a7dd"/>
+    <title>
+        setData() method for Morris.Donut.
+    </title>
+    <updated>2013-11-09T19:53:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;setData() method for Morris.Donut.
+
+Fixes #211&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/88e3fe6211d86a87782fdc7e601dfe33732a9aa7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/88e3fe6211d86a87782fdc7e601dfe33732a9aa7"/>
+    <title>
+        Automatic resizing.
+    </title>
+    <updated>2013-11-09T19:33:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Automatic resizing.
+
+Fixes #111. It&amp;#39;s a costly operation, but it&amp;#39;s working.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6e5d68fc99a2ac8e089ad230e9d816dcee3fe894</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/6e5d68fc99a2ac8e089ad230e9d816dcee3fe894"/>
+    <title>
+        Merge pull request #298 from sudodoki/fix_travis_builds
+    </title>
+    <updated>2013-11-09T18:19:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #298 from sudodoki/fix_travis_builds
+
+update npm test task&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6422b543be061b9cebb91c8178e346591e74df96</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/6422b543be061b9cebb91c8178e346591e74df96"/>
+    <title>
+        Merge branch &#39;feature/coffee_idioms&#39; of https://github.com/sudodoki/m…
+    </title>
+    <updated>2013-11-09T17:50:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;feature/coffee_idioms&amp;#39; of https://github.com/sudodoki/morris.js into sudodoki-feature/coffee_idioms
+
+Conflicts:
+	lib/morris.grid.coffee&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/221c83781d7870dc04f10440c529a67f735510b5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/221c83781d7870dc04f10440c529a67f735510b5"/>
+    <title>
+        Tidy up.
+    </title>
+    <updated>2013-11-09T17:23:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tidy up.
+
+- The options namespace should stay flat - no nested config values.
+- Used single array literal instead of chained Array.concats.
+- Added default values to config defaults, instead of using default
+  method arguments.
+- Tweaked spec.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/415476f7ca575504908268c6b2921bd81076e3fa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/morrisjs/morris.js/commit/415476f7ca575504908268c6b2921bd81076e3fa"/>
+    <title>
+        Merge branch &#39;feature/rounded_corners&#39; of https://github.com/sudodoki…
+    </title>
+    <updated>2013-11-09T16:56:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/116292?s=30&amp;v=4"/>
+    <author>
+      <name>oesmith</name>
+      <uri>https://github.com/oesmith</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;feature/rounded_corners&amp;#39; of https://github.com/sudodoki/morris.js into sudodoki-feature/rounded_corners&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

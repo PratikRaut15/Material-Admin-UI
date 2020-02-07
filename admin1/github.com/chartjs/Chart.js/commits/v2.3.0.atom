@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.3.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.3.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.3.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.3.0</title>
+  <updated>2016-09-22T19:03:01Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2035c7a15b8c3b3d92f9fdb54df40fd57259013</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d2035c7a15b8c3b3d92f9fdb54df40fd57259013"/>
+    <title>
+        Release 2.3.0
+    </title>
+    <updated>2016-09-22T19:03:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.3.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/57d8ab2e03288b0f87e57e4139e6a9121ce65c21</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/57d8ab2e03288b0f87e57e4139e6a9121ce65c21"/>
+    <title>
+        Merge branch &#39;master&#39; into release
+    </title>
+    <updated>2016-09-22T18:56:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eea51e8678944237696f2677ae64a1f1fcf2c788</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/eea51e8678944237696f2677ae64a1f1fcf2c788"/>
+    <title>
+        Bump version to 2.3.0
+    </title>
+    <updated>2016-09-22T18:53:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.3.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/64f37a32b45cbb45fb75ecdbdb1bb5c23d61cea7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/64f37a32b45cbb45fb75ecdbdb1bb5c23d61cea7"/>
+    <title>
+        Merge pull request #3321 from chartjs/master
+    </title>
+    <updated>2016-09-21T19:14:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3321 from chartjs/master
+
+Version 2.3.0 Release Candidate 1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/631b54522c4d567c3cc262bc3b72232b34edf29f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/631b54522c4d567c3cc262bc3b72232b34edf29f"/>
+    <title>
+        Ensure the second pie chart sits inline
+    </title>
+    <updated>2016-09-21T10:17:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Ensure the second pie chart sits inline&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4da47a8430ca2ba3f909ddf684a896c34ba20a47</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/4da47a8430ca2ba3f909ddf684a896c34ba20a47"/>
+    <title>
+        Bump version to 2.3.0-rc.1
+    </title>
+    <updated>2016-09-17T09:42:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.3.0-rc.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d9f6e6d0c55b0073a0214b51754dfc1dbc1ba562</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d9f6e6d0c55b0073a0214b51754dfc1dbc1ba562"/>
+    <title>
+        Change bower package name for chart.js (#1562)
+    </title>
+    <updated>2016-09-17T09:40:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change bower package name for chart.js (#1562)
+
+Thanks to the Bower team, we have been able to register the chart.js package name, previously pointing on a dead repository, which make the Bower integration more consistent with the npm one. All other alias still work (Chart.js, chartjs, Chart-js, chartjs-Chart.js).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/56845d3cbb9c2b447505dcaefa38c72b21eef26e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/56845d3cbb9c2b447505dcaefa38c72b21eef26e"/>
+    <title>
+        Merge pull request #3315 from zachpanz88/fix-pie-multi-dataset
+    </title>
+    <updated>2016-09-16T03:19:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3315 from zachpanz88/fix-pie-multi-dataset
+
+Fix error where pie/doughnut charts did not render correctly with multiple datasets&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/051f5b015bc9d1fb07cd23ec3bfc78e6e3914360</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/051f5b015bc9d1fb07cd23ec3bfc78e6e3914360"/>
+    <title>
+        Fix bug with pie/doughnut chart legends
+    </title>
+    <updated>2016-09-16T01:29:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix bug with pie/doughnut chart legends
+Fixes a rendering issue when there are multiple datasets on a pie chart and they do not all contain the same number of data in their datasets
+Fixes #3309&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b5544d1a1b1241c41006014a57a17f5d2eceb854</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b5544d1a1b1241c41006014a57a17f5d2eceb854"/>
+    <title>
+        Merge pull request #3287 from simonbrunel/tests-cleanup
+    </title>
+    <updated>2016-09-15T22:12:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3287 from simonbrunel/tests-cleanup
+
+Tests cleanup&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5c5b1bfe59438275330cc03a0fcb01104498535f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5c5b1bfe59438275330cc03a0fcb01104498535f"/>
+    <title>
+        Turn off linebreak-style linting rule
+    </title>
+    <updated>2016-09-15T21:10:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Turn off linebreak-style linting rule
+
+On Windows, this rule conflicts when running ESLint locally on a repository setup with autoCrlf (then all lines are errors).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e37a11e398f69a67d7f549e113944f74a58030a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8e37a11e398f69a67d7f549e113944f74a58030a"/>
+    <title>
+        Merge pull request #3308 from zachpanz88/eslint
+    </title>
+    <updated>2016-09-15T16:01:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3308 from zachpanz88/eslint
+
+ESLint Updates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/82070277433212f96e73c4b872297bd3c950843a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/82070277433212f96e73c4b872297bd3c950843a"/>
+    <title>
+        Implement eslint changes proposed by @simonbrunel in code review
+    </title>
+    <updated>2016-09-15T12:49:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Implement eslint changes proposed by @simonbrunel in code review&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a929fd473e5f74ebac6611cabc192b2d007683be</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a929fd473e5f74ebac6611cabc192b2d007683be"/>
+    <title>
+        Include changes suggested by @etimberg in code review
+    </title>
+    <updated>2016-09-15T01:21:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Include changes suggested by @etimberg in code review&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8bc280e1856c4ab09a8a529347f2ef1e5292807e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8bc280e1856c4ab09a8a529347f2ef1e5292807e"/>
+    <title>
+        Allow variable use before define with warning
+    </title>
+    <updated>2016-09-15T00:27:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Allow variable use before define with warning&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bddd4cd94bbb2fa40d36029433069fa7950fd3ef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/bddd4cd94bbb2fa40d36029433069fa7950fd3ef"/>
+    <title>
+        Fix style issues in core and scales
+    </title>
+    <updated>2016-09-15T00:23:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix style issues in core and scales&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dd8fa78b453dd71f88934f0b561e2d613be6a1ab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/dd8fa78b453dd71f88934f0b561e2d613be6a1ab"/>
+    <title>
+        Fix more style errors in controllers, elements, and scales
+    </title>
+    <updated>2016-09-14T22:34:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix more style errors in controllers, elements, and scales&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9bf2e2bf7a339f59539fa784f67bdaf4c705d416</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9bf2e2bf7a339f59539fa784f67bdaf4c705d416"/>
+    <title>
+        Remove func-call-spacing rule
+    </title>
+    <updated>2016-09-14T18:16:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove func-call-spacing rule&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11739234a4b218d65a008c1afcb72c8ee42556a9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/11739234a4b218d65a008c1afcb72c8ee42556a9"/>
+    <title>
+        Add keyword spacing to eslint and update code
+    </title>
+    <updated>2016-09-14T18:12:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add keyword spacing to eslint and update code&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2d2f475a7a5a48f9d623de88df9314aee0d5f059</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2d2f475a7a5a48f9d623de88df9314aee0d5f059"/>
+    <title>
+        First round of eslint fixes
+    </title>
+    <updated>2016-09-14T18:05:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;First round of eslint fixes&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

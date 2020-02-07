@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.7.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.7.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.7.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.7.0</title>
+  <updated>2017-09-10T17:31:25Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3043a58605d08c7e16ceb548596fae8efc666350</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3043a58605d08c7e16ceb548596fae8efc666350"/>
+    <title>
+        Release 2.7.0
+    </title>
+    <updated>2017-09-10T17:31:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.7.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a2ffe4a38a41f882978441381400a06bcf6a4ac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a2ffe4a38a41f882978441381400a06bcf6a4ac"/>
+    <title>
+        Merge pull request #4706 from chartjs/master
+    </title>
+    <updated>2017-09-10T17:25:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4706 from chartjs/master
+
+Version 2.7.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ea703a54bfd63ca0b0fda9adf4aa118b299a37d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/ea703a54bfd63ca0b0fda9adf4aa118b299a37d8"/>
+    <title>
+        Implement scale label padding (#4646)
+    </title>
+    <updated>2017-09-10T17:15:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/184815?s=30&amp;v=4"/>
+    <author>
+      <name>andig</name>
+      <uri>https://github.com/andig</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Implement scale label padding (#4646)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/543c31d5496526a47123a923fef95c22f6980f4d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/543c31d5496526a47123a923fef95c22f6980f4d"/>
+    <title>
+        Add Google Analytics to samples and update badges (#4734)
+    </title>
+    <updated>2017-09-10T12:31:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Google Analytics to samples and update badges (#4734)
+
+Inject the GA tracking snippet for all samples, including the index page. Also update README.md badges using the shields.io service for consistency with flat-square style and cache, and add release badges to the installation documentation page.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fb4357ea9123df1ea1797e98291daf5073ea9d4b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/fb4357ea9123df1ea1797e98291daf5073ea9d4b"/>
+    <title>
+        Add a financial time series sample (#4554)
+    </title>
+    <updated>2017-09-10T08:54:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a financial time series sample (#4554)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b2beb6f4515367428188586229591024d85476ff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/b2beb6f4515367428188586229591024d85476ff"/>
+    <title>
+        Update chartjs-color dependency (#4733)
+    </title>
+    <updated>2017-09-09T22:27:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update chartjs-color dependency (#4733)
+
+Enforce dependencies minor versions (tilde symbol: include everything greater than a particular version in the same minor range).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/427aa99cb1af43208626048cb2505bf59121dd50</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/427aa99cb1af43208626048cb2505bf59121dd50"/>
+    <title>
+        Make major ticks optional and off by default (#4723)
+    </title>
+    <updated>2017-09-08T22:25:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/322311?s=30&amp;v=4"/>
+    <author>
+      <name>benmccann</name>
+      <uri>https://github.com/benmccann</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make major ticks optional and off by default (#4723)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c7464ebf91af37482912b434a9e5dc25cf46666e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/c7464ebf91af37482912b434a9e5dc25cf46666e"/>
+    <title>
+        Add platform basic implementation (fallback) (#4708)
+    </title>
+    <updated>2017-09-02T09:04:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add platform basic implementation (fallback) (#4708)
+
+If `window` or `document` are `undefined`, a minimal platform implementation is used instead, which one only returns a context2d read from the given canvas/context.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3b70e0420424ace8d5b45b16490cc3ffc707b38</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e3b70e0420424ace8d5b45b16490cc3ffc707b38"/>
+    <title>
+        Bump version to 2.7.0
+    </title>
+    <updated>2017-08-28T08:34:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.7.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2f950e2ab3a347b182e22774819c84d6e6dcfc19</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/2f950e2ab3a347b182e22774819c84d6e6dcfc19"/>
+    <title>
+        Improve controller tests stability (#4698)
+    </title>
+    <updated>2017-08-27T20:43:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/184815?s=30&amp;v=4"/>
+    <author>
+      <name>andig</name>
+      <uri>https://github.com/andig</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve controller tests stability (#4698)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/459c81d9316e3fa7c02e8670467e7727096c3875</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/459c81d9316e3fa7c02e8670467e7727096c3875"/>
+    <title>
+        Remove trailing `.js` in plugin names (docs)
+    </title>
+    <updated>2017-08-26T06:09:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove trailing `.js` in plugin names (docs)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5d57de4e4d8fee2075d773f094d8b11f01ee2c66</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5d57de4e4d8fee2075d773f094d8b11f01ee2c66"/>
+    <title>
+        Fix bar chart with {x, y} data points (#4673)
+    </title>
+    <updated>2017-08-26T05:50:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/723188?s=30&amp;v=4"/>
+    <author>
+      <name>nagix</name>
+      <uri>https://github.com/nagix</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix bar chart with {x, y} data points (#4673)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a014dc36190107146ebf4f7c29bc2cfb40c36ec</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a014dc36190107146ebf4f7c29bc2cfb40c36ec"/>
+    <title>
+        Fix wild special zero grid line when undefined (#4700)
+    </title>
+    <updated>2017-08-26T05:48:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix wild special zero grid line when undefined (#4700)
+
+Remove the special drawing for an undefined zero grid line since it causes issue when the first tick is not aligned on the scale extremity (ie only linear scales now display a special grid line for the origin). Hide scales in the filler plugin unit test fixtures to avoid future failures due to changes unrelated to the tested features.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/488cbbcbf6ccea2aaeb0be8378fedfaa852d0331</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/488cbbcbf6ccea2aaeb0be8378fedfaa852d0331"/>
+    <title>
+        Fix flipped stepped line in filler plugin (#4697)
+    </title>
+    <updated>2017-08-26T05:42:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/723188?s=30&amp;v=4"/>
+    <author>
+      <name>nagix</name>
+      <uri>https://github.com/nagix</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix flipped stepped line in filler plugin (#4697)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/31049ebcba71dd205901e439883fae991307bed8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/31049ebcba71dd205901e439883fae991307bed8"/>
+    <title>
+        Add chartjs-plugin-datalabels plugin link (#4701)
+    </title>
+    <updated>2017-08-25T22:34:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add chartjs-plugin-datalabels plugin link (#4701)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/530c613e5c661996894235a10efae99162a0c8f1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/530c613e5c661996894235a10efae99162a0c8f1"/>
+    <title>
+        Improve bar test stability (#4694)
+    </title>
+    <updated>2017-08-24T22:16:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/184815?s=30&amp;v=4"/>
+    <author>
+      <name>andig</name>
+      <uri>https://github.com/andig</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Improve bar test stability (#4694)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e758798798d65f27079be8369dff44730b3bf686</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e758798798d65f27079be8369dff44730b3bf686"/>
+    <title>
+        Fix scriptable options documentation snippet
+    </title>
+    <updated>2017-08-24T08:31:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix scriptable options documentation snippet&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/872dfec0f3a99bfbf3dbc84e4b07bde1c986e93d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/872dfec0f3a99bfbf3dbc84e4b07bde1c986e93d"/>
+    <title>
+        Introduce scriptable options (bubble chart) (#4671)
+    </title>
+    <updated>2017-08-24T07:34:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Introduce scriptable options (bubble chart) (#4671)
+
+New `options.resolve` helper that determines the final value to use from an array of input values (fallback) and a given context and/or index. For now, only the bubble chart support scriptable options, see documentation for details.
+
+Add scriptable options documentation and update the bubble chart dataset properties table with their scriptable and indexable capabilities and default values. Also move point style description under the element configuration section.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/46c3b2406e32f05041116b162feb9bf1feea00f1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/46c3b2406e32f05041116b162feb9bf1feea00f1"/>
+    <title>
+        Make bar tests independent from scales (#4686)
+    </title>
+    <updated>2017-08-23T21:07:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/184815?s=30&amp;v=4"/>
+    <author>
+      <name>andig</name>
+      <uri>https://github.com/andig</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make bar tests independent from scales (#4686)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5a3de5163ad6e8c9dde28382feb420025dfe0e77</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5a3de5163ad6e8c9dde28382feb420025dfe0e77"/>
+    <title>
+        When a radial scale is rotated using the startAngle option, the tick …
+    </title>
+    <updated>2017-08-21T22:17:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;When a radial scale is rotated using the startAngle option, the tick labels did not appear in the correct places. (#4682)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

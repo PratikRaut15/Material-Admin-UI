@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v1.0.1-beta</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v1.0.1-beta.atom"/>
+  <title>Recent Commits to Chart.js:v1.0.1-beta</title>
+  <updated>2014-07-01T10:02:28Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/641fc022125d1430a738198564d391d35365a597</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/641fc022125d1430a738198564d391d35365a597"/>
+    <title>
+        1.0.1-beta Update for bower/package.json
+    </title>
+    <updated>2014-07-01T10:02:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.0.1-beta Update for bower/package.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a55fdaad57644a66f9b046b299adcce55dcc265c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a55fdaad57644a66f9b046b299adcce55dcc265c"/>
+    <title>
+        Merge pull request #402 from nnnick/fix/point-dot-option
+    </title>
+    <updated>2014-06-30T21:12:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #402 from nnnick/fix/point-dot-option
+
+Fix option for pointDot not being obeyed&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d006558e69c5d04908636ed6ae4710bd4cfb38d4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/d006558e69c5d04908636ed6ae4710bd4cfb38d4"/>
+    <title>
+        Merge pull request #392 from jbrooksuk/doc-update
+    </title>
+    <updated>2014-06-30T21:02:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #392 from jbrooksuk/doc-update
+
+Make javascript JavaScript and Github GitHub&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/29ae3200a75aeec32c3520a85d6a52405ad87c3a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/29ae3200a75aeec32c3520a85d6a52405ad87c3a"/>
+    <title>
+        Default display of chart point to true
+    </title>
+    <updated>2014-06-30T20:54:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Default display of chart point to true&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/38d1b87e1cd193a78298abca0701c308af29e5c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/38d1b87e1cd193a78298abca0701c308af29e5c2"/>
+    <title>
+        Adhere to pointDot option in config
+    </title>
+    <updated>2014-06-30T19:24:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adhere to pointDot option in config
+
+- Added `display` property on Point classes, to determine whether the
+draw sequence should run or not.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e139ab85969c92916639f6fa026740e3cc8dc0ff</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e139ab85969c92916639f6fa026740e3cc8dc0ff"/>
+    <title>
+        Make javascript JavaScript and Github GitHub
+    </title>
+    <updated>2014-06-30T10:50:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/246103?s=30&amp;v=4"/>
+    <author>
+      <name>jbrooksuk</name>
+      <uri>https://github.com/jbrooksuk</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Make javascript JavaScript and Github GitHub&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/28dd492460ebc9f45cad658a409767e6114373f0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/28dd492460ebc9f45cad658a409767e6114373f0"/>
+    <title>
+        Extending chart types docs typo error
+    </title>
+    <updated>2014-06-30T09:04:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Extending chart types docs typo error&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f13f99b7d71ae77b4d98726d2b8613bc46b8b07d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f13f99b7d71ae77b4d98726d2b8613bc46b8b07d"/>
+    <title>
+        Merge pull request #388 from nnnick/v1-dev
+    </title>
+    <updated>2014-06-29T18:18:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #388 from nnnick/v1-dev
+
+Version 1.0.0-beta release&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8533c27031630bc02e2740f1d722fdbdd2bac32e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8533c27031630bc02e2740f1d722fdbdd2bac32e"/>
+    <title>
+        Update readme
+    </title>
+    <updated>2014-06-29T17:37:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0e5f4ec32f5dc98f3da8dff9792f19b425ce1c38</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0e5f4ec32f5dc98f3da8dff9792f19b425ce1c38"/>
+    <title>
+        Bump bower version
+    </title>
+    <updated>2014-06-29T17:37:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump bower version&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e24efd23a2bbd9db6197998f9b8f1ab33d1df6f2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e24efd23a2bbd9db6197998f9b8f1ab33d1df6f2"/>
+    <title>
+        Add build sequence + dev dependencies
+    </title>
+    <updated>2014-06-29T17:37:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add build sequence + dev dependencies&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/10227f852b1f73ef0ceea05c7f4c4d39bda4ccd5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/10227f852b1f73ef0ceea05c7f4c4d39bda4ccd5"/>
+    <title>
+        Add src &amp; built library files
+    </title>
+    <updated>2014-06-29T17:36:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add src &amp;amp; built library files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94f22b656eea00500b6bcaca38293ebbfec276dd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/94f22b656eea00500b6bcaca38293ebbfec276dd"/>
+    <title>
+        Add in new chart samples
+    </title>
+    <updated>2014-06-29T17:36:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add in new chart samples&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dc6d5bc934f582d32abb89abc506738d80e29548</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/dc6d5bc934f582d32abb89abc506738d80e29548"/>
+    <title>
+        Add new docs as markdown files
+    </title>
+    <updated>2014-06-29T17:35:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add new docs as markdown files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a04082dba11ed63adb0a96c093a414cbffd08010</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a04082dba11ed63adb0a96c093a414cbffd08010"/>
+    <title>
+        Remove site from repo
+    </title>
+    <updated>2014-06-29T16:38:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove site from repo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/be2f31a3518b99009782804dc9ed0ad8b9245fc4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/be2f31a3518b99009782804dc9ed0ad8b9245fc4"/>
+    <title>
+        Change to bower.json
+    </title>
+    <updated>2014-06-29T16:35:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change to bower.json&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7d240eee9d6fb4a8bd5700d018c5d32747b6984b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7d240eee9d6fb4a8bd5700d018c5d32747b6984b"/>
+    <title>
+        Update ignored files
+    </title>
+    <updated>2014-06-29T16:34:56Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update ignored files&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8f025f33c08c66991a12f02f908bab156a963aef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/8f025f33c08c66991a12f02f908bab156a963aef"/>
+    <title>
+        Updated ETA
+    </title>
+    <updated>2013-10-16T22:28:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated ETA&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dffb2cd6ee13e9778240e320245c2d338c5e6f8f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/dffb2cd6ee13e9778240e320245c2d338c5e6f8f"/>
+    <title>
+        Update on refactor progress
+    </title>
+    <updated>2013-09-08T23:29:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update on refactor progress&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/58657d65cb139299786072df1692992bcf3610e9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/58657d65cb139299786072df1692992bcf3610e9"/>
+    <title>
+        Quick note about upcoming refactor
+    </title>
+    <updated>2013-07-18T22:58:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1458051?s=30&amp;v=4"/>
+    <author>
+      <name>nnnick</name>
+      <uri>https://github.com/nnnick</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Quick note about upcoming refactor&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

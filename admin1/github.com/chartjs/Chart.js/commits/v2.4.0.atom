@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/chartjs/Chart.js/commits/v2.4.0</id>
+  <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commits/v2.4.0"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/chartjs/Chart.js/commits/v2.4.0.atom"/>
+  <title>Recent Commits to Chart.js:v2.4.0</title>
+  <updated>2016-11-12T17:57:35Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/18291ea3c5c0620f9f1951a0f04b1484940a7492</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/18291ea3c5c0620f9f1951a0f04b1484940a7492"/>
+    <title>
+        Release 2.4.0
+    </title>
+    <updated>2016-11-12T17:57:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/21282473?s=30&amp;v=4"/>
+    <author>
+      <name>chartjs-ci</name>
+      <uri>https://github.com/chartjs-ci</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Release 2.4.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0515700ea24eb442e54a41b1bee6e12876f88cce</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/0515700ea24eb442e54a41b1bee6e12876f88cce"/>
+    <title>
+        Merge pull request #3551 from chartjs/master
+    </title>
+    <updated>2016-11-12T17:53:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3551 from chartjs/master
+
+Version 2.4.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6b449a9e7c56d873edc28b3e2dcf976b2ea27404</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/6b449a9e7c56d873edc28b3e2dcf976b2ea27404"/>
+    <title>
+        Fix retina scale when display size is implicit
+    </title>
+    <updated>2016-11-11T23:10:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix retina scale when display size is implicit
+
+The retinaScale helper now enforces the display size to the correct values because if no style has been set on the canvas, the render size is used as display size, making the chart bigger (or smaller) when deviceAspectRatio is different of 1.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/efced4780ce2697d0d44bf1e32a4e2efebaa18e2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/efced4780ce2697d0d44bf1e32a4e2efebaa18e2"/>
+    <title>
+        Fix context state restoration on destroy
+    </title>
+    <updated>2016-11-08T00:16:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix context state restoration on destroy
+
+In many cases, the canvas render size is changed by the lib, causing the state stack to be discarded, meaning that we can&amp;#39;t use save() and restore() to release the context with its initial state (i.e. before creating the chart). Since we don&amp;#39;t need (want) to manually save / restore the context initial state, simply make sure to reset it to the default state to give a fresh context back to the user. That also means we don&amp;#39;t need to revert the scale when the pixel device ratio is not 1.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/040b0e160da689505e92e056fe4776095804adb1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/040b0e160da689505e92e056fe4776095804adb1"/>
+    <title>
+        Bump version to 2.4.0
+    </title>
+    <updated>2016-11-06T17:31:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump version to 2.4.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/74d4dbc608fc1c4e27b81d97a0f9cc8af82decab</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/74d4dbc608fc1c4e27b81d97a0f9cc8af82decab"/>
+    <title>
+        X and Y interaction modes now use the intersect option
+    </title>
+    <updated>2016-11-05T12:19:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;X and Y interaction modes now use the intersect option&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a94885e32d611723f35393726dac93872e1b1a74</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a94885e32d611723f35393726dac93872e1b1a74"/>
+    <title>
+        Fix the event handler when legend is disabled (#3544)
+    </title>
+    <updated>2016-11-03T21:43:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix the event handler when legend is disabled (#3544)
+
+When legend is disabled (i.e. {options: {legend: false}}), me.legend is null. Add the same test on me.tooltip even if the tooltip object is always created in case of {options: {tooltips: false}}.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5012dcbdaefa7a11a8dfcd9ff264655e9860ee50</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5012dcbdaefa7a11a8dfcd9ff264655e9860ee50"/>
+    <title>
+        Fix iframe resize handler when re-attached to DOM (#3527)
+    </title>
+    <updated>2016-10-31T07:47:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix iframe resize handler when re-attached to DOM (#3527)
+
+When the iframe is attached to the DOM, its content is reloaded (invaliding the resize listener) so make sure to install the handler after the iframe is loaded. Optimize resize events by throttling resize process until the next animation frame. Rewrite the unit test &amp;quot;waitForResize&amp;quot; method, the previous one (timeout) was too weak and most tests was failing on FF.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f288bc727b34873542faea5d50585cb842eb02f9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/f288bc727b34873542faea5d50585cb842eb02f9"/>
+    <title>
+        When an event triggers an update while the bufferedUpdate state is tr…
+    </title>
+    <updated>2016-10-30T21:58:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;When an event triggers an update while the bufferedUpdate state is true, we need to do that render with priority over any other renders that take place for animations and tooltips&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e90edd8c9aaea1f0124f19cfa4105f94f950207e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/e90edd8c9aaea1f0124f19cfa4105f94f950207e"/>
+    <title>
+        Bump ESLint to v3.x (gulp and Code Climate) (#3526)
+    </title>
+    <updated>2016-10-29T16:40:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/3874900?s=30&amp;v=4"/>
+    <author>
+      <name>simonbrunel</name>
+      <uri>https://github.com/simonbrunel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump ESLint to v3.x (gulp and Code Climate) (#3526)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/67934920be6d4005641a19c2a75cce116917a97e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/67934920be6d4005641a19c2a75cce116917a97e"/>
+    <title>
+        Spelling fixes (#3522)
+    </title>
+    <updated>2016-10-27T19:18:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/2119212?s=30&amp;v=4"/>
+    <author>
+      <name>jsoref</name>
+      <uri>https://github.com/jsoref</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Spelling fixes (#3522)
+
+Including: actually, aspect, bottom, changes, characters, datasets, divisible, downward, guidelines, instance, instances, interrupted, item, javascript, label, lifecycle, lines, plugins, manually, milliseconds, nearest, occurring, position, predefined, recalculate, tooltip, those&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7c8998f96adeece76000406ca06ec8bb178392d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/7c8998f96adeece76000406ca06ec8bb178392d7"/>
+    <title>
+        fix &quot;area&quot; typo
+    </title>
+    <updated>2016-10-27T01:23:51Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/3941301?s=30&amp;v=4"/>
+    <author>
+      <name>varatep</name>
+      <uri>https://github.com/varatep</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix &amp;quot;area&amp;quot; typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/295c9db1df858df315f7b58eac4842d689cf64e1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/295c9db1df858df315f7b58eac4842d689cf64e1"/>
+    <title>
+        Fixes issue #3490: Tick documentation is missing autoSkipPadding
+    </title>
+    <updated>2016-10-25T22:28:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/4078738?s=30&amp;v=4"/>
+    <author>
+      <name>bretjb</name>
+      <uri>https://github.com/bretjb</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixes issue #3490: Tick documentation is missing autoSkipPadding
+
+Adding a single line to the docs to document autoSkipPadding.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/99041de31a80af789441a84181953a7282d6c64d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/99041de31a80af789441a84181953a7282d6c64d"/>
+    <title>
+        Update installation instructions in README
+    </title>
+    <updated>2016-10-25T15:04:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/7033952?s=30&amp;v=4"/>
+    <author>
+      <name>panzarino</name>
+      <uri>https://github.com/panzarino</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update installation instructions in README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/80bd08bef9f3447738c8fde4c0d0b436312a2cb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/80bd08bef9f3447738c8fde4c0d0b436312a2cb9"/>
+    <title>
+        Update chartColors.js to utils.js and move randomScalingFactor functi…
+    </title>
+    <updated>2016-10-23T21:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update chartColors.js to utils.js and move randomScalingFactor function there&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/274aa290ca69f38aac5fd1a5fb55cc5043ea5d8c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/274aa290ca69f38aac5fd1a5fb55cc5043ea5d8c"/>
+    <title>
+        Fix bug in &#39;y&#39; tooltip mode
+    </title>
+    <updated>2016-10-23T21:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix bug in &amp;#39;y&amp;#39; tooltip mode&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ad9cd215466e3abb82731f6550d4df80bbc3a84</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/9ad9cd215466e3abb82731f6550d4df80bbc3a84"/>
+    <title>
+        Reorganized sample files into sub directories. Added a helper contain…
+    </title>
+    <updated>2016-10-23T21:33:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reorganized sample files into sub directories. Added a helper containing colours that should be used by all samples.
+
+I added new samples to explain behaviour and modified all samples to have consistent styling. In updating the samples,
+I removed the use of jQuery and instead use standard methods.
+
+For the custom tooltip samples, I updated the styling to show color boxes like the regular tooltips.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5ae268e94236b921d6cc966c580cd4984d5f4f94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/5ae268e94236b921d6cc966c580cd4984d5f4f94"/>
+    <title>
+        Add a way to filter items in the tooltip
+    </title>
+    <updated>2016-10-23T21:33:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a way to filter items in the tooltip&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3bd4d283f758ccac1e3dd378d9157faef4a133bd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/3bd4d283f758ccac1e3dd378d9157faef4a133bd"/>
+    <title>
+        Custom tooltip: add data points infos (#3201)
+    </title>
+    <updated>2016-10-19T13:48:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/164294?s=30&amp;v=4"/>
+    <author>
+      <name>bydooweedoo</name>
+      <uri>https://github.com/bydooweedoo</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Custom tooltip: add data points infos (#3201)
+
+Expose tooltip items from tooltip model and added `x` and `y` properties to `TooltipItemInterface`&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a0388eff4cc38d69872190675bb17d49af841a93</id>
+    <link type="text/html" rel="alternate" href="https://github.com/chartjs/Chart.js/commit/a0388eff4cc38d69872190675bb17d49af841a93"/>
+    <title>
+        Add new properties for the caretX,caretY point of a tooltip. Useful f…
+    </title>
+    <updated>2016-10-19T11:30:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6757853?s=30&amp;v=4"/>
+    <author>
+      <name>etimberg</name>
+      <uri>https://github.com/etimberg</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add new properties for the caretX,caretY point of a tooltip. Useful for custom tooltips.
+The custom tooltip sample was updated as well to use the new properties.&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

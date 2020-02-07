@@ -1,0 +1,11 @@
+diff --git a/book.json b/book.json
+index 487fd095c..8b0f73970 100644
+--- a/book.json
++++ b/book.json
+@@ -1,5 +1,6 @@
+ {
+   "root": "./docs",
++  "title": "Chart.js documentation",
+   "author": "chartjs",
+   "gitbook": "3.2.2",
+   "plugins": ["-lunr", "-search", "search-plus", "anchorjs", "chartjs", "ga"],
